@@ -242,6 +242,27 @@ async def main():
         await wait(A, 'S.credits===205', timeout=80000)
         ok('upload after a change + A picks it up within a minute', True)
 
+        # back at the desk: upload ~3 s after a change
+        await E(B, "home();S.credits+=1;save()"); t0 = await E(B, 'Date.now()')
+        await wait(B, f'SY.lastSync>{t0}', 9000); ok('desk: uploaded within ~3 s', (await E(B, 'SY.lastSync')) - t0 < 7000, (await E(B, 'SY.lastSync')) - t0)
+        # leaving the app: quick upload (no downloads, no branch list), A gets it
+        await sync(A); await sync(B); n0 = len(G.log)
+        await E(A, "S.credits+=7;save()")   # A changed: B must not download it while leaving
+        await E(B, "S.credits+=3;save();Object.defineProperty(document,'hidden',{configurable:true,get:()=>true});Object.defineProperty(document,'visibilityState',{configurable:true,get:()=>'hidden'});document.dispatchEvent(new Event('visibilitychange'))")
+        await wait(B, '!syBusy&&SY.lastSync>Date.now()-4000', 8000)
+        log = G.log[n0:]; bl = [x for x in log if x[1].endswith('/blobs') and x[0] == 'POST']
+        ok('leaving: uploaded', len(bl) >= 1, log)
+        ok('leaving: no downloads, no branch list', not any(m == 'GET' and ('/git/blobs/' in u or 'matching-refs' in u) for m, u in log), log)
+        await E(B, "delete document.hidden;delete document.visibilityState")
+        await sync(A); await sync(B); sa, sb = await state(A), await state(B)
+        ok('after leaving: both 216', sa['cr'] == sb['cr'] == 216, (sa['cr'], sb['cr']))
+        # leaving while a sync is still running: it uploads again right after
+        await E(B, "S.credits+=2;save();syNow(false);S.credits+=2;save();Object.defineProperty(document,'hidden',{configurable:true,get:()=>true});document.dispatchEvent(new Event('visibilitychange'))")
+        await wait(B, '!syBusy&&!syAgain', 8000); await B.wait_for_timeout(1500); await wait(B, '!syBusy', 8000)
+        await E(B, "delete document.hidden"); await sync(A)
+        ok('leaving during a sync: the last change arrived', (await state(A))['cr'] == 220, (await state(A))['cr'])
+        cr_now = 220
+
         # bad token on A → message on the screen, new token
         G.tokens.discard(TOK[0]); await sync(A)
         await open_sync(A); ok('expired token shown', 'expired' in await A.inner_text('#sy-st'))

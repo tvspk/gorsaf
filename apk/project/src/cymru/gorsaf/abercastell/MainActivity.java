@@ -55,7 +55,7 @@ public class MainActivity extends Activity {
     @Override protected void onPause() {
         // Save the game before Android may stop the app in the background (save() skips unchanged data).
         // Hiding the page (web.onPause) also starts the sync upload, so the JS timers stop only ~20 s later.
-        web.evaluateJavascript("try{save()}catch(e){}try{if(window.syMaybe)syMaybe(0)}catch(e){}", null);
+        web.evaluateJavascript("try{save()}catch(e){}try{if(window.syLeave)syLeave()}catch(e){}", null);
         super.onPause(); web.onPause();
         handler.removeCallbacks(pauser);
         handler.postDelayed(pauser, 20000);

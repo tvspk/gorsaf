@@ -131,11 +131,11 @@ untouched (the original app keeps them). Reply in Czech.
   choice). build_en.sh no longer copies icon-en/res (line kept as a comment). Label under the icon is still "Gorsaf Abercastell EN".
   SHA-256 da15375736e42828724819481e475050a489135d3f81a65d8772f301f9c0d4cb. Saved whole on the user's Desktop folder
   "gorsaf 13112026 en s mnemo".**
-  - **Next English APK must be versionCode ≥ 7 (3.8-en = vc 5 has sync, 3.9-en = vc 6, see below)**, signed with signing-en.
+  - **Next English APK must be versionCode ≥ 8 (3.8-en = vc 5 has sync, 3.9-en = vc 6, 3.10-en = vc 7, see below)**, signed with signing-en.
   **SYNC BETWEEN DEVICES (Chat EN-9, 17 Nov 2026). English app 3.8-en (versionCode 5) + web on GitHub Pages.**
   - User decisions: English app only (Czech game untouched: sync is injected only into game-en); phone + tablet + computer
     (web); PUBLIC code repository `tvspk/gorsaf` (game, decks, audio clips, scripts; no keys, no notes for the user);
-    sync on open / on leaving the app / every minute while open / 15 s after a change + button "Sync now"; no background job.
+    sync on open / on leaving the app (quick) / every minute while open / 3 s after a change at the desk (15 s in a round) + button "Sync now"; no background job.
   - Mailbox = PRIVATE repository `tvspk/gorsaf-en-sync` (fine-grained token, only that repository, Contents read+write).
     Protocol as in MemoChat / Zelvi sudoku (skill "synchronizace-pres-github"): `gorsaf-en-sync.json` in main (app
     `GorsafEN`, encrypted check), one branch per device `ge-<12 hex>`, file `state` = AES-256-GCM(gzip(JSON)), HKDF salt
@@ -168,7 +168,13 @@ untouched (the original app keeps them). Reply in Czech.
     after a round.** 
   - **3.9-en (versionCode 6, 17 Nov 2026):** station part `ysgol` in English says "(Good or Easy)" (was Czech "Dobré or
     Snadné"). Fixed only in the derived EN file: `EN_FIX` table in mnemo/make_en.py (Czech game unchanged); the Czech-word
-    check there now also catches Dobré/Snadné/Znovu/Těžk… Next English APK ≥ 7.
+    check there now also catches Dobré/Snadné/Znovu/Těžk….
+  - **3.10-en (versionCode 7, 17 Nov 2026):** on a real phone the first close right after a round did not upload (the app
+    was most likely stopped before the 5–8 requests ended; nothing lost: it uploads at the next start). Now: upload 3 s after
+    a change at the desk (15 s during a round; an earlier deadline is never pushed back; returning to the desk pulls a
+    pending upload in), and on leaving the app a QUICK sync (`syLeave` → `syNow(false,true)`: upload only, no downloads,
+    no branch list once this device has uploaded: 4 requests); leaving while a sync runs → quick upload right after it.
+    MainActivity.onPause calls `syLeave()`. Next English APK ≥ 8.
 ## 00. MNEMO HOOKS: WORK IN PROGRESS (13 Nov 2026), READ THIS FIRST
 The user is adding a section **Mnemo Hooks** to this game: the 899 Czech mnemonic word cards of the claude.ai project
 **"Mnemo Welsh"** (decks `claude/cy-canolradd-01.json` … `-40.json`, made from the same textbook). Reply in Czech.
