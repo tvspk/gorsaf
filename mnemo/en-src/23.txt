@@ -1,0 +1,45 @@
+# deck 23 – Uned 12. See STYLE.md.
+0516|to exhibit, to display|The artist's work is being exhibited in the gallery.|ar + dangos (to show), as in arddangosfa (exhibition).
++pozn=arddangosfa = exhibition (L10); oriel = gallery (L5); own example
+0517|to imprison, to jail|She was jailed for selling drugs (carcharu → [ch]archaru after ei = her; gwerthu → [w]erthu after am).|Latin carcer (prison), as in inCARCERate: locked in a cell.
++pozn=carchar = prison (L13); impersonal carcharwyd (p. 147); sentence based on the exercise on p. 147
+0518|to escape|They saw the thief escaping in a big green car.|"DIE, ANKLE!" (DI-ANC): you twist your ankle jumping the prison wall, but you still escape.
++pozn=irregular stem: dihangodd e/hi = he/she escaped; dianc rhag = to escape from; sentence based on the exercise on p. 147
+0519|to disappear, to vanish|The cat disappeared for three days (tri → [d]ri after am).|The DIVER (DI-FLANN-u) dives and disappears.
++pozn=own example
+0520|to claim|You can claim the money back.|hawl (a right) + -io: to claim what's yours by right.
++pozn=hawl = a right (hawliau dynol = human rights); own example
++s.pozn=north: pres instead of arian (L4)
+0521|to kill|Five people were killed in an accident on the M4 (pobl → [b]obl after o).|A LAD (LLADD) with a rolled-up newspaper – one swat and the wasp is killed.
++pozn=impersonal Lladdwyd pump o bobl (pp. 146–147); sentence based on the table on p. 146 and the exercise on p. 147
+0522|to spread; to widen|The fire is spreading quickly (cyflym → [g]yflym after 'n).|lled = width: lledu = to widen, to spread.
++pozn=lled = width; llydan = wide (L15); own example
+0523|to reduce, to decrease|We must reduce the waste (lleihau → [l]eihau after rhaid i ni).|llai (less) → lleihau = to make less.
++pozn=past tense lleihaodd; llai = less, lleiaf = least; gwastraff = waste (L2); own example
+0524|to continue, to last|The work will continue until Christmas.|para = to last + -hau: to keep going.
++pozn=past tense parhaodd; parhau i + verb = to carry on doing; para = to last (L6); own example
+0525|to plant|We planted two trees either side of the entrance (dwy → [dd]wy as the object; coeden → [g]oeden after dwy; pob → [b]ob as an adverbial; mynedfa → [f]ynedfa after 'r, feminine).|From English plant.
++pozn=planhigyn = a plant; in the book, impersonal: lle plannwyd dwy goeden… (p. 149)
+0526|to warn|The police warned people not to travel (pobl → [b]obl as the object; peidio → [b]eidio after i; teithio → [th]eithio after â).|rhybudd (warning) + -io.
++pozn=rhybudd = warning (L9); own example
+0527|to shoot|The lion was shot.|saeth (arrow) → saethu.
++pozn=saeth = arrow; saethu ffilm = to shoot a film; impersonal Saethwyd y llew; sentence from the exercise on p. 148
+0528|to heat (up), to warm (up)|Will you heat up the soup for me? (twymo → [d]wymo as the object after wnei di)|'TWO MOre (TWY-MO) minutes in the microwave.' twym = warm.
++pozn=twym = warm (south); cynhesu (L2) = the same, usual in the north; own example
++s.exc=Will you heat up the soup for me? (cynhesu → [g]ynhesu as the object after wnei di)
++s.pozn=north: cynhesu instead of twymo (outside the coursebook; cynhesu L2, twymo L12); i mi instead of i fi (outside the coursebook)
+0529|to face|The company is facing big problems.|wyneb (face) → wynebu = to face up to something.
++pozn=own example
+0530|small, little|Every baby got a small soft toy (tegan → [d]egan as the object).|bach (small) → bychan: small and a bit literary.
++pozn=the book gives bach as a synonym; bychan sounds more literary or affectionate; the feminine form and the plural are outside the coursebook; sentence based on the papur bro, p. 149
+0531|lively|Everyone will remember his lively performances (perfformiadau → [b]erfformiadau after ei = his).|byw (to live, alive) + -iog.
++pozn=sentence based on the papur bro, p. 149 (written style; in speech with the echoing pronoun: ei berfformiadau bywiog e)
+0532|equal; level (score), drawn|The score was level at half-time (cyfartal → [g]yfartal after yn).|The TALLY (cyf-AR-TAL) is equal: the score is level.
++pozn=gêm gyfartal = a draw (arall L12); own example
+0533|electronic|She pays for everything electronically now (popeth → [b]opeth after am).|From English electronic.
++pozn=the ending -ig often makes adjectives, also in borrowed words (plastig); others: Cymreig, Gwyddelig, pwysig, siomedig, unig (note on p. 145); own example
++s.pozn=north: rŵan instead of nawr (L12)
+0534|guilty|I feel guilty.|The guilty one can't look you in the EYE (EU-og).
++pozn=euogrwydd = guilt; dieuog = innocent; own example
+0535|oral, spoken|The course concentrates on the spoken language (llafar → [l]afar after the feminine iaith).|Words pour out like LAVA (LLAF-ar) when you speak.
++pozn=iaith lafar = spoken language (table on p. 146); arholiad llafar = oral exam; Llwybrau Llafar = audio guide at St Fagans (p. 151); llefarydd = spokesperson (L11); own example

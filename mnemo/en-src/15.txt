@@ -1,0 +1,54 @@
+# deck 15 – Uned 8 (continued). See STYLE.md.
+0308|to hold (on to), to grip|I have to hold on tight to my stick to walk (cydio → [g]ydio after i fi; tynn → [d]ynn after yn).|A KID (CYD-io) grips your hand and holds on tight.
++pozn=pattern cydio yn + object; the preposition yn causes nasal mutation (cydio ym mraich); sentence from the dialogue (p. 96)
++s.exc=I have to hold on tight to my stick to walk.
++s.pozn=north: i mi instead of i fi (outside the coursebook)
+0309|to find|Excuse me, I'm trying to find the hospital.|
++kmen=irregular (dod): des i o hyd i…, dewch o hyd i…
++pozn=soft mutation after i (dod o hyd i Gaerdydd); synonyms ffeindio, cael hyd i (L12); sentence from the dialogue (p. 96)
+0310|to stink, to smell bad|This cheese stinks!|ANDREW'S (an-DREW-I) old football socks stink the whole house out.
++pozn=drewllyd = smelly; own example
+0311|to press, to squeeze, to squash|Press the button to get a coffee (cael → [g]ael after i).|gwasg = press: gwasgu = to press, to squeeze.
++pozn=based on the video at the coffee machine (p. 94); gwasg (L15) = a press, printing press; waist
+0312|to stand|Who's standing next to Dafydd? – Efa is standing next to him (pwys → [b]wys after ar).|Stand still and SAVE (SEF-yll) your energy.
++pozn=sefyll arholiad = to sit an exam; colloquially also sefes i; sentence from the drill (p. 93)
+0313|to stretch|Before running I always stretch my legs (coesau → [ngh]oesau after fy).|estyn = to reach, to stretch (as in estyniad, extension): ym- + estyn = to stretch yourself.
++pozn=Adolygu ac Ymestyn (name of the revision units) = revising and extending; own example
+0314|to shake|Shake the milk bottle before opening it (potel → [b]otel after y; llaeth → [l]aeth after the feminine potel).|Shake the bottle well and it IS GOOD (YS-GWYD).
++pozn=ysgwyd llaw = to shake hands; in the south colloquially often siglo (L11); own example
++s.exc=Shake the milk bottle before opening it (llefrith → [l]efrith).
++s.pozn=north: llefrith instead of llaeth (L8, Y De a'r Gogledd)
+0315|unfortunate|Unfortunately, I can't say the same about myself!|an- (un-) + ffodus (fortunate).
++pozn=yn anffodus = unfortunately; sentence from the letter (p. 101)
++s.pozn=north: medru instead of gallu (L7), deud instead of dweud (outside the coursebook)
+0316|double|I'd like a double room, please (dwbl → [dd]wbl after the feminine ystafell).|From English DOUBLE.
++pozn=own example
+0317|bilingual|The car doesn't have to be bilingual! (dwyieithog → [dd]wyieithog after yn; bod → [f]od after i)|dwy (two) + iaith (language) + -og.
++pozn=sentence from p. 94
+0318|salty|The gravy is too salty.|HALT! Stop eating – it's far too salty!
++pozn=halen = salt; dŵr hallt = salt water; own example
+0319|odd, strange|What an odd thing! (peth → [b]eth after the exclamatory am)|Same as English ODD.
++pozn=rhyfedd (L3) = synonym; own example
+0320|tight; firm; tense|These jeans are too tight (tynn → [d]ynn after rhy).|A lid on a TIN (TYNN) so tight you can't open it.
++pozn=the coursebook writes tyn(n); yn dynn = tightly, firmly (gafael yn dynn); own example
+0321|outpatients' department|I've got an appointment in the outpatients' department at three o'clock.|adran (department) + cleifion (patients) + allanol (outer): the department for patients from outside, behind a bright red door.
++pozn=in the Geirfa in the arall box; feminine, like adran; pl. adrannau cleifion allanol (outside the coursebook); sentence from the dialogue (p. 96)
++s.pozn=north: Mae gen i instead of Mae … gyda fi (L6)
+0322|at the time|I was living in Swansea at the time.|pryd = time (Pryd? = When?).
++pozn=cyfieithu ar y pryd = simultaneous interpreting; own example
+0323|although, even though|Although it was raining, we went for a walk.|ER… although I'm tired, er, I'll still go.
++pozn=er + a bod clause (er fy mod i…, er ei fod e…); er + a time = since (er 1990); own example
+0324|always|She's always late.|gwastad = flat, level: life on the flat is always the same – wastad = always.
++pozn=from (yn) wastad, the mutation is fixed; synonym bob amser; own example
+0325|especially|I like spicy food, especially curry.|I love cake, especially at ANY WEDDING (EN-WED-ig).
++pozn=own example
+0326|soon|I look forward to hearing from you soon (buan → [f]uan after yn; clywed → [g]lywed after at).|'BE ON (BU-AN) time – see you soon!'
++pozn=end of a letter (p. 100)
+0327|to hold on tight|She was holding on tight to the ladder (tynn → [d]ynn after yn).|gafael (to grip) + yn dynn (tight; tynn → dynn after yn).
++pozn=phrase from Robin Radio (p. 100); gafael = cydio
+0328|on top of, on|The ladder fell on my head (pen → [mh]en after fy).|pen = head, top; ar ben = on the head, on top.
++pozn=declined the same way as ar bwys (Help llaw p. 102); ar ben fy hun = on my own; phrase from Robin Radio (p. 100), the sentence is my own
++s.exc=The ladder fell on my head.
++s.pozn=north: syrthio instead of cwympo (L14)
+0329|and to make things worse|I missed the bus, and to make things worse, it started to rain (gwaeth → [w]aeth after yn; bwrw → [f]wrw).|
++pozn=phrase from Robin Radio (p. 100); gwaeth = worse (drwg → gwaeth)

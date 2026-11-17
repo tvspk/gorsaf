@@ -1,0 +1,68 @@
+# deck 20 – Uned 11. See STYLE.md.
+0432|easy chair, armchair|The easy chair is by the fireplace (cadair → [g]adair after y, feminine).|cadair (chair) + esmwyth (comfy, smooth): a red easy chair pulled up to the glowing embers.
++pozn=plural outside the coursebook; the describing word starts with a vowel, so it doesn't mutate; own example
+0433|understanding|Thank you for your understanding.|deall (to understand) + -iaeth: the penny drops and a red bulb flashes on in your head.
++pozn=deallus = intelligent (L13); own example
+0434|debt|The debt was paid (dyled → [dd]yled after y, feminine; talu → [th]alu after ei = her, because dyled is feminine).|In debt: the LED (dy-LED) display shows your bank account glowing in the red.
++pozn=mewn dyled = in debt; sentence based on the exercise on p. 134 (y dyled + talu)
+0435|flame|Flames were coming out of the factory windows.|From English FLAME: red flames licking up from a bonfire.
++pozn=Y Fflamau = name of a band in Robin Radio (p. 142); own example based on the news item on p. 140
+0436|lip|She cut her lip in the game (literally: her lip was cut; torri → [th]orri after ei, because gwefus is feminine).|Lips hidden in a GUY'S FUZZ (GWE-FUS) of beard, smeared with strawberry jam.
++pozn=gwefus goch = red lip (Robin Radio, p. 142; coch → [g]och after the feminine gwefus); own example
+0437|politics|I'm not interested in politics anyway!|gwlad (country) → gwleidydd (politician) + -iaeth: red banners waving at an election rally.
++pozn=gwleidydd = politician (L20); sentence from the dialogue on p. 137
++s.exc=I'm not interested in politics anyway! (dim → [dd]im after gen i)
++s.pozn=north: Does gen i ddim instead of Does dim … gyda fi (L6)
+0438|medicine, medication; medicine (the science)|It's hard to get food and medicine to many areas.|meddyg (doctor) + -iniaeth: what the doctor gives you – a box with a red cross on it.
++pozn=sentence from the news on p. 140
+0439|injury|The player got a serious injury in the game.|anafu (to injure) without the -u: an injured knee under a freezing ice pack.
++pozn=anafu = to injure (L4); p. 133: ces i fy anafu yn y gêm ddiwetha; own example
+0440|cap|Put your cap on, it's cold! (cap → [g]ap after dy)|From English cap: a blue woolly cap pulled down against the sleet.
++pozn=in sport also an international appearance: ennill cap dros Gymru; own example
+0441|knot|The knot was tied (clymu → [g]lymu after ei = its).|COOL 'EM (CWL-WM) down: two ropes frozen solid into a knot.
++pozn=plural clymau = the same root as clymu (to tie); cwlwm tafod = tongue-twister; sentence based on the exercise on p. 134 (y cwlwm + clymu)
+0442|mirror|There's a big mirror on the wall in the hall.|You look (eDRYCH) into the mirror (DRYCH): glass as smooth as a sheet of blue ice.
++pozn=own example
+0443|extension (to a building); extension (of time, phone)|An extension was built at the back of the house (cefn → [g]efn after ar).|estyn (to stretch, to reach) + -iad: the house stretches out – a new extension, white and cold as an ice palace.
++pozn=ymestyn = to stretch (L8); also an extension of a deadline or a phone extension; own example
+0444|refugee|The refugees are learning Welsh in a special class.|ffoi (to flee) + -adur: someone who has fled – across a frozen border at night.
++rod_pozn=grammatically masculine even for a woman
++pozn=based on the video Dosbarth Cymraeg i Ffoaduriaid (pp. 136–141), own sentence
+0445|spokesperson, spokesman|More people than ever have booked seaside hotels, said a spokesperson for the Tourist Board (pobl → [b]obl after o).|llefaru (to utter, to speak) + -ydd: the one who speaks – breath steaming in the freezing air.
++rod_pozn=grammatically masculine even for a woman
++pozn=llafar = spoken (L12); sentence from the news on p. 140, adapted
+0446|thief|The thief was arrested.|The thief climbs a LADDER (LLEIDR) to the window, in a blue balaclava.
++pozn=from Latin latro; lladrad = burglary (L14); dwyn = to steal; own example
+0447|flood; flow, current|Many people have lost their homes in floods.|Autumn LEAVES (LLIF) swept away on an ice-cold flood.
++pozn=usually in the plural llifogydd; llifo = to flow (L15), gorlifo = to overflow; sentence based on the news item on p. 140
+0448|smoke|The fire has been put out by now, but thick black smoke is still coming from the factory (diffodd → [dd]iffodd after ei = its).|Like English MUG: blue smoke curling up from a mug of tea outside on a freezing morning.
++pozn=ysmygu = to smoke; mwgwd (L9) only as a memory aid; sentence from the news on p. 140
+0449|pattern|Follow the pattern.|From English pattern: the pattern on a snowflake.
++pozn=a pattern in an exercise and a pattern on fabric; sentence from p. 134
+0450|danger|The fishermen's lives were in danger.|Like English PERIL (both from Latin periculum): danger – an avalanche thundering down the slope.
++pozn=mewn perygl = in danger; peryglus = dangerous; own example
+0451|fisherman|The fishermen were rescued by the lifeboat (achub → [h]achub after eu).|pysgod (fish) + -wr (the one who does it): a fisherman fishing through a hole in the ice.
++pozn=h after eu before a vowel: Help llaw, p. 142; bad achub (L4); own example
+0452|cyclist|The cyclist Geraint Jones is really looking forward to the Olympic Games in two months' time (mis → [f]is after dau; mawr → [f]awr after yn).|English cycle + -wr: a cyclist pedalling hard through the sleet.
++rod_pozn=grammatically masculine even for a woman
++pozn=synonym beiciwr (L20, separate card); sentence from the news on p. 140 (ymlaen added)
+0453|square (in a town); square (shape)|The market is on the square every Saturday (marchnad → [f]archnad after y, feminine).|From English square: a Christmas ice rink in the town square.
++pozn=also an adjective: square; own example
+0454|land; ground|Too much farmland will be lost (tir → [d]ir after o; colli → [g]olli after ei = its).|TIR ~ Latin TERRA: land – here, the frozen tundra.
++pozn=tir ffermio = farmland; sentence from the dialogue on p. 137
+0455|second-hand|I've got a second-hand car.|ail (second) + llaw (hand) = literally "second-hand", just like English.
++pozn=llaw → law after ail; the adjective doesn't change any further; own example
++s.exc=I've got a second-hand car (car → [g]ar after gen i).
++s.pozn=north: Mae gen i instead of Mae … gyda fi (L6)
+0456|round|There's a round window in the church (feminine form cron, soft-mutated after the feminine ffenest: crwn → [g]ron).|Sounds like CROWN: a crown is round.
++pozn=own example
+0457|smooth; comfortable, restful|Everything went smoothly.|esMWYTH sounds like SMOOTH.
++pozn=own example
+0458|oval|There's an oval mirror in the bathroom.|hir (long) + crwn (round) = long-round: oval.
++pozn=crwn → grwn in the compound; the feminine form is outside the coursebook; own example
+0459|rectangular; rectangle|The room is rectangular (petryal → [b]etryal after yn).|Reminds you of pedwar (four): the four corners of a rectangle.
++pozn=the book lists it among the adjectives, but it also means a rectangle; own example
+0460|spotty, spotted, polka-dot|She was wearing a spotty dress.|SPOT → smot + -iog: spotty.
++pozn=smotyn = spot, dot; s- does not mutate after the feminine ffrog; own example
+0461|striped, stripy|Dafydd put on a striped shirt (crys → [g]rys as the object after the verb form).|English stripe + -iog.
++pozn=streipen = stripe; own example

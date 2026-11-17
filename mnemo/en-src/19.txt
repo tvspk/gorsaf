@@ -1,0 +1,54 @@
+# deck 19 – Uned 10 (continued). See STYLE.md.
+0408|to remind|Oh, you should have reminded me (bod → [f]od after dylet ti).|at + cof (memory): putting something back into the memory.
++pozn=atgoffa rhywun am / o rywbeth = to remind someone of something (soft mutation after am and o); sentence from the dialogue on p. 120
+0409|to communicate|We must communicate better (cyfathrebu → [g]yfathrebu after i).|
++pozn=the book's definition: cysylltu trwy ysgrifennu neu siarad (p. 127); own example
+0410|to mean; to edit|What does this word mean? (golygu → [o]lygu after ei, the g drops)|golwg (sight, view): an editor looks over the text – what does it mean?
++pozn=golygydd = editor, golygfa = view; ddim yn golygu dim byd = to mean nothing at all (p. 128); own example
++s.pozn=north: Be instead of Beth (L9)
+0411|to knit|I'd like to learn how to knit (dysgu → [dd]ysgu after hoffwn i; gwau → [w]au after i).|A GUY (GWAU) knitting himself a woolly scarf.
++pozn=the stem is gwe- (gweais, gweodd); in speech often avoided with gwneud (Wnes i wau…); Clwb Gwau Cymraeg (Robin Radio, p. 130); own example
++ov=0
+0412|to snorkel|We went snorkelling in Pembrokeshire.|From English snorkel.
++pozn=from p. 126 (Siaradwch), own sentence
+0413|to go rafting|We went white-water rafting on the River Tryweryn.|From English raft.
++pozn=rafftio dŵr gwyn = white-water rafting (p. 126); own sentence
+0414|to prevent, to stop|She wanted to stop them again.|A ROOSTER (RHWYS-tro) stands in the road and stops the traffic.
++pozn=rhwystr = obstacle; the book's definition: stopio (p. 127); sentence from the story on p. 128
++s.pozn=north: isio instead of eisiau (L10)
+0415|to appear; to seem|It seems there's a problem with the application form.|ym- + dangos (to show): to show yourself.
++pozn=mae'n ymddangos bod… = it seems that…; sentence from the dialogue on p. 120
++s.pozn=north: efo instead of gyda (L2)
+0416|creative|She's very creative (creadigol → [g]readigol after 'n).|creu (to create) + -adigol.
++pozn=creu = to create (L2); own example
+0417|social; sociable|Would you say you're a sociable person? (person → [b]erson after 'n)|cymdeithas (society) + -ol.
++pozn=cymdeithas = society, association (L1); sentence from p. 126
+0418|serious|It was a serious accident (damwain → [dd]amwain after 'n; difrifol → [dd]ifrifol after the feminine damwain).|o ddifri = seriously: difrifol = serious.
++pozn=o ddifri = seriously (L14); sentence from p. 119
+0419|beautiful|Ann was a very beautiful girl (merch → [f]erch after yn).|A HEARTH (HARDD) with a crackling fire: what a beautiful sight on a winter's night.
++pozn=harddwch = beauty; the book's definition: pert iawn (p. 127); own sentence based on the story on p. 128
+0420|detailed|Read the instructions in detail (manwl → [f]anwl after 'n).|MANWL ~ MANUAL: a thick, detailed manual.
++pozn=yn fanwl = in detail; manylion = details; own example
+0421|soft|The bed is very soft (meddal → [f]eddal after 'n).|A chocolate MEDAL (MEDDAL) gone soft in your hot hand.
++pozn=opposite caled = hard; meddalu = to soften; own example
+0422|professional|They work as professional musicians.|From English professional.
++pozn=sentence from the article on p. 122
+0423|talkative, chatty|We're a chatty bunch (criw → [g]riw after 'n).|siarad (to talk) + -us.
++pozn=phrase from Robin Radio (p. 130)
+0424|thick|I shouldn't have worn such a thick suit! (trwchus → [d]rwchus after mor)|Thick fog swallows a whole TRUCK (TRWCH-us).
++pozn=trwch = thickness; of cloth, hair, fog; sentence from the dialogue on p. 120
+0425|fresh air|I'm going out to get some fresh air (cael → [g]ael after i).|awyr (air) + iach (healthy): healthy air that gives you rosy red cheeks.
++pozn=in the Geirfa in the arall box; feminine, like awyr (L4); own example
++s.pozn=north: allan instead of mas (L3)
+0426|New York|They're going to stay a few days to enjoy New York (mwynhau → [f]wynhau after i).|Efrog = York.
++pozn=sentence from the article on p. 122, adapted
+0427|around|We walked around the lake.|am + cylch (circle): all the way round in a circle.
++pozn=synonym o gwmpas (L2), more usual in southern speech; o amgylch is more literary; own example
+0428|named, called|Wil wrote a song for Ann called 'Bugeilio'r Gwenith Gwyn' (cân → [g]ân as the object after the subject).|enw = name: o'r enw = 'of the name'.
++pozn=sentence from the story on p. 128
+0429|the majority, most (of)|I understood most of it.|rhan (part) + mwya (biggest): the biggest part; mwya → fwya after the feminine rhan.
++pozn=standard form y rhan fwyaf; y rhan fwya o'r bobl = most people; sentence from p. 124 (colloquial form)
+0430|What kind of toys?|What kind of books do you like reading? (llyfrau → [l]yfrau after o)|
++pozn=pa → soft mutation (math → fath); soft mutation after o (teganau → deganau); phrase from Robin Radio (p. 130), own example
+0431|intensive care|She was in the intensive care unit for a week.|gofal (care) + dwys (intense): intensive care, under cold blue lights.
++pozn=gender as gofal (L7); dwys = intensive (L14); phrase from Robin Radio (p. 130), own example

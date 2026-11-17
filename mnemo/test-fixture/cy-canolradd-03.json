@@ -1,0 +1,4 @@
+{"zdroj":"Dysgu Cymraeg Canolradd (De), Uned 2, s. 14–23","_pozn":"TESTOVACÍ VÝŘEZ, nahradit plným balíčkem z projektu","karty":[
+{"id":"cy-canolradd-0071","tema":"obecné","slovo":"ar ddihun","cs":"vzhůru (nespící)","en":"awake","slovni_druh":"ostatni","frekvence":2,"priklad":"Mae'r babi ar ddihun eto.","priklad_cs":"Miminko je zase vzhůru.","mnemo":"","rodina":["dihuno"],"extra":{},"varianty":{"sever":{"slovo":"effro","priklad":"Mae'r babi'n effro eto.","priklad_cs":"Miminko je zase vzhůru.","pozn":"sever: effro (test)"}},"vyrazeno":false,"overit":true},
+{"id":"cy-canolradd-0032","tema":"obecné","slovo":"rheol","cs":"pravidlo","en":"rule","slovni_druh":"podstatne_jmeno","frekvence":2,"priklad":"Dw i byth yn dilyn rheolau.","priklad_cs":"Nikdy nedodržuji pravidla.","mnemo":"test","rodina":[],"extra":{"rod":"f","plural":"rheolau"},"vyrazeno":false,"overit":false}
+]}

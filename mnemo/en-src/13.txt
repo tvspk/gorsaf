@@ -1,0 +1,59 @@
+# deck 13 – Uned 7 (continued). See STYLE.md.
+0264|to adapt, to alter|We asked Menter Cymru for money to adapt buildings (Menter → [F]enter after gan).|addas = suitable: addasu = to make something suitable.
++s.exc=We asked Menter Cymru for money to adapt buildings (pres → [b]res after am).
++s.pozn=north: pres instead of arian (L4)
+0265|to kick|There's no energy in your game. You didn't even kick the ball! (pêl → [b]êl after the article y, feminine)|Straight from English: kick → cicio.
++pozn=sentence switched to the polite chi form throughout; check against the coursebook pp. 76–85
+0266|to frighten, to scare (someone)|The giant frightens the children of the village (plant → [b]lant after ar).|Literally "to raise fear on" someone.
++pozn=the mutation comes from ar: codi ofn ar blant; own example
+0267|to employ|The women hope they'll employ another person in the future.|cyflog (wage): cyflogi = to pay someone a wage, to employ.
+0268|to contribute (to)|I contribute to the local community paper every month (papur → [b]apur after at).|cy- + rhan (part, share): to put in your share.
++pozn=the mutation comes from at; papur bro = a Welsh local community monthly; own example
+0269|to put, to place; to set, to lay (a table)|I laid the table before the guests arrived (cyrraedd → [g]yrraedd after the subject in the cyn i… construction).|dannedd gosod = teeth that are set in (dentures); llyfr gosod = a set book.
++pozn=own example; dannedd gosod (L6) = "fitted" teeth
+0270|to deny|I can't deny that. But I'm in a hurry.|The GUARD (GWAD-u) denies everything: "Nobody got past me!"
++s.pozn=north: medru instead of gallu (L7)
+0271|to nurse (as a nurse)|Did you do the nursing course? No, I didn't do the nursing course (gwneud → [w]nes; ddim o'r → mo'r).|nyrs (nurse) + -io.
+0272|to belong|Who does this book belong to? (pwy → [b]wy after i)|perthynas (relative): your relatives belong to you.
++pozn=perthyn i = to belong to someone; own example
+0273|dirty|They deny that dirty water will be a health problem (problem → [b]roblem after yn).|A muddy puddle: you take the BRUNT (BRWNT) of the dirty splash.
++pozn=in the south also "cruel, rough"
++s.exc=They deny that dirty water will be a health problem.
++s.pozn=north: budr instead of brwnt (Geirfa L7)
+0274|successful|The cat and dog boarding kennels have been very successful (cŵn → [ch]ŵn after a).|llwyddiant (success) + -us (adjective ending).
++pozn=own example based on the article on p. 86
+0275|adventurous, enterprising|Good luck to Del, Jan, Helen and Lynette – four enterprising and successful women! (mentrus → [f]entrus after the feminine merch)|mentro (to venture, to dare) + -us (adjective ending).
++pozn=after a (and) only c, p, t change (aspirate mutation), so llwyddiannus stays unmutated: a llwyddiannus
++ov=0
+0276|romantic|How about writing a romantic poem? (cerdd → [g]erdd after un, feminine; rhamantus → [r]amantus after the feminine cerdd)|rhamant (romance) + -us: romantic.
++s.exc=How about writing a romantic poem?
++s.pozn=north: Be instead of Beth (L9), sgwennu instead of ysgrifennu (outside the coursebook)
+0277|in a hurry|I'm in a hurry. I've got an important meeting and I'm late (brys → [f]rys after ar).|brys = hurry; ar frys = "on hurry".
++s.exc=I'm in a hurry. I've got an important meeting and I'm late.
++s.pozn=north: Mae gen i instead of Mae … gyda fi (L6), soft mutation after gen: cyfarfod → [g]yfarfod
+0278|to come to an end, to finish|They deny the group will come to an end (pen → [b]en after i).|pen = head, end: coming to the end.
+0279|front door|I left the parcel by the front door.|drws (door) + ffrynt (front, from English).
++pozn=in the Geirfa in the arall box; as a noun it is masculine (like drws), pl. drysau ffrynt (outside the coursebook); own example
+0280|to have your say|Come to the meeting to have your say! (dweud → [dd]weud after i)|Literally "to say your saying".
++pozn=the possessive changes: dweud fy nweud, dweud ei ddweud, dweud ei dweud; own example
++s.exc=Come to the meeting to have your say! (deud → [dd]eud after i)
++s.pozn=north: deud instead of dweud (outside the coursebook)
+0281|better late than never|I'm late, sorry! – Better late than never!|Literally "better late than later".
++pozn=in the coursebook (p. 83) the police officer says it ironically: better to arrive late than not at all
+0282|in fact, actually|Actually, I didn't like the film.|Literally "in truth".
++pozn=own example
+0283|if it weren't for, but for|If it weren't for you, I wouldn't have succeeded.|oni bai = were it not: if it weren't for (am) you.
++pozn=own example
+0284|per cent|Over ten per cent of the people are unemployed (deg → [dd]eg after dros; pobl → [b]obl after y, feminine).|cant = hundred: "of the hundred" – exactly like per cent.
++pozn=the number comes first: deg y cant = 10%
+0285|against|Then my car went into a wall (car → [ngh]ar after fy).|ERB-yn ~ HER BIN: I bumped against her bin.
+0286|in fancy dress|Robin was in fancy dress in the photo.|gwisg (dress, costume) + ffansi (fancy, from English).
++pozn=Robin Radio, p. 87
+0287|It's a very good picture.|Did you see the photo of me? It's a very good picture (gweld → [w]elaist).|
++pozn=Robin Radio, p. 87
++s.exc=Did you see the photo of me? It's a very good picture.
++s.pozn=north: o instead of e (L1)
+0288|I refused.|They asked me to dress up as a rabbit, but I refused (gwisgo → [w]isgo after i fi).|
++pozn=past tense of gwrthod (to refuse); Robin Radio, p. 87; own sentence
++s.exc=They asked me to dress up as a rabbit, but I refused (gwisgo → [w]isgo after i mi).
++s.pozn=north: i mi instead of i fi (outside the coursebook)

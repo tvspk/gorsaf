@@ -1,0 +1,50 @@
+# deck 35 – Uned 18. See STYLE.md.
+0769|order (in a shop, restaurant)|This is a very big order (mawr → [f]awr after the feminine archeb; hon = this, feminine).|An ARCHer (ARCH-eb) places an order for arrows, written in ketchup.
++pozn=archebu = to order, to book (outside the coursebook); hon/honna with feminine nouns (Help llaw, p. 239); own example
+0770|cross|Put a cross in the right box (croes → [g]roes as the object).|Y Groes Goch = the Red Cross: a cross made of red poppies.
++pozn=croesi = to cross (L2), croesffordd = crossroads (L8), croesair = crossword (outside the coursebook); own example
+0771|spoonful|Two spoonfuls of sugar in the tea, please (dwy = feminine form of dau → [dd]wy as the object after rhowch; llwyaid → [l]wyaid after dwy).|llwy (spoon) + -aid (full of): a spoon heaped with fiery chilli.
++pozn=-aid = "full of X" (likewise basgedaid = a basketful, outside the coursebook); llwy garu (L17); own example
+0772|British woman, Briton (woman)|She's British, but she lives in France (Prydeinwraig → [B]rydeinwraig after yn).|Prydain (Britain) + gwraig (woman): a British woman stepping out of a red phone box.
++pozn=Geirfa: gwraig o Brydain; the book gives no plural; Prydeinig = British (outside the coursebook); own example
+0773|smell|There's a lovely smell coming from the kitchen (cegin → [g]egin after 'r, feminine).|AROma → AROGL: the icy smell of peppermint.
++pozn=arogli = to smell (L9); own example
+0774|hero|Maybe you'll be the hero with your new bat (bat → [f]at after dy).|A WARRIOR (AR-WR) in frost-covered armour.
++pozn=arwres = heroine, arwrol = heroic (outside the coursebook); sentence from the dialogue Yn y siop chwaraeon, p. 234
++s.pozn=north: mai instead of taw (L14), efo instead of gyda (L2)
+0775|bat (cricket, baseball)|I must buy a new bat. This one is rather heavy (prynu → [b]rynu after fi; trwm → [d]rwm after yn; hwn, because bat is masculine).|From English BAT: a cricket bat left out overnight, white with frost.
++pozn=sentence from the dialogue Yn y siop chwaraeon, p. 234 (shortened)
+0776|bomb|Get out! There's a bomb in the building!|From English BOMB: a snowball 'bomb' lobbed over the garden wall.
++pozn=own example
++s.pozn=north: dos! instead of cer! (L18), allan instead of mas (L3)
+0777|permission|You need my permission (caniatâd → [ngh]aniatâd after fy, nasal mutation).|"CAN I, DAD? (CANIATÂD)" – and Dad's answer is as frosty as a winter morning.
++pozn=caniatáu = to allow (outside the coursebook); asking for permission: Gaf i…? – Cei./Na chei. (p. 236); sentence from the dialogue Rhoi a gwrthod caniatâd, p. 236
+0778|catalogue|The coat is in the catalogue on page ten (côt → [g]ôt after 'r, feminine; tudalen → [d]udalen after ar).|From English CATALOGUE: a winter catalogue full of blue ski jackets.
++pozn=own example
+0779|foam, froth|I like cappuccino with lots of froth.|e-WYN sounds like gwyn (white): white foam on an Arctic wave.
++pozn=also sea foam, the head on a beer; cappuccino in the dialogue, p. 234; own example
++s.pozn=north: efo instead of gyda (L2)
+0780|reduction, discount|There's a ten per cent discount on everything today (deg → [dd]eg after o; popeth → [b]opeth after ar).|gostwng (to lower) + -iad: prices dropping like the thermometer in a cold snap.
++pozn=gostwng = to lower, to reduce (outside the coursebook); synonym lleihau = to reduce, to decrease (L12); ...y cant (L7); own example
+0781|strength|Weightlifting takes a fair bit of strength! (tipyn → [d]ipyn after am)|NERves of steel and the strength of a polar bear (NERth).
++pozn=nerthol = powerful; rhedeg nerth ei draed = to run as fast as his legs would carry him (both outside the coursebook); synonyms cryf (adj.), pŵer; sentence based on the dialogue, p. 234
+0782|British person, Briton|Lots of British people live in Spain (Prydeinwyr → [B]rydeinwyr after o).|Prydain (Britain) + -wr (man): a Brit in a bowler hat on a ski lift.
++pozn=Geirfa: pobl o Brydain; in the book: y Prydeinwyr sy'n byw yn Nigeria (listening, p. 237); own example
+0783|storehouse, storeroom|The food is kept in the storeroom behind the shop (cadw → [g]adw after ei = its; passive with cael, L11).|stôr (store) + tŷ (house): a house of stores with a huge chest freezer inside.
++pozn=-dy/-dai from tŷ/tai, as in gweithdy (L3), goleudy (L16); own example
+0784|lead (for a dog)|Keep your dog on a lead in the park (tennyn → [d]ennyn after ar).|A husky's lead, TENsed (TENN-yn) and frozen stiff in the snow.
++pozn=the book gives no plural; own example
+0785|to advise|The doctor has advised me to avoid sugar (cynghori → [ngh]ynghori after fy, nasal mutation).|cyngor = advice.
++pozn=cyngor = advice (L9), cynghorydd = councillor (L2); own example
+0786|to explode|The bomb exploded at three in the morning (tri → [d]ri after am).|FFRRR-WYD! The sound of the explosion.
++pozn=ffrwydrad = explosion (outside the coursebook); own example
+0787|to avoid|I try to avoid the main road in the morning (mawr → [f]awr after the feminine ffordd).|'OSCAR, GO (OS-GOI) round the puddle – avoid it!'
++pozn=osgoi + direct object (no preposition); own example
+0788|to point|Point at them while you speak.|From English POINT (PWYNT-io).
++pozn=used with at (+ soft mutation); forms ata i, atat ti, ato fe, ati hi, aton ni, atoch chi, atyn nhw; sentence from the exercise Disgrifio pobl, p. 233
+0789|to roast|I'm going to roast a chicken for Sunday lunch (rhostio → [r]ostio after i; cinio → [g]inio after i).|From English ROAST.
++pozn=cig rhost = roast meat (outside the coursebook); own example
+0790|to stare (at), to gaze (at)|Don't stare at people! (pobl → [b]obl after ar)|"Don't stare – it looks SILLY (SYLL-u)!"
++pozn=used with ar (+ soft mutation); forms arna i, arnat ti, arno fe, arni hi, arnon ni, arnoch chi, arnyn nhw; own example
+0791|to fight|Two dogs were fighting in the park (ci → [g]i after dau).|ym- (each other) + lladd (to kill).
++pozn=lladd = to kill (L12); own example

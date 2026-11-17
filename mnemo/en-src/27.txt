@@ -1,0 +1,62 @@
+# deck 27 – Uned 14. See STYLE.md.
+0590|attitude; aspect|I'm sure it's her attitude that's the problem (agwedd → [h]agwedd after ei = her).|An AGgro (AG-wedd) attitude: a face as red as a red-hot poker.
++pozn=agwedd at = attitude towards (soft mutation after at); own example, emphatic sentence with taw (p. 176)
++s.pozn=north: mai instead of taw (L14), ydy instead of yw (L5)
+0591|poem|Mari read her poem at the Eisteddfod (cerdd → [ch]erdd after ei = her).|A poem set to a CHORD (CERDD) on the harp, recited by the red dragon breathing fire.
++pozn=cerddor = musician (L17), cerddorfa = orchestra (L2), on the same theme bardd = poet; in the book Cerdd gan Emyr Davies (p. 179); own example
+0592|complaint|I haven't had an answer to my complaint (cwyn → [ngh]wyn after fy).|A complaint to the QUEEN (CWYN), posted in a red pillar box.
++pozn=cwyno = to complain (L2, function: complaining); own example
+0593|nest|There's a little nest in the tree (bach → [f]ach after the feminine nyth; coeden → [g]oeden after y).|BeNEATH (NYTH) the branches, a red kite sits on its nest.
++pozn=nythu = to nest; feminine according to the coursebook, dictionaries (GPC) mostly give masculine: stick to the coursebook, check; own example
+0594|traffic jam|There's a big jam on the M4 outside Cardiff (mawr → [f]awr after the feminine tagfa; Caerdydd → [G]aerdydd after i).|tagu (to choke) + -fa (place): the place where you choke – among miles of red brake lights.
++pozn=the ending -fa = place (mynedfa L6, cerddorfa L2); sentence from the dialogue Tagfa, p. 182
+0595|thunder; thunderclap|I think it was thunder I heard there (clywais → [g]lywais after the emphasised object).|A drum roll – TA-RAN! – and the whole sky flashes red.
++pozn=mellt a tharanau = thunder and lightning (taranau → [th]aranau after a); mellten = lightning (L5); sentence from the dialogue Tagfa, p. 182
++s.pozn=north: mai instead of taw (L14)
+0596|crowd|There was a big crowd in the stadium (mawr → [f]awr after the feminine torf).|Sounds like TURF: a crowd in red shirts stampeding across the turf.
++pozn=Geirfa L14 (p. 171); also in the news glossary, section Chwaraeon (p. 263); own example
+0597|patience|I've got no patience today.|"Just A MINute (AMYN-edd)!" – waiting patiently, still as a snowman.
++pozn=amyneddgar = patient, diamynedd = impatient (outside the coursebook); own example
++s.pozn=north: Does gen i ddim instead of Does dim … gyda fi (L6)
+0598|queue|The queue is huge by now.|From English queue: a long queue in the frost, everyone blue with cold.
++pozn=ciwio = to queue; sentence from the dialogue Tagfa, p. 182
+0599|cotton|This shirt is made of cotton (cotwm → [g]otwm after o).|From English cotton: cotton wool piled like snow in a frosty shop window.
++pozn=other materials: sidan = silk (L5), gwlân = wool (L10), lledr = leather (L15); own example
+0600|counter|Pay at the counter, please.|From English counter: the counter of a blue ice-cream van.
++pozn=own example
+0601|contact|Put your contact details on the form.|cysylltu (to contact, to connect) → cyswllt: a contact number scribbled on a frosted window.
++pozn=cysylltiad = connection (L6); mewn cyswllt â = in contact with; the coursebook gives no plural; manylion personol = personal details (Robin Radio, p. 185); own example
+0602|diet|A healthy diet is very important (pwysig → [b]wysig after yn).|From English diet: nothing on the plate but one pea and a blue ice lolly.
++pozn=on the same theme bwyta'n iach = to eat healthily; own example
+0603|unemployment|Unemployment has gone up again this year.|di- (without) + gwaith (work): without work – the factory gates frozen shut all winter.
++pozn=di-waith = unemployed; in the news glossary, section Byd gwaith (p. 263); own example
+0604|confidence|I think it's a lack of confidence that's stopping him.|Confidence makes you stand HIGHER (HYDER) – right at the top of the ski lift.
++pozn=diffyg hyder = lack of confidence (Robin Radio, p. 185); diffyg (L9); hyderus = confident; own example
++s.pozn=north: mai instead of taw (L14), fo instead of fe (L1)
+0605|burglary, robbery, theft|The police are investigating a burglary at the shop Dillad Del (lladrad → [l]adrad after i).|lleidr (thief) → lladrad: a burglary on a freezing night, footprints left in the frost.
++pozn=lleidr/lladron = thief/thieves (L11); on the same theme dwyn = to steal; the shop Dillad Del from Bwletin Newyddion (p. 184); own example
+0606|plural|What's the plural of 'tŷ'? – Tai.|llu (host, multitude) + -og: a whole host of them – like hailstones.
++pozn=unigol = singular; table and the poem Lluosog on p. 179
++s.pozn=north: Be ydy instead of Beth yw (L5)
+0607|load|The lorry has shed its load on the road.|A whole LOAD (LLWYTH) of frozen peas spilled across an icy road.
++pozn=llwyth also = tribe (plural llwythau); colloquially llwyth o = loads of; sentence based on the dialogue Tagfa, p. 182
+0608|runner|I know that Fflur is the fastest runner.|rhedeg (to run) + -wr: a runner in a blue vest, breath steaming on a frosty morning.
++pozn=grammatically masculine even for a woman (rhedwraig = female runner); Fflur from the table on p. 175; own example
++s.pozn=north: mai instead of taw (L14), ydy instead of yw (L5)
+0609|track|A cross-country runner is racing on a muddy track (trac → [d]rac after ar).|From English track: a running track white with frost.
++pozn=traws gwlad = cross-country (L14); sentence based on p. 173
+0610|witness|The police are appealing for witnesses (tystion → [d]ystion after am).|TYST ~ TEST: the witness's story is put to the test under a cold shower of questions.
++pozn=grammatically masculine even for a woman; tystiolaeth = evidence, testimony; apelio am = to appeal for (L4); in the news glossary, section Trosedd (p. 263); own example
+0611|to suggest; to imply|What suggests that thieves see the shop as an easy target?|"OH, GRIM (AW-GRYM)!" – he suggests something with a grim face.
++pozn=awgrym = suggestion, hint; sentence from Bwletin Newyddion, p. 184
++s.pozn=north: Be instead of Beth (L9)
+0612|to carry, to transport|The lorry was carrying timber.|The lorry transports its load in a CLOUD (CLUD-o) of exhaust.
++pozn=cludiant = transport; on the same theme trafnidiaeth = traffic, transport (L16); sentence based on the dialogue Tagfa, p. 182
+0613|to crown|The poet was crowned at the Eisteddfod (coroni → [g]oroni after ei = his).|coron = crown (Latin corona).
++pozn=at the Eisteddfod the winner of the free-verse competition is crowned, cadeirio (L13) = to chair the winner in strict metre; passive with cael (L11); own example
+0614|to mix (with)|Mix the butter with a little sugar (tipyn → [th]ipyn after â).|cy- + MYSG ~ MIX: mix it all in one bowl.
++pozn=pattern cymysgu â; cymysg = mixed; own example
+0615|to deal (with)|I deal with the customers' complaints (cwynion → [ch]wynion after â).|From English deal.
++pozn=pattern delio â; emphatic sentence with sy (L13); own example
+0616|to serve, to wait on|Siân serves customers in the café (cwsmeriaid → [g]wsmeriaid after ar).|The waiter serves WINE (GWEINI).
++pozn=gweini ar = to serve someone; gweinydd = waiter (L2); the phrase gweini ar from the exercise on p. 173; the stem gwein- (gweinwch, gweinodd) is outside the coursebook, check; own example

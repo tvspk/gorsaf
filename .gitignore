@@ -1,0 +1,22 @@
+# keys and passwords never go here (they stay in the handoff ZIP / GitHub Secrets)
+apk/signing/
+apk/signing-en/
+*.jks
+KEYSTORE*
+# build output and tools fetched from npm
+apk/tools/
+apk/build/
+apk/build-en/
+apk/out/
+*.apk
+*.apk.part*
+# audio working copies (the clips for web + APK are in audio/*.mp3)
+game/audio/
+game/audio-packs/
+audio/voices/
+# notes for the user (in the handoff ZIP, not public)
+ZACNI-TADY*.txt
+CTI-MNE.txt
+# test leftovers
+__pycache__/
+*.png.tmp

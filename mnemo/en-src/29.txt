@@ -1,0 +1,63 @@
+# deck 29 – Uned 15. See STYLE.md.
+0637|border, boundary|We crossed the border into England after breakfast (Lloegr → [L]oegr after i).|Latin FINis (the end): the border is lit by a row of flaring red torches – this is where it ends.
++pozn=croesi = to cross (L2); own example
+0638|press, printing press; waist|The book is being printed by a small press in Carmarthen (gwasg → [w]asg after gan; bach → [f]ach after the feminine gwasg; Caerfyrddin → [Ngh]aerfyrddin after yng).|gwasgu = to squeeze (L8): the press squeezes the paper, and a red belt squeezes your waist.
++pozn=y wasg = the press, journalists; gwasgu = to squeeze (L8); present passive with cael (p. 195); own example
++cu=printing press / waist
+0639|yard, playground|I used to play on my own in the yard (pen → [mh]en after fy).|From English yard: a yard paved with red bricks baking in the sun.
++pozn=ar fy mhen fy hun = on my own; sentence based on the reading on p. 199
+0640|rocket|The children have made a little rocket out of plastic bottles (bach → [f]ach after the feminine roced; poteli → [b]oteli after o).|From English rocket: a rocket with a fiery red tail.
++pozn=gofod = space (L16); own example
+0641|journey|Did you have a good journey? (da → [dd]a after the feminine siwrnai; cawsoch → [g]awsoch in the question)|French journée (a day): a whole day's journey on a red double-decker bus.
++pozn=in colloquial writing also siwrne (Siwrne saff! = Safe journey!); taith = journey, trip; own example
+0642|strike (industrial)|The strike is being called by the workers at the steelworks.|From English strike: strikers warming their hands round a glowing brazier.
++pozn=ei galw: after ei = her (streic is feminine) there would be an aspirate mutation, but g doesn't change; streiciwr = striker (L16); sentence from the exercise on p. 196
+0643|task|We must complete all the tasks before the deadline (tasgau → [d]asgau after holl; cwblhau → [g]wblhau after i ni).|From English task: a task scrawled in red marker on the whiteboard.
++pozn=sentence from the dialogue Prysur yn y gwaith, p. 194
+0644|licence, permit|I got my driving licence when I was eighteen (trwydded → [nh]rwydded after fy; gyrru → [y]rru after the feminine trwydded; deunaw → [dd]eunaw after 'n).|A licence proves your TRUE ID (TRW-YDD-ed) – stamped with a red wax seal.
++pozn=trwydded yrru = driving licence; own example
++s.pozn=north: ges i instead of ces i (outside the coursebook)
+0645|China|This tea comes from China.|CHINA (TSIEINA), lit by rows of red paper lanterns.
++pozn=Ts- doesn't mutate; Tsieinëeg = Chinese (language) (outside the coursebook); sentence based on the reading about the tea room, p. 189
+0646|authority (body); authority (power)|The local authority wants to close the school.|awdur (author) → AUTHOR-ity: a cold official in a blue uniform.
++pozn=awdurdod lleol = local authority; based on Bwletin Newyddion (school closure), p. 198; own example
++s.pozn=north: isio instead of eisiau (L10)
+0647|intention, aim|My intention is to finish the course this year (bwriad → [m]wriad after fy).|bwrw = to throw (L11): your intention is where you aim your throw – a blue dart.
++pozn=bwriadu = to intend (L17); own example
++s.pozn=north: ydy instead of yw (L5)
+0648|result|What was the result of the game?|canlyn = to follow: the result is what follows – lit up on a blue scoreboard.
++pozn=Geirfa L15 (p. 187); also in the news glossary, section Chwaraeon (p. 263); own example
++s.pozn=north: Be instead of Beth (L9)
+0649|hay shed, hay barn|The children were hiding in the old hay shed (cwt → [g]wt after hen).|cwt ~ COT: a hut no bigger than a cot, full of hay and frost.
++pozn=cwt = hut, shed; in the south colloquially also tail, queue (outside the coursebook); gwair = hay; plural outside the coursebook; own example
+0650|hen house, chicken coop|The fox has been in the hen house again!|cwt (hut) + ieir (hens, singular iâr): a hen house with icicles hanging from the roof.
++pozn=iâr (f) / ieir = hen; plural outside the coursebook; own example
+0651|steel|There's a big steelworks in Port Talbot (Port → [Mh]ort after ym).|Latin DURus (hard), as in DURable: steel as hard and cold as an iceberg.
++pozn=gwaith dur = steelworks (p. 196); own example
+0652|virus|The virus has spread quickly (cyflym → [g]yflym after 'n).|From English virus: a virus under the microscope, stained blue.
++pozn=f- doesn't mutate; lledu = to spread (L12); own example
+0653|leather|This jacket is made of leather (lledr → [l]edr after o).|From English leather: a blue leather jacket stiff with frost.
++pozn=cotwm = cotton (L14), sidan = silk (L5), gwlân = wool (L10); wedi'i gwneud: feminine form because of siaced; own example
+0654|decision|I'm sure that was the right decision.|pen (head) + terfyn (limit, end): you draw a line in your head – an ice-clear decision.
++pozn=penderfynu = to decide; gwneud penderfyniad = to make a decision; emphatic sentence with taw (revision, p. 190); own example
++s.pozn=north: mai instead of taw (L14)
+0655|headline, heading|What's the main headline in the paper today? (pennawd → [b]ennawd after prif)|pen (head): the headline is the head of the article, printed in big blue letters.
++pozn=careful: the plural has one n (penawdau); prif causes soft mutation; penawdau newyddion (p. 188); own example
++s.pozn=north: Be ydy instead of Beth yw (L5)
+0656|soil, earth|There's a lot of mud on your shoes (pridd → [b]ridd after o).|The gardener's PRIDE (PRIDD): a spadeful of frozen soil.
++pozn=daear = earth, ground (L8), palu = to dig (L4); own example
+0657|war|My grandfather was born during the war (tad-cu → [nh]ad-cu after fy).|RHYFEL ~ RIFLE: rifles in a frozen winter war.
++pozn=heddwch = peace (L3); Ganwyd = impersonal -wyd form, written style (revision, p. 192); in speech Cafodd fy nhad-cu ei eni yn ystod y rhyfel; own example
++s.exc=My grandfather was born during the war (taid → [nh]aid after fy).
++s.pozn=north: taid instead of tad-cu (L17)
+0658|sauce|Apparently the cheesecake with apple sauce is the most popular dish (cacen → [g]acen after 'r, feminine; caws → [g]aws after the feminine cacen).|From English sauce: a sauce straight out of the freezer.
++pozn=grefi = gravy (L8); sentence from the reading Y Tebot Piws, p. 189
++s.pozn=north: mai instead of taw (L14), efo instead of gyda (L2), ydy instead of yw (L5)
+0659|surprise, astonishment|Seeing exotic animals was no surprise to me.|synnu = to surprise (L3) → syndod: a surprise like an ice cube slipped down your back.
++pozn=synnu (L3); syrpréis = surprise (a present, a party, L13); er syndod i bawb = to everyone's surprise; sentence based on the reading on p. 199 (check whether the book has i mi), main clause with southern i fi
++s.pozn=north: i mi instead of i fi (outside the coursebook)
+0660|pay, payment, fee|I got extra pay for working over Christmas (tâl → [d]âl as the object after ces i; gweithio → [w]eithio after am).|The TALLY (TÂL) of your hours, paid out in ice-cold coins.
++pozn=talu = to pay, cael ei dalu = to be paid (p. 195); cyflog = wage, salary (L2); own example
++cu=not wages (cyflog)
++s.exc=I got extra pay for working over Christmas (tâl → [d]âl as the object after ges i; gweithio → [w]eithio after am).
++s.pozn=north: ges i instead of ces i (outside the coursebook)

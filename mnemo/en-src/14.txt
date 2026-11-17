@@ -1,0 +1,54 @@
+# deck 14 – Uned 8. See STYLE.md.
+0289|leek (a single one)|On St David's Day people wear the leek and eat leek soup (cenhinen → [g]enhinen after 'r, feminine; Dydd → [Dd]ydd after ar).|cennin = leeks (collective), -en = one single leek: the emblem of Wales, roasting on a roaring bonfire.
++pozn=singular formed with -en from the collective cennin; cawl cennin is from the coursebook (p. 90), the sentence is my own
+0290|crossroads|Go straight on to the crossroads (croesffordd → [g]roesffordd after y, feminine).|croes (cross) + ffordd (road): where the roads cross – and a red phone box stands right in the middle.
++pozn=plural outside the coursebook (the book does not give it)
+0291|law; the law|By law, the sign doesn't have to be bilingual (cyfraith → [g]yfraith after y, feminine; bod → [f]od after i).|A law painted in red on a CAVE wall: CAVE-RIGHT (CYF-RAITH).
++pozn=sentence adapted from p. 94; cyfreithiwr = lawyer
++cu=a law, not a right (hawl)
+0292|earth, the Earth (planet); ground, soil|The earth goes round the sun (daear → [dd]aear after 'r, feminine).|DAI's EARth (DAE-AR): Dai digs the soil of his allotment under a scorching sun.
++pozn=own example (only in the Geirfa in this unit); daearyddiaeth = geography; synonym for ground: tir
+0293|fact|That's an interesting fact (diddorol → [dd]iddorol after the feminine ffaith).|Sounds like English FAITH, but it's the opposite: a hard FACT, branded into stone with a red-hot poker.
++pozn=own example (only in the Geirfa in this unit)
+0294|lettuce (a single head)|I bought a big lettuce and tomatoes (mawr → [f]awr after the feminine letysen; tomatos → [th]omatos after a).|English lettuce + -en = one single head, drowning in a dollop of ketchup.
++pozn=letys (collective) is from the coursebook (p. 90), the sentence is my own
+0295|operation (surgical)|I'm having an operation on my foot tomorrow (troed → [nh]roed after fy).|llaw (hand) + trin (to treat) + -iaeth: hands-on treatment under the glowing red lamp of the operating theatre.
++cu=surgical, not military
+0296|heaven, the heavens|Good heavens, it's raining again! (gwyn → [w]en: feminine form and mutation after nefoedd)|Heavens! The whole sky fizzes with Bonfire Night sparklers – I've NEVer (NEF-oedd) seen anything like it!
++pozn=Nefoedd (wen)! = Heavens!, Good heavens!; own example
+0297|shock|It was a big shock for everyone (mawr → [f]awr after the feminine sioc; pawb → [b]awb after i).|Sounds just like SHOCK (SIOC): like grabbing a red-hot toaster.
++pozn=cael sioc = to get a shock, to be startled; own example
++s.exc=It was a big shock for everyone.
++s.pozn=north: o instead of e (L1)
+0298|tart|Who's eaten all the apple tart? (tarten → [d]arten after 'r, feminine)|English TART + -en (one): a jam tart, still red-hot from the oven.
++pozn=tarten afalau is from the coursebook (p. 95), the sentence is my own
+0299|ladder|Why did Auntie Mair let go of the ladder? (gollwng → [o]llwng after gwnaeth)|The same word as ysgol = school: the fire engine's red ladder reaching up to the school roof.
++pozn=homonym: ysgol = school and ladder, same gender and plural; sentence from Robin Radio (p. 100)
++cu=ladder, not school
++fam0=ysgol (school)
+0300|toe|The toes on my left foot are broken (troed → [nh]roed after fy).|bys (finger) + troed (foot): a toe gone blue with frostbite.
++pozn=sentence from the dialogue (p. 96); after fy it is troed that mutates, not bysedd
+0301|excuse|There were far fewer cars at the time, but that's no excuse (car → [g]eir: plural ceir after o).|From English excuse; esgusodwch fi = excuse me. An excuse as cold as hailstones.
++pozn=sentence from the letter (p. 99), which has dydy; in a main clause the south uses dyw
++s.exc=There were far fewer cars at the time, but that's no excuse.
++s.pozn=north: dydy instead of dyw (outside the coursebook, table of variants); the letter in the coursebook uses this form, p. 99
+0302|vicar|Thanks very much, I must go at once. I'm the vicar!|Vicar → FICER: a vicar in a cassock rides a ski lift, late for a wedding.
++pozn=sentence from the dialogue (p. 95)
++s.pozn=north: ydy instead of yw (derived from L5), i mi instead of i fi (outside the coursebook, table of variants)
+0303|gravy|Put more gravy on my plate! (rhagor → [r]agor after the command; plât → [mh]lât after fy)|GRAVY → GREFI: gravy gone cold and skinned over on the plate.
++pozn=own example (only in the Geirfa in this unit)
++cu=meat gravy, not a sauce (saws)
+0304|sunset|Have you got a favourite place to watch the sun set? (lle → [l]e after hoff)|At sunset the day closes like a LID (mach-LUD) over a snowman standing alone on the hill.
++pozn=machlud is also a verb: mae'r haul yn machlud = the sun is setting; sentence from p. 99
++s.exc=Have you got a favourite place to watch the sun set?
++s.pozn=north: Oes gynnoch chi instead of Oes … gyda chi (L6), sbio instead of edrych (L18)
+0305|spice|There's too much spice in the curry.|SPICE → SBEIS: a jar of spice left in the freezer, frosted over.
++pozn=sbeislyd = spicy; own example
+0306|feeling|I had mixed feelings reading the letter (teimladau → [d]eimladau after ces i; darllen → [dd]arllen after wrth).|teimlo (to feel) + -ad: the feeling of an icicle sliding down your back.
++pozn=sentence from the letter in Darllen (p. 101)
++s.exc=I had mixed feelings reading the letter.
++s.pozn=north: ges i instead of ces i (outside the coursebook)
+0307|response, reaction, answer|Write the response in the grid.|ym- + ateb (answer): an answer that bounces straight back, like an echo in an ice cave.
++pozn=ymateb is also a verb = to respond, to react; sentence from p. 90
++fam1=ymateb (verb)
++s.pozn=north: sgwennu instead of ysgrifennu (outside the coursebook, table of variants)

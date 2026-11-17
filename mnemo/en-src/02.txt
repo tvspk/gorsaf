@@ -1,0 +1,56 @@
+# deck 02 – Uned 2. See STYLE.md.
+0027|Bristol|My brother lives in Bristol (Bryste → [M]ryste after yn = in; brawd → [m]rawd after fy; both nasal mutation).|Bryste is just Bristol with its tail chopped off – and tonight the harbour blazes with Bonfire Night fireworks.
++rod_pozn=place names are usually feminine in Welsh
+0028|branch|The bank has closed the local branch (cangen → [g]angen after 'r; lleol → [l]eol after a feminine noun).|A KANGaroo (CANG-en) sits on a branch of a tree that is on fire.
++cu=a bank branch or a tree branch
+0029|orchestra|She plays in the orchestra (cerddorfa → [g]erddorfa after y, feminine).|cerdd = music: the orchestra plays behind a glowing red FIRE DOOR (cerdd-DOR-fa).
++fam3=-fa = place: meddygfa, meithrinfa, mynedfa, derbynfa (feminine, pl. -feydd)
+0030|favour|Will you do me a favour? (cymwynas → [g]ymwynas as the object after wnei di)|'Do me a favour: COME and WIN us (cym-WYN-as) the giant strawberry at the fair!'
+0031|receipt|Have you got the receipt? (derbynneb → [dd]erbynneb after 'r, feminine)|derbyn = to receive: the receipt proves you received it – it pops out of a red-hot toaster.
++s.exc=Have you got the receipt? (north: gynnoch chi instead of gyda chi)
++s.pozn=north: possession with gan (gen i, gynnoch chi) instead of gyda (L6)
+0032|rule|I never follow rules.|rheol ≈ RULE: the rules are painted on the side of a red pillar box.
++pozn=rh does not mutate after the article: y rheol
+0033|set; film set|I've never been on a film set.|Same as English: on the film set a red fire engine sprays fake rain.
+0034|chance|I'd never take a chance. (cymryd siawns = to take a risk)|siawns sounds like 'chance': take a chance and bite the hottest chilli.
+0035|order; arrangement, plan|What's the plan tonight? (trefn → [d]refn after 'r, feminine)|TREVor (TREF-n) puts everything in order – even the poppies in his garden stand in neat red rows.
++pozn=the plural trefniadau = 'arrangements' (same as the plural of masculine trefniad, L13)
++s.exc=What's the plan tonight? (trefn → [d]refn after 'r)
++s.pozn=north: Be ydy instead of Beth yw (L5, L9)
+0036|Member of the Senedd (MS)|Have you complained officially to a Member of the Senedd?|'AYE, LOAD 'em up!' (AEL-od) – Members of the Senedd arrive in Cardiff Bay on an iceberg.
++rod_pozn=grammatically masculine even for a woman member
++cu=the Welsh Parliament (Senedd) in Cardiff
++s.pozn=north: dach instead of dych (L11)
+0037|Member of Parliament (MP)|I've written to my MP.|'AYE, LOAD 'em up!' (AEL-od) – this MP is pulled to Westminster on a husky sledge along the frozen Thames.
++rod_pozn=grammatically masculine even for a woman MP
++cu=the UK Parliament (Westminster)
++s.pozn=north, colloquial: sgwennu instead of ysgrifennu (not in the coursebook)
+0038|dirt; (dog) mess|Would you pick up dog mess when you go for a walk?|'BOW-WOW!' (BAW) – the dog's mess has frozen solid on the frosty pavement.
+0039|a hair, a whisker|There's a hair in my soup! (cawl → [ngh]awl after fy)|'BLEUGH, ONE!' (BLEW-yn) – a single hair in your ice-cold gazpacho.
++rod_pozn=blewyn is the singular of the collective noun blew
++cu=one hair; pl. blew = fur, hair
++fam1=blew'r gath (cat hair)
+0040|box; box (on a form)|Tick the correct box.|'BLOOCH!' (BLWCH) – the box plops through a hole in a frozen pond.
+0041|lie (untruth)|I'd never tell a lie. (dweud celwydd = to tell a lie)|Every time you CALL WITH (CEL-wydd) a lie, your nose turns blue with frostbite.
+0042|summit|I've been on the summit of Snowdon (copa → [g]opa after ar).|A COPPER (COP-a) plants his flag on the summit in the middle of a blizzard.
+0043|wage, salary|Would you give a month's wages to charity?|Your wages are stored in a LOG cabin (cyf-LOG) in the Arctic, frozen solid.
+0044|drug|The police are looking for drugs (cyffuriau → [g]yffuriau after am).|Customs find drugs in a box of frozen fish fingers: 'CUFF him, SIR!' (CYFF-ur)
+0045|councillor|I've complained to the local councillor.|cyngor = council: the councillor holds every meeting in an igloo.
++rod_pozn=grammatically masculine even for a woman councillor
++fam2=-ydd = a person
+0046|waste; wastage|It's a waste of time (gwastraff → [w]astraff after 'n).|All the WASTE floats away on a RAFT (gwas-TRAFF) across a freezing Arctic sea.
+0047|waiter|I've never worked as a waiter.|gweini = to serve + -ydd = person: the waiter is the one who serves – carrying drinks across a frozen ski-lift café.
++fam2=-ydd = a person
+0048|questionnaire|Do you fill in questionnaires online?|holi = to question: the questionnaire interrogates you under a lamp in a walk-in freezer.
++s.pozn=north: dach instead of dych (L11)
+0049|(musical) instrument|Which instrument do you play?|'OFFER IN!' (OFF-er-yn) – this week's special offer: a guitar carved out of ice.
+0050|option|Getting your money back isn't an option.|Same as English: the only option on the frosty menu is a blue ice lolly.
++s.pozn=north: dydy instead of dyw (not in the coursebook), pres instead of arian (L4)
+0051|policy|What's the shop's policy on refunds?|Same as English: the shop's policy is clear – 'No walruses beyond this point'.
++cu=a policy (set of rules), not politics (= gwleidyddiaeth)
++s.exc=What's the shop's policy on refunds? (pres → [b]res after ar)
++s.pozn=north: Be ydy instead of Beth yw (L5), pres instead of arian (L4)
+0052|experience|What's your experience of using social media? (defnyddio → [dd]efnyddio after o)|A PRO with experience (PROF-iad) – she has crossed Antarctica on foot.
++s.pozn=north: Be ydy instead of Beth yw (L5, L9)
+0053|table (of data)|Match the two halves of the table. (dau → [dd]au as the object)|Like English 'table', but a table of data – drawn with a finger in the frost on a car windscreen.
++cu=a table of data, not a piece of furniture (= bwrdd)

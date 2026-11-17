@@ -1,0 +1,21 @@
+# deck 06 – Uned 4. See STYLE.md.
+0124|air; sky|The sky is blue today (glas → [l]as after yn).|OUR (AWYR) sky at sunset glows ruby red.
+0125|Edinburgh|I'll go to Edinburgh next week (Caeredin → [G]aeredin after i).|caer = fortress + Edin(burgh): a red kite circles the castle on the rock.
+0126|Rome|They'll go to Rome tomorrow (Rhufain → [R]ufain after i).|Nero's Rome: 'ROOF ON fire!' (RHUF-ain)
+0127|community|The centre is important to the community (cymuned → [g]ymuned after 'r, feminine).|COMMUNITY ≈ CYMUNED: the whole community gathers round a red-hot barbecue.
+0128|career|She'd better change career.|A GIRAFFE (GYR-fa) in red lipstick climbs the career ladder.
+0129|fire engine|The fire engine will come in a minute.|injan = engine, tân = fire (→ dân after the feminine injan): a fire engine, red of course.
+0130|spade, shovel|I've got a spade in the garage.|'OW!' (RHAW) – somebody left the spade in the forge and it's glowing red.
++s.exc=I've got a spade in the garage (rhaw → [r]aw after gen i).
++s.pozn=north: Mae gen i + soft mutation instead of Mae … gyda fi (L6)
+0131|emergency; crisis|As long as there's no emergency tonight!|'ARGH, GUV!' (AR-GYF-wng) – an emergency on a motorway covered in black ice.
+0132|lifeboat|I'll phone the lifeboat.|bad = boat, achub = to save: a lifeboat ploughs through freezing grey-blue waves.
+0133|business|His business is going well (busnes → [f]usnes after ei = his).|Same as English: his business sells snowballs, and it's booming.
++s.pozn=north: o instead of e (L1)
+0134|help, aid|Thank you for your help.|'COME – OR THaw!' (CYM-ORTH): a mountain rescuer brings help to a climber frozen to a ledge.
+0135|safety|The children's safety is very important (pwysig → [b]wysig after yn).|diogel (safe) + -wch: safety first – the climbers are roped together on a frozen waterfall.
+0136|owner|The owner will speak to you tomorrow.|The owner sits on his PERCH (PERCH-ennog) like a parrot, frozen blue to the spot.
+0137|project|We'll finish the project next week.|Same as English: a science project on how fast an ice cube melts.
+0138|committee|Ffion will organise an important committee meeting (pwyllgor → [b]wyllgor as the object after the verb form).|pwyll = good sense: the committee meets in an ice hotel to keep cool heads.
+0139|noise, sound|The children are making an awful noise.|SOON (SŴN) you'll hear the noise – the frozen lake is cracking.
+0140|officer, official|I'll phone the health and safety officer.|swydd (job, office) + -og: an officer guarding a snow-covered sentry box.

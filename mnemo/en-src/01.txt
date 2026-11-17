@@ -1,0 +1,42 @@
+# deck 01 – Uned 1. See STYLE.md (gender: feminine = hot/red, masculine = cold/blue, rotate images).
+0001|society, club|at a meeting of the local Welsh society (cymdeithas → [g]ymdeithas after the article 'r, feminine)|Members of the society COME DAY after day (cym-DEITH-as) to toast marshmallows round a roaring bonfire.
+0002|stream, brook|The children are playing in the stream.|Your NAN Tiptoes (NANT) across the stream – the water has turned to bubbling red lava.
+0003|relative; relationship|organise a special birthday party for a relative or friend (perthynas → [b]erthynas after i)|A relative from PERTH (PERTH-ynas) turns up at the family party on a red double-decker bus.
++cu=a person or the relationship
++rod_pozn=grammatically feminine even for a male relative
+0004|(hospital) ward|She came here to Ward 5 yesterday.|Same as English: the ward sister hands out red-hot chilli soup to every bed.
+0005|opening|at the opening of a hall|agor = to open: at the grand opening, A GORilla (A-GOR-iad) cuts the ribbon wearing ice skates.
+0006|conductor; leader|Dyfan is the conductor of the village choir.|The conductor waves an icicle as his baton and hides his WINE (ar-WEIN-ydd) in a snowdrift.
++pozn=the ending -ydd = masculine noun, often a person (p. 5)
++s.pozn=north: ydy instead of yw (L5)
+0007|buffet|There'll be a buffet after the meeting.|Just 'buffet' spelt the Welsh way: everything at this buffet is frozen solid, even the sausage rolls.
+0008|patient|The doctor came to see his patient on Ward 5 (claf → [g]laf after ei = his).|A penguin nurse puts a bag of frozen peas on the patient's broken CALF (CLAF).
++rod_pozn=grammatically masculine even for a female patient
++s.pozn=north: o instead of e (L1)
+0009|event|organise an event at Nant Gwrtheyrn|At the event everyone has to DIG WITH (DIG-WYDD) teaspoons through a glacier.
+0010|miner|My grandad worked as a miner.|glo = coal: the miner's lamp GLOWS (GLÖ-wr) blue in a tunnel full of icicles.
++s.pozn=north: taid instead of tad-cu (L17)
+0011|difference|You'll see a difference in the learning.|'Go, HANNAH!' (gwa-HAN-iaeth) – Hannah spots the difference between two snowmen.
+0012|age|How old are they? (oedran → [h]oedran after eu = their)|'OY! You DRANk that at your AGE?' (OED-ran) – Grandad downs a blue slush puppy and gets brain freeze.
++s.pozn=north: Be ydy instead of Beth yw (L5)
+0013|attention; remark|May I have your attention?|A polar bear climbs a SILO (SYL-w) in the middle of the hall – that gets everyone's attention.
++pozn=the plural sylwadau means only 'remarks'
+0014|to introduce; to present|I'd like to introduce Dafydd Roberts, your new tutor (cyflwyno → [g]yflwyno after hoffwn i).|'May I introduce… the man with the WINE from the LOO? NO?' (cyf-LWY-no)
+0015|to interview|The radio is going to interview my grandad (cyfweld → [g]yfweld after i).|cyf- (together) + gweld (to see): in an interview two people 'see each other' – just like inter-VIEW.
++pozn=takes â (ag before a vowel)
++s.pozn=north: taid instead of tad-cu (L17)
+0016|to sound|That sounds good!|sŵn = a sound, said like SOON: 'Lunch SOON?' – 'That SOUNDS good!'
+0017|to join|She has joined the Welsh society.|un = one: to join is to become ONE with the group.
++pozn=takes â (ag before a vowel)
+0018|independent|an independent speaker (B1 level)|an- (not) + dibynnol (dependent) = in-dependent, built exactly like the English.
+0019|nosy, meddlesome|Someone too nosy? (busneslyd → [f]usneslyd after rhy)|busnes = business: a nosy person pokes into everyone else's BUSINESS.
+0020|at the moment|My sister isn't working at the moment.|Literally 'at this (hyn) of time (pryd → bryd)'.
++s.pozn=north: dydy instead of dyw (not in the coursebook)
+0021|lockdown|We started learning online during lockdown.|clo = lock (think CLOse): a period (cyfnod) under lock.
++pozn=listed under 'arall' in the Geirfa box; masculine like cyfnod (L5); pl. cyfnodau clo (not in the coursebook)
+0022|by the way|By the way, where's Auntie Mair?|Literally 'with hand': by the way = an offhand wave of the hand.
+0023|in my element, delighted|Sam loves learning Welsh (bodd → [f]odd after ei = his).|bodd = delight: literally 'at my delight'.
++pozn=base form bodd; persons: wrth fy modd, wrth dy fodd, wrth ei fodd (he), wrth ei bodd (she), wrth ein bodd, wrth eich bodd, wrth eu bodd
+0024|Thank you for asking.|I'm very well, thank you for asking (gofyn → ofyn: the g drops after am).|
+0025|temporarily|I'm working in the Llandudno office temporarily.|tro = a turn: dros dro = 'for a turn', just for now.
+0026|Thank you for the opportunity.|Thank you for the opportunity to speak tonight.|

@@ -1,0 +1,56 @@
+# deck 16 – Uned 9. See STYLE.md.
+0330|armchair|The cat is sleeping in the armchair (cadair → [g]adair after y, feminine).|cadair (chair) + breichiau (arms): a chair with arms, upholstered in ruby-red velvet.
++pozn=breichiau is the plural of braich, mutated after the feminine cadair (b → f); own example
+0331|bell|The bell rang at midday (cloch → [g]loch after y, feminine).|CLOCH sounds like CLOCK: the clock-tower bell glows red-hot from ringing all day.
++pozn=clychau'n canu is from the coursebook (p. 105), the sentence is my own
+0332|cushion|Put the cushion on the armchair (clustog → [g]lustog after 'r, feminine).|clust = ear: a cushion to put under your ear, embroidered with ladybirds.
++pozn=own example; a pillow for the bed = gobennydd (outside the coursebook)
+0333|effect, impact|Lack of sleep has a big effect on my work (mawr → [f]awr after the feminine effaith; gwaith → [ng]waith after fy).|Like English EFFECT: the effect of a sauna – you come out lobster-red.
++pozn=effeithio (ar) = to affect (L19); own example
+0334|rainbow|There was a big rainbow over the sea after the rain (mawr → [f]awr after the feminine enfys).|The rainbow makes the sky ENVIOUS (EN-FYS) – its red stripe blazes brightest of all.
++pozn=gweld enfys is from the coursebook (p. 105), the sentence is my own
+0335|bean (a single one)|He shouldn't have bought the beans (Jack and the Beanstalk).|ffa = beans (collective), -en = one single bean: a red kidney bean bubbling in tomato soup.
++pozn=the plural ffa is a collective noun; sentence from the exercise Jac a'r goeden ffa (p. 107)
++s.pozn=north: fo instead of fe (L1)
+0336|violin, fiddle|She plays the violin in the orchestra (cerddorfa → [g]erddorfa after y; ff does not mutate).|From English FIDDLE: the devil plays a red fiddle over glowing embers.
++pozn=canu offeryn = to play an instrument; own example
+0337|smile|What puts a smile on your face?|gwên ~ gwen (white): gleaming white teeth between bright red lipstick.
++pozn=gwenu = to smile (p. 105: gwneud i chi wenu, gwenu → [w]enu after i); sentence from p. 105
++s.pozn=north: Be instead of Beth (L9)
+0338|sunshine|There was lovely sunshine all day.|haul (sun) + -wen (white): blazing white sunshine that leaves you with sunburn.
++pozn=no plural; Heulwen is also a girl's name; own example
+0339|fairy|The children love fairy stories (literally: stories about fairies).|tylwyth (family, clan) + teg (fair, beautiful): the fair folk; a fairy in a poppy-red dress dances in a field of poppies.
++pozn=teg → deg after the feminine tylwythen; Storïau Tylwyth Teg is a heading on p. 106, the sentence is my own
++s.pozn=north: efo instead of gyda (L2)
+0340|decoration, ornament|I should have taken the Christmas decorations down.|Like English ADORN: sapphire-blue baubles adorning the Christmas tree.
++pozn=addurno = to decorate (L13); addurniadau Nadolig is from the coursebook (p. 105), the sentence is my own
+0341|allergy|I'm allergic to nuts (cnau → [g]nau after i).|From English allergy: you sneeze so hard your blue ice lolly flies off the stick.
++pozn=own example; alergaidd (allergic) outside the coursebook
++s.pozn=north: Mae gen i instead of Mae … gyda fi (L6)
+0342|step|Take a step back (cam → [g]am after the command).|Take one step back, CAMera (CAM) ready, to fit the whole penguin colony in the shot.
++pozn=cam wrth gam = step by step; cam is also an adjective: crooked, wrong (hence camgymeriad); own example
+0343|mistake, error|I made a big mistake (camgymeriad → [g]amgymeriad after gwnes i).|cam (wrong) + cymryd (to take) = a MIS-TAKE, just like English: grabbing frozen fish fingers instead of the chocolate.
++pozn=camgymryd = to be mistaken; own example
+0344|lock (on a door)|The door was locked, so the thief broke the lock (clo → [g]lo after ar).|CLO ~ English CLOSE: a steel lock snaps the freezer door closed.
++pozn=ar glo = locked (L9); own example
++cu=on a door, not a canal lock
+0345|sleep|I suffer from lack of sleep (diffyg → [dd]iffyg after o).|cysgu = to sleep → cwsg = sleep, deep as a walrus snoring on the ice.
++pozn=no plural; sentence from Robin Radio (p. 116)
+0346|hall, hallway|I'll leave my coat in the hall (cot → [ngh]ot after fy).|cynta = first: the hall is the first room inside the door, where the snow globe sits on the shelf.
++pozn=the link with cynta is only a memory aid; own example
+0347|weed (a single plant)|I should have pulled up the weeds.|chwyn = weeds (collective), -yn = one single weed; it survives even the hardest frost.
++pozn=the plural chwyn is a collective noun; sentence from p. 105
+0348|lack; shortcoming, defect|Lack of time at the weekend is a problem too (problem → [b]roblem after yn).|diffyg ~ DEFICIT / DEFECT: the blue ice-cream van has a defect – and a deficit of cornets.
++pozn=sentence from the dialogue Rhoi gwaed (p. 111); diffyg cwsg = lack of sleep (example at cwsg 0345)
+0349|snowdrop|Seeing the first snowdrops of the year puts a smile on my face (blwyddyn → [f]lwyddyn after 'r, feminine).|eira (snow) + -lys (plant): the little snow-flower that pushes up through a blizzard.
++pozn=eirlysiau cynta'r flwyddyn is from p. 105, the sentence is adapted
+0350|youth; young people|The next project will be turning the old Bethania chapel into a youth club (capel → [g]apel after hen; clwb → [g]lwb after yn).|ifanc (young) → ieuenctid: youth club kids slurping blue slush puppies.
++pozn=no plural; sentence from the article on p. 115
+0351|fireplace|We sat in front of the fireplace all night.|lle (place) + tân (fire) = the place for the fire; masculine, so the flames burn icy blue.
++pozn=L9 gives the plural lle(oedd) tân, L11 llefydd tân, both correct; duplicate entry in L11; own example
+0352|mask|I should have worn a mask.|mwg (smoke): a mask against smoke – a pale blue surgical mask.
++pozn=the link with mwg is only a memory aid; sentence from p. 105
+0353|warning|There's a warning of strong wind tonight (gwynt → [w]ynt after am).|'RE-BUILD (RHY-BUDD) the bridge before the ice breaks!' – a warning.
++pozn=rhybuddio = to warn (L12); own example
+0354|shape; form, fitness|My dad is in good shape (tad → [nh]ad after fy).|From English SHAPE: in such good shape he glides about on ice skates.
++pozn=mewn siâp da = in good shape; own example

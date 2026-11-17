@@ -1,0 +1,27 @@
+# deck 34 – Uned 17. See STYLE.md.
+0758|open|Open evening of the arts and crafts club (crefft → [ch]refft after a).|agor = to open → agored = open.
++pozn=agored = open (a door, a person, an event); a shop is "ar agor" (open) / "ar gau" (closed); sentence from the events calendar, p. 221
+0759|historical, historic|People come to Wales to visit interesting or historic places (Cymru → [G]ymru after i).|hanes = history, story.
++pozn=h- doesn't take soft mutation; hanesydd = historian (outside the coursebook); lleoedd = places, colloquially in the south rather llefydd; sentence based on Siaradwch, p. 216
+0760|on the whole, all in all|On the whole, the holiday was very good (da → [dd]a after 'n).|cyfan = whole: "on the whole".
++pozn=own example
+0761|leap year|I was born on the twenty-ninth of February, so I only have a birthday every leap year (geni → [ng]eni, pen-blwydd → [mh]en-blwydd after fy; pob → [b]ob as an adverb of time).|naid = leap: the year that leaps an extra day – a leap over a roaring bonfire on 29 February.
++pozn=in the Geirfa in the box arall; feminine because of blwyddyn; naid = leap, jump, neidio = to jump (L2); the book gives no plural; in the book: y diwrnod arbennig mewn blwyddyn naid, p. 218; own example
++s.pozn=north: ges i instead of ces i (outside the coursebook)
+0762|May Day|Come and celebrate May Day the traditional way (dathlu → [dd]athlu after i; traddodiadol → [d]raddodiadol after the feminine ffordd).|Calan = first day of the month (Latin kalendae): the CALendar starts with Calan.
++pozn=Calan = first day: Calan Gaeaf = 1 November, its eve Nos Galan Gaeaf (31 Oct) corresponds to Halloween (p. 221); dydd Calan = New Year's Day, nos Galan = New Year's Eve (p. 218); sentence from the events calendar, p. 220
+0763|to clap, to applaud|You will decide by clapping (curo → [g]uro after trwy).|curo (to beat, L9) + dwylo (hands): to beat your hands together.
++pozn=curo = to knock, to beat (L9); dwylo = both hands (dual of llaw); emphatic sentence with fydd (L13); sentence from the events calendar, p. 220
+0764|playgroup (pre-school)|Come and support the Bryn Playgroup (cefnogi → [g]efnogi after i).|cylch (circle) + chwarae (play): a circle of toddlers round a play mat.
++pozn=in the Geirfa in the box arall; masculine because of cylch; plural cylchoedd chwarae (outside the coursebook); sentence from the events calendar, p. 221
+0765|Valentine's Day|On Valentine's Day I got a card from a secret admirer (dydd → [dd]ydd after ar; cerdyn → [g]erdyn as the object; rhywun → [r]ywun after gan).|FFOLANT = VALENTine.
++pozn=dydd San Ffolant (p. 218) = the same; the Welsh lovers' day is Santes Dwynwen, 25 January (p. 220); own example
++s.pozn=north: ges i instead of ces i (outside the coursebook)
+0766|even so, all the same|It was raining. Even so, we went for a walk (tro → [d]ro after am).|eto (yet, again) + i gyd (all): "and yet, with all that".
++pozn=er = although (L8); own example
+0767|the Middle Ages|The castle was built in the Middle Ages.|oesoedd (ages) + canol (middle): literally "the middle ages".
++pozn=plural only (oes = age, era); passive with cael (L11); in the book the lecture "Pŵer a Rhyw yn yr Oesoedd Canol", p. 221; own example
+0768|We have a special offer.|We have a special offer this week: ten per cent off everything (popeth → [b]opeth after oddi ar).|cynnig = offer (also to offer).
++pozn=phrase from Robin Radio, p. 227 (the other phrase, deg y cant, is already the card ...y cant, L7); cynnig = an offer and also the verb to offer
++s.exc=We have a special offer this week: ten per cent off everything (cynnig → [g]ynnig as the object; popeth → [b]opeth after oddi ar).
++s.pozn=north: possession with gan (gynnon ni + soft mutation of the object) instead of gyda ni; derived from L6

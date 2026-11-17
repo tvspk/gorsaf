@@ -1,0 +1,46 @@
+# deck 03 – Uned 2. See STYLE.md.
+0054|to create|I'd like to create a Welsh website (creu → [g]reu after hoffwn i; Cymraeg → [G]ymraeg after gwefan, feminine).|Like CREate: you CRY (CREU) with joy when you create something.
+0055|to cross|Don't cross the bridge! (croesi → [ch]roesi after â, aspirate mutation; pont → y [b]ont, feminine)|croes = a cross: you go CRISS-CROSS over the road.
+0056|to warm up, to heat|I never heat food in the microwave.|cynnes = warm: you CAN HEAT (CYN-HES-u) it up.
+0057|to accept, to receive|Who's going to take these phone messages? (derbyn → [dd]erbyn after i)|A DEAR old BIN (DER-BYN) receives all your rubbish – it accepts everything.
+0058|to drop; to let go|Did you drop the camera? (gollwng → [o]llwng after wnaethoch chi)|'GOAL!' (GOLL-wng) – the keeper dropped the ball.
++pozn=the stem changes: gollyngais, gollyngodd
+0059|to lie down|I'm going to lie down for half an hour (gorwedd → [o]rwedd after i).|After the WEDDING (gor-WEDD) everyone needs to lie down for a bit.
+0060|to get drunk|I'll never get drunk again.|meddw = drunk: too much MEAD (MEDD-wi) gets you drunk.
+0061|to volunteer|Would you volunteer at the National Eisteddfod?|gwir (true) + bodd (willing): you do it of your own true free will.
+0062|to insist|She insists on getting her money back (arian → [h]arian after ei = her).|'MONEY!' (MYNN-u) – she insists on getting it back.
++s.exc=She insists on getting her money back (pres → [ph]res after ei = her).
++s.pozn=north: pres instead of arian (L4)
+0063|to jump|The dog jumped over the wall.|'NEIGH!' (NEID-io) – the horse jumps the fence.
+0064|to swear, to curse|I'll never swear again.|REGGIE (RHEG-i) swears every time he stubs his toe.
+0065|unhappy|The customer was very unhappy.|an- (un-) + hapus (happy) = unhappy.
+0066|small, fine, tiny|It's drizzling (literally: it's raining fine rain).|A MINI-MAN (MÂN): tiny, like the drops of drizzle.
++pozn=the coursebook gives bach as a synonym; it usually follows the noun (glaw mân, oriau mân); before a noun it causes soft mutation (mân bethau ← pethau)
+0067|sure, certain|I'm sure the shop is shut.|sicr ≈ SECURE: when you feel secure, you're certain.
+0068|stuck|The door is stuck.|English 'sound' as in safe and sound: the door is held so soundly it's stuck.
+0069|official|Have you complained officially to the Council?|swydd = a job, an office: something 'of the office' is official.
++s.pozn=north: dach instead of dych (L11)
+0070|talented|She's a very talented musician (cerddor → [g]erddor after yn).|talent + -og (= having): talented.
+0071|awake|The baby's awake again.|dihuno = to wake up: ar ddihun = 'on waking' – wide awake at three in the morning.
++s.pozn=north: effro (not in the coursebook)
+0072|to make a noise|Don't make a noise! (cadw → [ch]adw after â, aspirate mutation)|Literally 'to keep noise' (sŵn = noise).
++pozn=listed under 'arall' in the Geirfa box; verb phrase (cadw = to keep)
+0073|apart from, except|Everyone was there apart from Siôn.|heb = without is hiding inside: everyone came – without that one, apart from Siôn.
+0074|supposed to|I'm supposed to be working tonight (gweithio → [w]eithio after i).|Literally 'to be to' (bod → fod after i).
++cu=arranged or obliged to do something
+0075|below (in a text)|Answer the questions below.|is = lower: isod = below.
+0076|current affairs|I like watching current affairs programmes.|mater = a matter, cyfoes = contemporary.
++pozn=listed under 'arall' in the Geirfa box; plural-only noun (singular mater), no gender given
+0077|small change|Have you got any small change?|newid = change (also coins); mân = small.
++pozn=listed under 'arall' in the Geirfa box; masculine like newid
++s.pozn=north: gen ti instead of gyda ti (L6)
+0078|in front of|She was standing in front of me in the queue (blaen → [m]laen after fy).|blaen = the front.
+0079|around|Look around you.|cwmpas ≈ COMPASS: all the way round.
++s.pozn=north: sbio instead of edrych (L18)
+0080|the small hours|Do you look at your phone in the small hours?|Literally 'the tiny hours'.
++pozn=listed under 'arall' in the Geirfa box; plural-only noun (singular awr), no gender given
++s.pozn=north: dach instead of dych (L11), sbio instead of edrych (L18)
+0081|lately, recently|I've been very busy lately (diweddar → [dd]iweddar after yn).|diwedd = end: towards the end of the time, i.e. lately.
+0082|With us today is…|With us today is Nia Morgan.|
++s.pozn=north: efo instead of gyda (L2)
+0083|May I ask the listeners?|May I ask the listeners for help? (gofyn → [o]fyn after ga i)|

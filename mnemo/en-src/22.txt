@@ -1,0 +1,70 @@
+# deck 22 – Uned 12. See STYLE.md.
+0486|time, period; moment|At times the work is very hard.|The times you HAD EGGs (ADEG) – fried in a red-hot pan every morning.
++pozn=ar adegau = at times, sometimes; yr adeg honno = at that time; own example
+0487|education|Welsh-medium education is very important in Wales (Cymraeg → [G]ymraeg after the feminine noun; Cymru → [Ngh]ymru after yng).|dysgu (to learn, to teach) is inside adDYSG: education – a shiny red apple on the teacher's desk.
++pozn=addysgu = to educate, to teach; addysg gorfforol = PE (arall L12); own example
+0488|area, region (home area)|The Eisteddfod is coming to our area this year (bro → [f]ro after 'r, feminine).|Your BRO (BRO) waits for you back home, by the red phone box in the village.
++pozn=papur bro = local Welsh-language community paper (p. 149); bro has an emotional ring – "home patch, homeland"; own example
+0489|breast; chest|They're raising money for breast cancer research (canser → [g]anser after i; bron → [f]ron after y, feminine).|A BRONze medal (BRON) pinned on your chest, glowing red-hot.
++pozn=careful, homonym: bron also means "almost, nearly" (bron yn barod); canser y fron = arall L12; sentence based on p. 149
++s.pozn=north: pres instead of arian (L4)
+0490|loss|He'll be greatly missed (literally: there'll be a great loss after him; mawr → [f]awr after the feminine noun).|colli (to lose) → colled: a loss – the fire engine arrives too late.
++pozn=set phrase from the obituary in the papur bro, p. 149
+0491|secret|Don't tell anyone – it's a secret! (cyfrinach → [g]yfrinach after 'n)|The secret is written in red lipstick and tucked up your CUFF (CYF-rinach).
++pozn=cyfrinachol = secret, confidential; in the book: Cadwyd y gyfrinach tan y diwrnod… (p. 149); own example
+0492|political party|The party has lost a lot of seats (plaid → [b]laid after 'r, feminine).|Sounds like English PLAID (tartan): every party member in a red plaid scarf, red as a field of poppies.
++pozn=Plaid Cymru = the name of the Welsh party; pleidlais = vote, pleidleisio = to vote; own example
+0493|row (of houses, seats)|How many terraced houses are there in the row?|A RACE (RHES): a row of runners in red vests on the starting line.
++pozn=feminine, but it doesn't mutate after y: ll- and rh- are the exception after the article (y rhes, y llaw); question from p. 151
+0494|treatment (medical); handling|The treatment is working well (triniaeth → [d]riniaeth after 'r, feminine).|trin (to treat, to handle) + -iaeth: the treatment – a red heat lamp glowing on a sore back.
++pozn=trin = to treat, to handle (L13); in the book: ymchwil i driniaethau canser y fron (p. 149); own example
+0495|research|She does research into the Welsh language (Cymraeg → [G]ymraeg after the feminine iaith).|ym- + chwilio (to search) = research: scientists testing the hottest red chillies.
++pozn=ymchwilio = to research, to investigate; ymchwilydd = researcher; own example
+0496|painter (who paints pictures), artist|Kyffin Williams was a famous artist.|darlun (picture) without the d- + -ydd (person): the one who paints pictures – icy blue glacier landscapes.
++alt=artist
++rod_pozn=grammatically masculine even for a woman
++pozn=arlunio = to paint, to draw; artist (L7) is more general; own example
+0497|inspector|The inspector is coming to the school tomorrow.|arolwg (survey) + -ydd: the one who does the survey – an inspector with a frosty clipboard.
++rod_pozn=grammatically masculine even for a woman
++pozn=arolwg = survey, review (L16); arolygu = to inspect, to supervise; in the plural: Daeth yr arolygwyr i'r ysgol ddoe; own example
+0498|taste, flavour|The soup tastes lovely.|A BLAST (BLAS) of taste: the first suck of a blue slush puppy.
++pozn=pattern: mae blas … ar (something tastes …); blasu = to taste (L9), blasus = tasty; cael blas ar = arall L12; in the book: Ches i ddim blas o gwbl! (p. 153); own example
+0499|cancer|She's raising money for cancer research (canser → [g]anser after i).|From English cancer: a cold, blue-lit hospital ward.
++pozn=sentence based on p. 149
++s.pozn=north: pres instead of arian (L4)
+0500|body; corpse|They found a body in the lake (corff → [g]orff as the object).|Latin corpus → CORFF: a body frozen inside a blue glacier.
++pozn=formal news form: Daethpwyd o hyd i gorff (p. 147); corfforol = physical (L13); corff also means a body, an institution (corff cyhoeddus); own example
+0501|total, sum|They were jailed for a total of twenty years (cyfanswm → [g]yfanswm after am; blynedd → [m]lynedd after ugain).|cyfan (whole) + swm (sum): the whole sum on a receipt stuck to the freezer door.
++pozn=sentence based on the exercise on p. 147 (Carcharwyd pump o bobl … am gyfanswm o ugain mlynedd)
+0502|assembly|The National Assembly for Wales was the old name of the Senedd.|cynnull = to gather: an assembly is a gathering – in a cold, echoing hall.
++pozn=the Welsh parliament was called Cynulliad Cenedlaethol Cymru until 2020; cynulleidfa = audience (L6), same root "to gather"; the book gives no plural; own example
+0503|picture, painting; drawing|There's a lovely picture of the sea on the wall.|dar + LUN ~ llun (picture): a picture of a polar bear on an ice floe.
++pozn=darlunio = to illustrate, to draw; own example
+0504|damage|The storm caused a lot of damage (llawer → [l]awer as the object; difrod → [dd]ifrod after o).|A DIVER (DI-FROD) finds damage to the hull under the ice.
++pozn=difrodi = to damage; achosi = to cause (L5); own example
+0505|culture|I like learning about Welsh culture (diwylliant → [dd]iwylliant after am).|A memory aid: di- + gwyllt (wild) = no longer wild, cultivated – a neat formal garden under blue frost.
++pozn=diwylliannol = cultural; own example
+0506|piece of furniture (plural dodrefn = furniture)|There isn't much furniture in the flat (dodrefn → [dd]odrefn after o).|"DO DRESS" the igloo (DODREFN): furnish it with frosty blue furniture.
++pozn=collective plural: dodrefn = furniture (the more common form), dodrefnyn = one piece; dodrefnu = to furnish; own example
+0507|lad, youth, young man|The lad was jailed for two years (carcharu → [g]archaru after ei = his; blynedd → [f]lynedd after dwy).|A LANKY (LLANC) lad in a blue hoodie.
++pozn=llances = girl, young woman; sentence from the exercise on p. 148
+0508|place, spot|This is the place where we first met.|X marks the spot where the snowMAN stands.
++rod_pozn=masculine according to the coursebook; in the set phrase yn y fan a'r lle it mutates like a feminine noun (y fan)
++pozn=unman = nowhere, anywhere; yn y fan a'r lle = on the spot, immediately; in the book: mewn rhai mannau = in some places (p. 150); don't confuse with fan (f) = van; own example
++s.exc=This is the place where we first met (cyfarfod → [g]yfarfod after wnaethon ni).
++s.pozn=north: cyfarfod instead of cwrdd (outside the coursebook), past tense with gwneud
+0509|movement, organisation|Merched y Wawr is an organisation for women in Wales (mudiad → [f]udiad after yn; menywod → [f]enywod after i; Cymru → [Ngh]ymru after yng).|symud = to move: mudiad = a movement, marching across a frozen square.
++pozn=mudo = to move house, same root "movement"; Merched y Wawr and Llywydd Cenedlaethol y Mudiad: p. 149; own example
+0510|packet, package, pack|We'll send another packet to you (pecyn → [b]ecyn as the object after the short verb form).|From English packet: a packet of frozen fish fingers.
++pozn=sentence from the dialogue on p. 153
+0511|site, location; position|The new houses will be on the site of the old factory.|saf- (sefyll, to stand) + lle (place): the place where something stands – a penguin standing on its own spot.
++pozn=also a position in a league table (safle cynta) and a website (safle we); own example
+0512|institution, establishment; institute|She works for a big institution in Cardiff (Caerdydd → [Ngh]aerdydd after yng).|sefydlu = to establish: an institution, built solid as a glacier.
++pozn=sefydlu = to establish, to found; sefydlog = stable, settled; Sefydliad y Gweithwyr = workmen's institute (St Fagans, p. 151); own example
+0513|temperature|Temperatures will rise over the weekend.|TYMHER ~ English TEMPERature: a thermometer frozen at minus twenty in the Arctic.
++pozn=sentence based on the weather forecast in Bwletin Newyddion (p. 150), where the word is a gap to fill
+0514|darkness, the dark|It'll be hard to see her in the dark (gweld doesn't change after ei = her).|tywyll (dark) + -wch: the long darkness of an Arctic winter night.
++pozn=sentence from the papur bro, p. 149
+0515|individual|The prize for the best individual went to the cyclist Tomos Griffiths (gwobr → [w]obr after y, feminine).|un (one) + unig (only, alone) → unigolyn: one lone walrus on an ice floe.
++rod_pozn=grammatically masculine even for a woman
++pozn=unig = only, lonely; unigol = individual, single; sentence from Bwletin Newyddion, p. 150

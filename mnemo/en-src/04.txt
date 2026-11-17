@@ -1,0 +1,29 @@
+# deck 04 – Uned 3. See STYLE.md.
+0084|blanket|He's lying under a blanket on the sofa (blanced → [f]lanced after dan).|Same as English 'blanket': snuggle under a red blanket by the glowing embers.
++s.pozn=north: o instead of e (L1)
+0085|boot (of a car); chest|I'm not surprised the car boot is full.|CIST ≈ CHEST: a treasure chest in the boot of the car, glowing like hot coals.
++cu=the luggage space of a car, not a suitcase
+0086|series|What do you think of the new series for learners on S4C? (cyfres → [g]yfres after y, feminine)|rhes = a row: a series is a row of episodes, and each one ends with the red dragon breathing fire.
++s.pozn=north: Be instead of Beth (L9)
+0087|article|I read an interesting article in the paper yesterday (diddorol → [dd]iddorol after the feminine erthygl).|An article about a TIGER (er-THYGL) with terrible sunburn.
+0088|death|The tutor says the film 'Death in Merthyr' is good.|marw = dead: the prize MARROW (MARW-olaeth) dies of sunburn at the village show.
++s.pozn=north: deud instead of dweud (not in the coursebook)
+0089|situation|What a strange situation! (rhyfedd → [r]yfedd after the feminine sefyllfa)|sefyll = to stand + -fa = place: how things stand – and right now you're standing in a sauna.
+0090|system|It's a good system, but it's complicated (da → [dd]a after the feminine system; cymhleth → [g]ymhleth after yn; hi = it, because system is feminine).|Careful, feminine in Welsh! A whole system built out of red phone boxes.
+0091|bay|Hopefully we can go to the concert in Cardiff Bay (Bae → [M]ae after ym, nasal mutation).|Say BYE (BAE) to the bay – it's full of floating ice.
++s.pozn=north: medru instead of gallu (L7)
+0092|collection|My poster collection is huge (casgliad → [ngh]asgliad after fy, nasal; poster → [b]osteri after o).|An old CASK (CASG-liad) holds his collection of snow globes.
+0093|hurricane|The plane was very late leaving Cardiff because of a hurricane.|gwynt = wind: a hurricane is a giant whirl of wind and hailstones.
+0094|workshop|I'm sure they're going to the writing workshop.|gwaith (work) + tŷ (house): a workshop where the heating's broken and everyone works in mittens.
++s.pozn=north: sgwennu instead of ysgrifennu (not in the coursebook)
+0095|peace|What do you think of the new drama about the peace camp on S4C?|hedd = peace; heddlu (police) = the 'peace force'. Peace at last under a soft blanket of snow.
++s.pozn=north: Be instead of Beth (L9), dach instead of dych (L11)
+0096|poster|I thought your poster was weird (poster → [b]oster after dy).|Same as English: a poster of a blue whale.
+0097|some, a bit|There's a bit of bread left (bara → [f]ara after o).|rhyw (some) + maint (size) = some amount: just a few flakes of snow left on the snowman's hat.
++pozn=used with o + soft mutation (rhywfaint o fara)
+0098|bum, backside|And I fell hard on my bum on the ice (tin → [nh]in after fy, nasal mutation; cwympais → [ch]wympais after a).|A TIN bum: you landed so hard on the ice it went blue.
++rod_pozn=the coursebook (p. 24, blue box) gives m; dictionaries (GPC) probably give f – to be checked
++cu=colloquial, slightly rude
++s.exc=And I fell hard on my bum on the ice (tin → [nh]in after fy, nasal mutation).
++s.pozn=north: syrthio instead of cwympo (L14, L15)
+0099|violence|Is there too much violence on TV? (trais → [d]rais after o)|In a TRICE (TRAIS) the snowball fight turns to violence.

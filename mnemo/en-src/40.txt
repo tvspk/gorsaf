@@ -1,0 +1,53 @@
+# deck 40 – Uned 20 (news glossary: Argyfyngau, Trosedd, Chwaraeon, Tywydd). See STYLE.md.
+0875|accident|There was a serious accident in a factory in Swansea this morning (difrifol → [dd]ifrifol after the feminine damwain).|A runaway WAIN (wagon) smashes into a DAM and bursts into flames like red lava: DAM-WAIN.
++pozn=after the article y ddamwain (Digwyddodd y ddamwain yn gynnar y bore 'ma, p. 261); sentence from the Bwletin Newyddion, p. 261
+0876|to save, to rescue|The rescue team found a boat (cwch → [g]wch after i).|bad achub = lifeboat.
++pozn=bad achub = lifeboat (L4); achubwr = rescuer (outside the coursebook); arbed (L3) = to save money, space; sentence from the Bwletin Newyddion, p. 261
+0877|was / were taken|Seven children were taken to hospital (plant → [b]lant after o).|aeth (went) + -pwyd (impersonal): 'there was a going with' = was taken.
++pozn=impersonal past of mynd â (to take), news only; colloquially Aeth saith o blant i'r ysbyty; â becomes ag before a vowel; sentence from the Bwletin Newyddion, p. 261
+0878|air ambulance|The climber was taken to hospital by air ambulance.|ambiwlans + awyr (air, L4): an air ambulance landing on a snowy mountainside.
++pozn=the book gives neither gender nor plural; ambiwlans is usually masculine, plural ambiwlansys (outside the coursebook); own example
+0879|lost, missing|Two walkers are missing on the mountain (cerddwr → [g]erddwr after dau).|colli = to lose: ar goll = lost.
++pozn=coll → goll after ar; colli = to lose, colled = loss (L12); colloquially also Mae fy allweddi i ar goll; own example
+0880|helicopter|A helicopter came to rescue the climbers.|hofran (to HOVER) + -ydd: a helicopter hovering over the polar ice cap.
++pozn=hofran = to hover (outside the coursebook); singular with nn, plural with one n; own example
+0881|to sail|The ship will sail to Ireland tomorrow.|hwyl = sail and also good spirits (L10): with a good hwyl you sail well.
++pozn=hwyl = sail, also fun, mood (L10); own example
+0882|to burn|The fire has burnt the whole shed.|You LOSE your eyebrows (LLOS-gi) when you burn the toast.
++pozn=llosgfynydd = volcano (outside the coursebook); own example
+0883|to die|The old tree has died (coeden → [g]oeden after hen).|marwolaeth (death): marw = to die.
++pozn=past: bu farw (news), colloquially fuodd e farw or farwodd e (see 0848); marw is also an adjective, dead; marwolaeth = death (L3); own example
+0884|to sink|The boat sank, but everyone was rescued (achub → [h]achub after eu).|SUDDO ~ SUDDenly: the boat SUDDenly goes down.
++pozn=own example
+0885|case (in court)|The case will be at the Crown Court next week.|achos = because, cause: a court case is about the cause of it all – heard in a courtroom as cold as a freezer.
++pozn=achos also means cause, and colloquially because (= oherwydd, L11); achos da = good cause (L4); own example
++cu=a court case; not a cause
+0886|judge|The judge sent the thief to prison for two years (dwy → [dd]wy after am; blynedd → [f]lynedd after dwy).|barn (opinion) + -wr (person): a judge giving his opinion in a courtroom with icicles hanging from the ceiling.
++rod_pozn=grammatically masculine even for a woman
++pozn=barn = opinion, barnu = to judge (outside the coursebook); beirniad = adjudicator (L5); own example
+0887|to steal|Someone has stolen my bike! (beic → [m]eic after fy)|A thief DOING (DWYN) a runner with your bike.
++pozn=in literary Welsh also to bear, to bring; stem not given: literary dyg- (dygodd), the colloquial past varies; lleidr (L11), lladrad (L14); own example
+0888|Crown Court|The thieves were found guilty by the Crown Court (Llys → [L]ys after gan).|llys (court, L7) + coron (crown): the court sits under a crown of frost.
++pozn=coron (f) → goron after y; cafwyd … yn euog = was / were found guilty, impersonal form; plural outside the coursebook; sentence from the Bwletin Newyddion, p. 261
+0889|was found|A car was found in the river (car → [g]ar after i).|
++pozn=impersonal past of dod o hyd i (to find, L8), news only; colloquially Daeth rhywun o hyd i gar; sentence from the Bwletin Newyddion, p. 261
+0890|magistrates' court|Two men will appear before Swansea magistrates' court tomorrow (dyn → [dd]yn after dau).|llys (court) + ynadon (magistrates): three magistrates in blue scarves in an unheated courtroom.
++pozn=ynad (pl. ynadon) = magistrate, justice of the peace (outside the coursebook); ymddangos o flaen y llys = to appear before the court (p. 261); plural outside the coursebook; sentence based on p. 261
+0891|try (rugby); application|Wales scored a try in the second half (cais → [g]ais as the object).|ceisio = to try: a rugby try is literally a 'try' – scored in the sleet on a frozen pitch.
++pozn=plural ceisiau = tries, attempts; ceisiadau = applications; ceisio = to try; ffurflen gais = application form (L3); own example
+0892|scoreless, goalless|It was goalless at half time (di-sgôr → [dd]i-sgôr after yn).|di- (without) + sgôr (score).
++pozn=the prefix di- = without, as in di-Gymraeg (L16); sentence from the Bwletin Newyddion, p. 261
+0893|goal|Wrexham won by three goals to two (tair, dwy = feminine forms of the numbers; dwy → [dd]wy after i).|GOAL (GÔL): the keeper's gloves are smouldering red after that shot.
++pozn=feminine gender confirmed by tair gôl (p. 261); sentence from the Bwletin Newyddion, p. 261
+0894|semi-final|Wales have reached the semi-final!|cyn (before) + terfynol (final): the round before the final, red flares blazing in the stands.
++pozn=cyn-derfynol → gyn-derfynol after the feminine rownd; no mutation in the plural; plural outside the coursebook; own example
+0895|final|Swansea lost in the final.|terfyn (end): the last round, a trophy so red-hot nobody can hold it.
++pozn=terfynol → derfynol after the feminine rownd; no mutation in the plural; plural outside the coursebook; own example
+0896|hail|There will be hail and lightning in several areas tonight.|KEN LISPS (CEN-LLYSG) through chattering teeth, pelted by hail.
++pozn=collective noun, gender not given; the book gives cenllysg/cesair as equals, cesair is perhaps rather northern (to be checked); mellt (L5), taran (L14); own example
+0897|to blow|The wind is blowing hard today (cryf → [g]ryf after yn).|WHOOTH! (CHWYTH-u) – the sound of blowing out candles.
++pozn=own example
+0898|throughout, all over|It will be fine all over Wales.|lled = width: ledled = across the whole width.
++pozn=ledled y wlad = throughout the country; ar draws (Cymru) = across (p. 261); sentence from the Bwletin Newyddion, p. 261
+0899|mild (weather); gentle, kind|It will be mild today, but wet (mwyn → [f]wyn, gwlyb → [w]lyb after yn).|A MOOing (MWYN) cow in a mild, gentle meadow.
++pozn=homonyms: mwyn (noun) = ore, er mwyn = for the sake of, in order to; own example

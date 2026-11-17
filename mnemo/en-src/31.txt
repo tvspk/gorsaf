@@ -1,0 +1,51 @@
+# deck 31 – Uned 16. See STYLE.md.
+0689|medal|She won a gold medal for Wales (medal → [f]edal as the object after enillodd hi; Cymru → [G]ymru after i).|A MEDAL on a red ribbon, glowing red-hot from the forge.
++pozn=medal aur / arian / efydd = gold / silver / bronze medal (aur, arian, efydd begin with a vowel, so they don't change after the feminine medal); own example
+0690|venture; initiative|The new initiative is helping people learn Welsh (menter → [f]enter after y, feminine; dysgu → [dd]ysgu after i).|A MENTOR (MENTER) launches a risky new venture, fizzing like a Bonfire Night sparkler.
++pozn=mentro = to venture, to dare (L9), mentrus = enterprising (L7); Menter Iaith = local organisation promoting Welsh (outside the coursebook); own example
+0691|championship|How many medals did the Welsh cyclists win at the World Championships yesterday? (medalau → [f]edalau after o; Pencampwriaethau → [Mh]encampwriaethau after ym)|pen (head, top) + campwr (champ; camp = feat, L7): the top champs battle for a cup studded with rubies.
++pozn=pencampwr = champion (outside the coursebook); sentence from the Bwletin Newyddion, p. 212
+0692|transport|I travel more by public transport (trafnidiaeth → [d]rafnidiaeth after ar; cyhoeddus → [g]yhoeddus after the feminine noun).|TRAF- as in TRAFfic: a fire engine stuck in rush-hour traffic, siren wailing.
++pozn=trafnidiaeth gyhoeddus = public transport; sentence from Siaradwch – Byw yn wyrdd, p. 202
+0693|habit|She has changed her eating habits (arferion → [h]arferion after ei = her).|fel arfer = as usual: what you do as usual is your habit. A penguin waddles to the same ice floe every single morning.
++pozn=arferol = usual, anarferol = unusual (L15); ro'n i'n arfer… = I used to…; ei = her adds h before a vowel; own example
+0694|survey; review|Here are the results of the survey on recycling (canlyniadau → [g]anlyniadau after dyma).|A ROLL-call (AROL-wg) of opinions: a surveyor with a clipboard, ticking boxes in a blizzard.
++pozn=arolygydd = inspector (L12); canlyniad = result (L15); own example
+0695|tiredness|She has been suffering from tiredness for months (blinder → [f]linder after o).|wedi blino = tired → blinder. So tired you're snow-BLIND (BLIND-er).
++pozn=blinedig = tired, tiring (L3); wedi blino'n lân = completely exhausted (L14); dioddef = to suffer (L9); own example
+0696|bulb (light bulb; flower bulb)|I bought bulbs for the garden (bylbiau → [f]ylbiau as the object after prynais i; gardd → ardd, g drops after i'r, feminine).|BULB (BYLB): a cold blue bulb glowing inside an igloo.
++pozn=sentence based on the presents game, p. 206 (bylbiau i'r ardd)
++cu=light bulb / flower bulb
+0697|chairperson, chair|Who will be the chair of the committee this year? (cadeirydd → [g]adeirydd after yn)|cadair (chair) + -ydd (person): the one who sits on the throne of ice at the head of the table.
++pozn=grammatically masculine even for a woman; cadeirio = to chair (L13), pwyllgor = committee (L4); Dewiswch y cadeirydd (p. 210); own example
+0698|chemical|I grow vegetables without chemicals (cemegau → [g]emegau after heb).|cemeg = chemistry: a blue liquid in a test tube kept in the freezer.
++pozn=cemegyn = one chemical; usually the plural cemegau; cemeg = chemistry (outside the coursebook); own example
+0699|silence|The silence on top of the mountain was lovely.|distaw = quiet: the dead silence of a glacier at night.
++pozn=distaw = quiet (outside the Geirfa); own example
+0700|valley|My friend comes from the Conwy Valley (Dyffryn → [Dd]yffryn after o).|A valley carved by a glacier, an ice-blue river at the bottom; Dyffryn is common in place names.
++pozn=cwm = narrower valley (outside the coursebook); own example
+0701|explanation|Look at the mutations and choose the explanation from the box.|"Let me explain over an ESPresso (ESB-oniad)" – an iced one.
++pozn=esbonio = to explain (outside the Geirfa), synonym egluro (L16); sentence from Ymarfer – Egluro, p. 209
++s.pozn=north: sbio instead of edrych meaning to look (L18)
+0702|space (outer space); room, space|The rocket is going into space tomorrow.|GO FOrwarD (GOFOD): onwards into the freezing dark of space.
++pozn=gofodwr = astronaut (outside the coursebook); roced = rocket (L15); fory = colloquial yfory; own example
++cu=outer space / free space, room
+0703|lighthouse|We walked to the old lighthouse (goleudy → oleudy, g drops after hen).|golau (light) + tŷ (house) = the house of light above a frozen sea.
++pozn=plural like tŷ → tai; own example
+0704|obsession|Football is an obsession in our house.|OBSESSION (OBSESIWN): it grips you like frostbite.
++pozn=own example
+0705|pavement|The pavement was very slippery this morning.|An ANT slides under a PALM tree on a frozen pavement: PALM-ANT.
++pozn=llithrig = slippery (L3); own example
+0706|striker (person on strike)|One striker spoke to the press (gwasg → [w]asg after 'r, feminine).|streic (strike) + -iwr (person): a striker on the picket line in a blizzard.
++pozn=grammatically masculine even for a woman; striker = person on strike, not a football forward; y wasg = the press (L15); own example
+0707|cut|I had a haircut yesterday (toriad → [d]oriad as the object after ces i).|torri = to cut, to break → toriad. Scissors straight out of the freezer, ice-cold.
++pozn=toriad gwallt = haircut; toriad trydan = power cut; toriadau = budget cuts; own example
++s.exc=I had a haircut yesterday (toriad → [d]oriad as the object after ges i).
++s.pozn=north: ges i instead of ces i (outside the coursebook)
+0708|mutation (of the first sound)|There is a soft mutation after the word 'i'.|TREIGLad ~ TRIangle: a triangle carved in blue ice, one corner for each mutation – meddal, trwynol, llaes.
++pozn=treiglad meddal / trwynol / llaes = soft / nasal / aspirate mutation (table p. 209); own example
+0709|union; trade union|The union has called another strike.|un (one) + -deb: all as one, like penguins huddled together against the cold.
++pozn=undeb llafur = trade union; yr Undeb Ewropeaidd = the EU (outside the coursebook); own example
+0710|energy (power, fuel)|I use green energy from solar panels (paneli → [b]aneli after o).|egni = a person's energy (L7), ynni = energy from the socket: a cold blue electric spark.
++pozn=based on Siaradwch – Byw yn wyrdd, p. 202 (defnyddio ynni gwyrdd, e.e. paneli solar)
++cu=power from a power station, not personal get-up-and-go

@@ -1,0 +1,62 @@
+# deck 33 – Uned 17. See STYLE.md.
+0731|variety, range; variation|A big range of courses this year – from making baskets to wooden toys and lovespoons (cyrsiau → [g]yrsiau and gwneud → [w]neud after o; teganau → [d]eganau after i).|amryw (various) + -iaeth: a whole firework display of choices.
++pozn=Geirfa: f; sentence from the events calendar, p. 221, but the book writes "amrywiaeth mawr" here (agreement as with a masculine noun; feminine would give "fawr") → gender to be checked
+0732|thumb|I cut my thumb while cooking (bawd → [m]awd after fy, nasal mutation).|A sunburnt thumb, BOWED (BAWD) like a hook.
++pozn=bys = finger, bys troed = toe (L8); own example
+0733|lecture|We went to a history lecture in the Town Hall (darlith → [dd]arlith after i).|A DARLING (DARL-ith) lecturer in bright red lipstick reads LITerature to the hall.
++pozn=darlithydd = lecturer (outside the coursebook); hanesyddol doesn't mutate after the feminine darlith (h-); based on the events calendar, p. 221
+0734|lovespoon (traditional Welsh love token)|Grandad made a lovespoon for Grandma (llwy → [l]wy as the object; Mam-gu → [F]am-gu after i).|llwy (spoon) + caru (to love): a heart burnt into the wood with a red-hot poker.
++pozn=caru → garu after the feminine llwy, but no mutation in the plural (llwyau caru); own example
++s.exc=Grandad made a lovespoon for Grandma (llwy → [l]wy as the object; Nain doesn't mutate).
++s.pozn=north: taid and nain instead of tad-cu and mam-gu (L17, p. 228)
+0735|kangaroo|We saw a kangaroo in Australia (cangarŵ → [g]angarŵ as the object).|KANGAROO (CANGARŴ) on ice skates.
++pozn=own example
+0736|vehicle|Car boot sale in the car park. Five pounds per vehicle (y = per item).|CAR + BYD (world): a car that drives round the world, all the way to the Arctic.
++pozn=sentence from the events calendar, p. 221
+0737|musician|My brother is a professional musician (brawd → [m]rawd after fy; cerddor → [g]erddor after yn).|cerdd (music, poem) + -or (person): a musician playing to an audience of snowmen.
++pozn=cerddorfa = orchestra (L2), cerdd = poem (L14); own example
+0738|crew|The film crew were staying in Cardiff (Caerdydd → [Ngh]aerdydd after yn).|CREW (CRIW): a ship's crew stuck in pack ice.
++pozn=colloquially also a gang, a bunch: 'Dyn ni'n griw siaradus (L10); own example
+0739|account|Do I have to send my bank account details? (cyfrif → [ngh]yfrif after fy)|cyfrif also means "to count": an account is where your money gets counted – a bank card frozen into a block of ice.
++pozn=cyfrif is also the verb to count (Help llaw: y ffordd draddodiadol o gyfrif, p. 228); sentence from the listening, p. 225
++cu=bank or user account; not a receipt
++s.pozn=north: i mi instead of i fi (outside the coursebook)
+0740|circle, ring|Put a circle round the right answer (cylch → [g]ylch as the object; cwmpas → [g]wmpas after o).|CYCLE ~ CYLCH: a perfect circle skated on a frozen pond.
++pozn=cylchgrawn = magazine (outside the coursebook); sentence from the exercise, p. 219
+0741|industry|The coal industry was very important in the Valleys (pwysig → [b]wysig after yn).|diwyd = diligent + -iant: hard work → industry; red-hot steel plunged into ice-cold water.
++pozn=y Cymoedd = the South Wales Valleys; own example
+0742|mayor|The mayor opened the new festival (gŵyl → ŵyl after y, feminine: the g- drops).|MAER ~ MAYOR: his chain of office frosted over.
++pozn=cynghorydd = councillor (L2); own example
+0743|power|The wind is an important source of power (pwysig → [b]wysig after the feminine ffynhonnell; pŵer → [b]ŵer after o).|POWER (PŴER): a blue bolt of electricity.
++pozn=in the book: the lecture "Pŵer a Rhyw yn yr Oesoedd Canol", p. 221; close in meaning: ynni = energy (L16), egni = energy, get-up-and-go (L7), nerth = strength (L18); own example
+0744|sex, gender|Give your name, your age and your sex on the form.|
++pozn=homonym: rhyw = some (before a noun, soft mutation: rhyw ddyn, rhywbeth, rhywfaint); rhyw doesn't mutate after a'ch (eich), soft rh → r (ei ryw e); rhywiol = sexual (outside the coursebook); oedran (L1); own example
++cu=noun, not "some"
+0745|symbol|The lovespoon is a symbol of love (cariad → [g]ariad after o).|SYMBOL: drawn in the frost on a window pane.
++pozn=own example
+0746|forehead|Do you like your hair off your forehead?|A TALL CAN (TAL-CEN) of ice-cold pop pressed to your forehead.
++pozn=also the gable end of a house (talcen tŷ, outside the coursebook); sentence from Robin Radio, p. 227
++s.pozn=north: dach instead of dych (L11)
+0747|tradition|Giving a lovespoon is an old Welsh tradition (traddodiad → [d]raddodiad after hen).|tra- (across) + dodi (to put): what's handed across, down the generations (Latin tradere) – like a snow globe passed from grandmother to grandchild.
++pozn=traddodiadol = traditional (carolau traddodiadol, p. 221); own example
+0748|retirement|Mum is looking forward to her retirement (ymddeoliad → [h]ymddeoliad after ei = her).|ymddeol = to retire + -iad: a pensioner who has retired to the Arctic to go fishing.
++pozn=in the book: dw i'n dechrau meddwl am ymddeol (p. 224); h before a vowel after ei = her (L8); own example
+0749|to dream|I dream of living by the sea (byw → [f]yw after am).|breuddwyd = dream.
++pozn=breuddwydio am = to dream of; breuddwyd (f) = dream (L10); in the book the film Breuddwydio, p. 220; own example
+0750|to intend|I intend to go to Cardiff for the game (Caerdydd → [G]aerdydd after i).|bwriad = intention.
++pozn=bwriad = intention (L15); own example
+0751|to chatter, to natter|They were nattering all night in the pub (tafarn → [d]afarn after y, feminine).|CLATTER and BLAB (CLEB-ran): chatter, chatter, chatter.
++pozn=past tense clebrodd; in the book Clwb Clebran, p. 221; mân siarad = small talk (L14); own example
+0752|to comb|Have you combed your hair? (gwallt → [w]allt after dy)|crib = comb (also a mountain ridge).
++pozn=crib = comb (outside the coursebook); own example
+0753|to film|They're filming in the castle today.|From English FILM.
++pozn=impersonal past ffilmiwyd (L12): y ffilm Hollywood ffilmiwyd yma (events calendar, p. 220); own example
+0754|to twin (towns)|Abercastell has twinned with a town in Brittany (tref → [th]ref after â).|gefell = twin: the towns become twins.
++pozn=used with â: gefeillio â; gefell = twin (L10); Llydaw = Brittany; own example
+0755|to fear, to be afraid of|The children are afraid of the dark.|ofn = fear; OFNadwy = awful.
++pozn=ofni + direct object (no preposition); codi ofn ar = to frighten (L7); tywyllwch (L12); own example
+0756|to count (out loud), to number|Count from one to ten (deg → [dd]eg after i).|rhif = number.
++pozn=cyfrif = to count, also in the sense of adding up; own example
++cu=saying the numbers in order, not cyfrif
+0757|to release, to free; to release (an album, a film)|Nelson Mandela was released on the eleventh of February.|rhydd = free + -hau (to make): to set free.
++pozn=past tense rhyddhaodd; rhyddhawyd = impersonal past (L12); date: yr unfed ar ddeg o Chwefror (Help llaw, p. 228); sentence based on the exercise, p. 219 (11 Feb 1990)

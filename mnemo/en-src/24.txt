@@ -1,0 +1,33 @@
+# deck 24 – Uned 12 (Geirfa box arall). See STYLE.md.
+0536|physical education, PE|The children have PE every Monday (corfforol → [g]orfforol after the feminine addysg; pob → [b]ob as an adverbial).|corff (body) → corfforol (physical): after PE your face is as red as tomato soup.
++pozn=in the Geirfa in the box arall; as a noun it's feminine like addysg, hence the soft mutation of the adjective; corfforol = physical (L13); own example
+0537|a long time ago|A long time ago there was a castle on this hill.|Literally "time long back".
++pozn=maith = long (of time), more literary; ers amser maith = for a long time; own example
+0538|to enjoy, to get a taste for|I hope you'll enjoy them!|blas = taste: to get a taste for something.
++pozn=in the Geirfa in the box arall; cael is irregular (ces i flas ar…, cafodd hi flas ar…); soft mutation after ar (cael blas ar fwyd); ar with endings: arna i, arnat ti, arno fe, arni hi, arnon ni, arnoch chi, arnyn nhw; literal (Roedd hi'n cael blas ar ei brecwast, p. 153) and figurative = to get a taste for something; sentence from the dialogue on p. 153
+0539|to find, to discover|I found a purse in the street (pwrs → [b]wrs after i).|hyd = length: you go the whole length of it until you find it.
++pozn=in the Geirfa in the box arall; cael is irregular (ces i hyd i…, cawson nhw hyd i…); synonym dod o hyd i (L8); soft mutation after i; own example
++s.pozn=north: ges i instead of ces i (outside the coursebook)
+0540|hundredth|Jac is the hundredth baby to be born in the hospital (geni → [e]ni after ei = his).|cant (hundred) + -fed (ending of ordinal numbers).
++pozn=goes before the noun; a feminine noun mutates after y: y ganfed flwyddyn; ordinal numbers in detail in L17; sentence from the papur bro, p. 149
++s.exc=Jac is the hundredth baby to be born in the hospital.
++s.pozn=north: ydy instead of yw (derived from L5 Beth yw / Be ydy)
+0541|breast cancer|She's recovered after treatment for breast cancer (canser → [g]anser after am).|canser (cancer) + y fron (of the breast; bron → fron after y, feminine).
++pozn=in the Geirfa in the box arall; as a noun masculine like canser; bron → fron after y (bron is feminine); in the book: ymchwil i driniaethau canser y fron (p. 149); own example
+0542|draw, drawn game|Last night's game was a draw (cyfartal → [g]yfartal after the feminine gêm).|Two teams split one ruby-red trophy in half.
++pozn=in the Geirfa in the box arall; as a noun feminine like gêm, hence gyfartal; plural gemau cyfartal (no mutation in the plural); own example
+0543|exactly, perfectly, to a T|The idea fitted perfectly.|Literally "to the nothing": not a scrap left over, it fits completely.
++pozn=also on its own as an exclamation I'r dim! = Exactly! (L15, no card there); sentence from the text about Nansi Richards, p. 153
+0544|from now on|From now on I'll speak Welsh at home.|o (from) + hyn (this) + ymlaen (forward): from this point forward.
++pozn=own example
++s.pozn=north: adra instead of gartre (outside the coursebook)
+0545|GCSE|I did Welsh GCSE at school.|Tystysgrif Gyffredinol Addysg Uwchradd = General Certificate of Secondary Education.
++pozn=Tystysgrif Gyffredinol Addysg Uwchradd; said letter by letter; the book gives no gender; own example
+0546|as well as|She speaks French as well as Welsh (Cymraeg → [Ch]ymraeg after â).|cystal = as good: yn ogystal â = as well as.
++pozn=before a vowel ag (yn ogystal ag Almaeneg); own example
+0547|emotional, moved, overcome|She was emotional talking about her grandfather (tad-cu → [th]ad-cu after ei = her).|dan (under) + teimlad (feeling): under the sway of your feelings.
++pozn=teimlad → deimlad after dan; teimlad = feeling (L8); phrase from Robin Radio (p. 158), own sentence
++s.exc=She was emotional talking about her grandfather (taid → [th]aid after ei = her).
++s.pozn=north: taid instead of tad-cu (L17)
+0548|for the time being, for now|That's all for now.|am (for) + y tro (this turn): for this time.
++pozn=dros dro = temporarily (L1); phrase from Robin Radio (p. 158), own sentence

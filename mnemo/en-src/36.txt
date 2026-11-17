@@ -1,0 +1,41 @@
+# deck 36 – Uned 18. See STYLE.md.
+0792|fortunate, lucky|We were very lucky with the weather (ff- doesn't mutate).|ffawd = fate: fate smiled on you.
++pozn=yn ffodus = fortunately, yn anffodus = unfortunately (L8); own example
++cu=lucky, not hapus (happy)
++s.exc=We were very lucky with the weather.
++s.pozn=north: efo instead of gyda (L2)
+0793|punctual, on time, prompt|The train is on time today, for once! (prydlon → [b]rydlon after yn)|pryd (time, when) + -lon: right on time.
++pozn=own example
+0794|belly button|Do you know that one shows your belly button? (botwm → [f]otwm after dy; hwnna = that one, the top, masculine)|botwm (button) + bol (belly): a button sewn on your tummy.
++pozn=in the Geirfa in the box arall; masculine because of botwm; plural botymau bol (outside the coursebook); sentence from the dialogue Yn y siop chwaraeon, p. 234
+0795|weightlifting; to lift weights|I sit on my backside too much, so I've started a weightlifting class! (tin → [nh]in after fy)|codi (to lift) + pwysau (weights).
++pozn=in the box arall; a verb-noun like curo dwylo (L17); pwyso = to weigh (L15); nerth = strength (L18); sentence from the dialogue, p. 234
+0796|to lose (one's) hold (on), to lose one's grip; to lose control (of)|I lost my grip on the rope and fell (gafael → [a]fael as the object after collais i; rhaff doesn't mutate after y: rh-; cwympais → [ch]wympais after a).|colli (to lose) + gafael (grip, hold).
++pozn=ar causes soft mutation (colli gafael ar raff); also in Robin Radio, p. 238; gafael yn dynn (L8), cwympo (L15); own example
++s.exc=I lost my grip on the rope and fell.
++s.pozn=north: syrthio instead of cwympo (L14, L15)
+0797|hunger, appetite|I'm hungry (literally: there is hunger on me). How about lunch? (cinio → [g]inio after am)|CHWANT ~ WANT: you WANT food so badly you'd eat frozen fish fingers straight from the freezer.
++pozn=in the Geirfa in the box arall; masculine because of chwant; pattern Mae chwant bwyd ar + person (arna i, arnat ti…); chwant = desire, craving; own example
++cu=chwant…, not eisiau bwyd
++s.exc=I'm hungry. How about lunch?
++s.pozn=north: Be instead of Beth (L9)
+0798|packed to the rafters, packed out|Owain stepped onto the train, which was already packed to the rafters (parod → [b]arod after yn).|sang = treading: everyone treading on everyone else's toes.
++pozn=fixed phrase, ei doesn't change (y neuadd dan ei sang); sentence from the reading Croesi'r Bont, L4, p. 48
+0799|set book (required reading)|The novel was a set book at school (llyfr doesn't mutate after yn: ll-).|gosod = to set, to place: the teacher sets on your desk the book you must read.
++pozn=in the Geirfa in the box arall; masculine because of llyfr; plural llyfrau gosod; gosod (L7); own example
+0800|from time to time|I play cricket for the Bryncastell team from time to time (tîm → [d]îm after i; tro → [d]ro after o and i).|tro = turn, while: from one turn to the next.
++pozn=weithiau = sometimes; am y tro (L12); sentence from the dialogue, p. 234
+0801|among, amongst|The song is very popular among young people (cân → [g]ân after 'r, feminine; poblogaidd → [b]oblogaidd after yn).|
++pozn=preposition; rhwng = between (two), ymhlith = among (many); yn ein plith = among us; own example
+0802|You'd better explain!|You'd better explain what happened! (digwyddodd → [dd]igwyddodd after beth)|gwell = better: it'll be better if you explain.
++pozn=Gwell i + person + soft-mutated verb-noun (Gwell i fi fynd); egluro (L16); phrase from Robin Radio, p. 238
++s.exc=You'd better explain what happened!
++s.pozn=north: be instead of beth (L9)
+0803|I'm going to ask her to marry me.|He's going to ask her to marry him (gofyn → [o]fyn after i; priodi → [b]riodi after ei = his).|
++pozn=gofyn i rywun wneud rhywbeth = to ask someone to do something; fy mhriodi i (nasal after fy), ei briodi e (soft after ei = his); phrase from Robin Radio, p. 238
++s.exc=He's going to ask her to marry him.
++s.pozn=north: o instead of e (L1)
+0804|to look; to seem, to look (+ adjective)|Look at that one! That one looks better (gwell → [w]ell after yn; honna = that one, feminine).|drych = mirror: e-DRYCH, you look in the mirror.
++pozn=edrych ar = to look at, edrych yn + adjective = to look, to seem; card made because of sbio in the Geirfa of L18 (like cwympo/syrthio in L15); sentence based on the video Caffi'r Egin, p. 235
++s.exc=Look at that one! That one looks better.
++s.pozn=north: sbio = to look (Geirfa L18, Y De a'r Gogledd); only in the sense "to look at", for "to seem" the north also uses edrych

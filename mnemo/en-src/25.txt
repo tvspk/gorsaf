@@ -1,0 +1,47 @@
+# deck 25 – Uned 13. See STYLE.md.
+0549|basket|Who's carrying the basket? (basged → [f]asged after 'r, feminine)|From English basket: a basket piled high with shiny red apples.
++pozn=own example, emphatic sentence with sy (grammar of L13)
+0550|nut (plural cnau = nuts)|I've got a nut allergy (cnau → [g]nau after i).|cnau = nuts (collective), -en = one single nut: a chestnut roasting on an open fire.
++pozn=collective plural: cnau = nuts (the more common form), cneuen = one nut; cnau mwnci = peanuts (outside the coursebook); alergedd = allergy (L9); own example
++s.pozn=north: Mae gen i instead of Mae … gyda fi (L6)
+0551|coconut|There are six coconuts in the picture (cnau → [g]nau after o).|cneuen (nut) + coco: a coconut cracked open on a red-hot beach.
++pozn=in the singular coco → goco after the feminine cneuen, in the plural no mutation (cnau coco); sentence from p. 166 (ffair flynyddol)
+0552|level|The water level is rising.|From English level: the level of red lava creeping up the volcano.
++pozn=in the book: tasg ar lefel B1 = a task at B1 level (p. 167); own example
+0553|dialect|The southern dialect is different from the northern dialect (gwahanol → [w]ahanol after yn; tafodiaith → [d]afodiaith after i).|tafod (tongue) + iaith (language, feminine): every region's tongue is scorched red by its own local hot sauce.
++pozn=the word also appears in Robin Radio (p. 170); own example
+0554|state (federal), province|Texas is a very big state in the USA (talaith → [d]alaith after yn; mawr → [f]awr after the feminine talaith; taleithiau → [d]aleithiau in Unol Daleithiau).|Each state has a TALL LIGHThouse (TAL-AITH), its lamp glowing red-hot all night.
++pozn=yr Unol Daleithiau = the United States (L5), literally "united states"; own example
+0555|prison, jail|The thief went to prison for two years (dwy → [dd]wy after am; blwyddyn → [f]lynedd after dwy).|Latin carcer, as in inCARCERate: an ice-cold blue cell.
++pozn=carcharu = to imprison (L12); carcharor = prisoner (outside the coursebook); plural = carchar + tai (houses); own example
+0556|supporter, fan|There were thousands of supporters in the stadium (cefnogwyr → [g]efnogwyr after o).|cefn (back) + -ogwr: the one who's got your back – fans in blue shirts, their scarves stiff with frost.
++rod_pozn=grammatically masculine even for a woman
++pozn=cefnogi = to support; cefnogaeth = support (L6); own example
+0557|plan|Here's the plan: Siân is buying the food and I'm cooking (emphatic sentences with sy).|cyn (before) + llun (picture): a picture drawn in advance – a plan on blue paper, a blueprint.
++pozn=cynllunio = to plan (L6); own example based on the exercise Trefnu parti (pp. 162–163)
+0558|caretaker; carer|The caretaker opens the school every morning (emphatic sentence with sy).|gofal (care) + -wr (person): the one who takes care – gritting the icy school steps in blue overalls.
++rod_pozn=grammatically masculine even for a woman
++pozn=gofal = care (L7); gofalu am = to look after; own example
++cu=caretaker of a building or someone who looks after a sick person
+0559|location, venue|The venue is perfect for a wedding (perffaith → [b]erffaith after yn).|lle (place) + lleol (local) → lleoliad: a blue pin stuck into a map of Antarctica.
++pozn=own example (topic Trefnu digwyddiad)
+0560|prairie, pampas, steppe|The pampas in Patagonia is huge (Patagonia → [Mh]atagonia after ym, nasal mutation).|A PATH (PAITH) across the frozen steppe.
++pozn=linked with the Welsh settlement in Patagonia (video Pobl Patagonia, p. 164); own example
+0561|surprise|The class is organising a surprise party for the tutor.|From English surprise: a surprise popping out of a snow globe.
++pozn=close in meaning but unrelated native words: synnu = to surprise (L3), syndod = surprise, amazement (L15); sentence based on the task on p. 168
+0562|arrangement; (plural) arrangements, preparations|I'm making the arrangements for the trip (taith → [d]aith after y, feminine; emphatic sentence with sy).|trefn (order) + -iad: what you put in order in advance – lined up like ice cubes in a tray.
++pozn=in the book: e-mail yn dweud beth yw'r trefniadau (p. 168); according to the Geirfa of L2 the plural trefniadau also belongs to trefn (trefn(iadau)); own example
+0563|to decorate|Hywel and Fflur are decorating the hall (emphatic sentence with sy).|addurn (decoration) → addurno.
++pozn=addurn = decoration (L9); sentence from the exercise Trefnu parti, p. 163
+0564|to chair|The councillor is chairing the meeting (emphatic sentence with sy).|cadair (chair) → to sit in the chair at the head of the table.
++pozn=cadeirydd = chairperson (L16); cadeirio'r bardd = to chair the bard at the Eisteddfod; sentence from p. 162
+0565|to be sick, to vomit|I hope I won't be sick.|CHWYD! – the sound you make when you're sick.
++pozn=sentence from the text about the sea voyage (mordaith), p. 164
+0566|to wrap|Ameer is wrapping the presents (emphatic sentence with sy).|Wrap it on your LAP (LAP-io): the present sits on your knees while you wrap it.
++pozn=sentence from the exercise Trefnu parti, p. 163
+0567|to treat; to handle, to deal with|She was treated in hospital (trin → [th]rin after ei = her, aspirate mutation).|trin = to treat, as in triniaeth (treatment) and siop trin gwallt.
++pozn=triniaeth = treatment (L12); siop trin gwallt = hairdresser's (L6); own example
+0568|to draw attention (to)|The article draws attention to the area's problems (problemau → [b]roblemau after at).|tynnu (to pull) + sylw (attention) = to pull attention towards something.
++pozn=pattern tynnu sylw at (at causes soft mutation); with a possessive: tynnu eich sylw at = to draw your attention to; sylw (L1); own example
+0569|to apply (for)|She's applied for a post at the university (post → [b]ost after am; prifysgol → [b]rifysgol after y, feminine).|cais = application: ymgeisio = to apply.
++pozn=pattern ymgeisio am (am causes soft mutation); cais = application, ffurflen gais = application form (L3); ymgeisydd = applicant, candidate; own example

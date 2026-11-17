@@ -1,0 +1,44 @@
+# deck 32 – Uned 16. See STYLE.md.
+0711|to encourage|She encourages her children to speak Welsh (plant → [ph]lant after ei = her).|A warm mug of egg-NOG (an-NOG): "Go on, you can do it!"
++pozn=stem with one n: anogodd; annog rhywun i + soft mutation; anogaeth = encouragement (outside the coursebook); own example
+0712|to explain|Explain how and why keeping pets makes people happy.|eglur = clear: egluro = to make clear.
++pozn=topic of the lesson (Ymarfer – Egluro); esbonio = the same, very common in the south (esboniad = explanation, L16); eglurhad = explanation (outside the coursebook); sentence from Siaradwch – Cadw anifail anwes, p. 211
+0713|to launch|The new book was launched in the local Welsh shop (Cymraeg → [G]ymraeg and lleol → [l]eol after the feminine siop).|From English LAUNCH (LANS-io).
++pozn=lansiad = launch (outside the coursebook); passive with cael (L11); own example
+0714|to mutate|Why do words mutate?|TREIGLo ~ TRIangle: a word with three ways to change.
++pozn=sentence from Ymarfer – Egluro, p. 209; Help llaw p. 214: the mutation doesn't change with the contracted forms (i'w waith e, i'w champfa hi)
+0715|well-known, famous|She's a very well-known singer (cantores → [g]antores after yn).|adnabod = to know → adnabyddus = known (to everyone).
++pozn=well-known = famous, not "an acquaintance" (that is cydnabod); own example
+0716|grand, posh|We went to a posh hotel in London (gwesty → [w]esty after i).|A GRAND hotel – crand.
++pozn=synonym moethus = luxurious (L9); own example
+0717|contemporary|I like contemporary art (cyfoes → [g]yfoes after the feminine celf).|cyf- (together) + oes (age, era): of the same age = contemporary.
++pozn=materion cyfoes = current affairs (L2); own example
+0718|public|The public library is closed today (cyhoeddus → [g]yhoeddus after the feminine llyfrgell).|cyhoeddi = to announce, to publish: what's announced is public.
++pozn=cyhoeddi = to announce, to publish (outside the Geirfa); own example
+0719|non-Welsh-speaking|Her husband doesn't speak Welsh, but he's learning (di-Gymraeg → [dd]i-Gymraeg after yn).|di- = without: without Welsh.
++pozn=the Geirfa explains it in Welsh: ddim yn siarad Cymraeg; the prefix di- = without, and it causes soft mutation (Cymraeg → Gymraeg); own example
++s.pozn=north: o instead of e (L1)
+0720|vegan|Is there vegan food on the menu? (bwydlen → [f]wydlen after y, feminine)|From English VEGAN (FIGAN).
++pozn=f- doesn't mutate; based on Byw yn wyrdd, p. 202 (bwyd llysieuol/figan); own example
+0721|vegetarian|I'm trying to eat more vegetarian food (bwyd → [f]wyd after o).|llysiau = vegetables → llysieuol.
++pozn=llysieuwr / llysieuwraig = vegetarian (man / woman) (outside the coursebook); based on Byw yn wyrdd, p. 202
+0722|etc., and so on|I buy fruit, vegetables, bread and so on.|blaen = front: "and on to the front".
++pozn=ac ati = the same, shorter (p. 202); own example
+0723|in the lead, ahead|Wales are in the lead at half time.|blaen = front: you're at the front.
++pozn=o flaen = in front of (L2); emphatic sentence with sy (L13); own example
+0724|downstairs|The children are playing downstairs.|(i) lawr = down + llawr = floor: down on the ground floor.
++pozn=opposite lan llofft = upstairs (outside the coursebook); grisiau = stairs; llawr gwaelod = ground floor (L9); own example
++s.pozn=north: lawr grisiau instead of lawr llawr (outside the coursebook)
+0725|off, from (on top of), down from|I took the key off the kitchen table (bwrdd → [f]wrdd after oddi ar; cegin → [g]egin after y, feminine).|ar = on; oddi ar = off (what was on it).
++pozn=preposition; forms like ar; oddi cartre = away from home (L3); allwedd (f) = key, De/Gogledd p. 214; own example
++s.pozn=north: goriad (m) instead of allwedd (f) (L16, p. 214)
+0726|common sense|It's a matter of common sense (mater → [f]ater after 'n).|synnwyr = sense + cyffredin = common.
++pozn=in the Geirfa in the box arall; masculine because of synnwyr; synhwyrol = sensible (outside the coursebook); own example
+0727|one-day|I'm going on a one-day course on Saturday (cwrs → [g]wrs after ar; dydd → [dd]ydd as an adverb of time).|un (one) + dydd (day).
++pozn=goes after the noun it describes (cwrs undydd, gŵyl undydd); own example
+0728|above, overhead|The picture is above the fireplace.|uwch (higher) + pen (head): above your head.
++pozn=with a personal pronoun it splits: uwch fy mhen i (like ar ben, L8); uchod = above (in a text, L13); lle tân = fireplace (L9); own example
+0729|We'll see.|Will it be fine tomorrow? We'll see (cawn → [g]awn; gweld → [w]eld after ni).|cael (to get) + gweld (to see): "we'll get to see".
++pozn=phrase from Robin Radio, p. 213; colloquially also fory instead of yfory; own example
+0730|Have a good journey!|Thanks for everything, and have a good journey! (popeth → [b]opeth after am; da → [dd]a after the feminine siwrnai)|
++pozn=phrase from Robin Radio, p. 213; to one person you know well: Siwrnai dda i ti!; siwrne = colloquial spelling (see 0641); own example

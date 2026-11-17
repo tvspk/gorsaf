@@ -1,0 +1,54 @@
+# deck 18 – Uned 10. See STYLE.md.
+0385|exhibition|I like visiting an exhibition or a museum.|ar + dangos (to show) + -fa (place): the place where things are shown – today the red dragon itself is on display.
++pozn=arddangos = to exhibit (L12); sentence from p. 126, adapted
+0386|dream|I had a strange dream last night (breuddwyd → [f]reuddwyd after ces i; rhyfedd → [r]yfedd after the feminine breuddwyd).|In your dream you BRAVE (BREUDD-) a river of red lava.
++pozn=breuddwydio = to dream (L17); own example
++s.exc=I had a strange dream last night (breuddwyd → [f]reuddwyd after ges i; rhyfedd → [r]yfedd after the feminine breuddwyd).
++s.pozn=north: ges i instead of ces i (outside the coursebook)
+0387|stone|The children threw a stone into the lake (carreg → [g]arreg as the object after the verb form).|A CARRIAGE (CARR-eg) piled high with red-hot stones from the bonfire.
++pozn=own example
+0388|gravestone, headstone|Wil's name is on the gravestone (carreg → [g]arreg after y, feminine).|carreg (stone) + bedd (grave): a wreath of red poppies leaning on the gravestone.
++pozn=bedd → fedd: the describing word after the feminine carreg takes soft mutation; in the plural cerrig beddau there is no mutation; own sentence based on the story on p. 128
+0389|craft|Knitting is a popular craft (crefft → [g]refft after 'n; poblogaidd → [b]oblogaidd after the feminine crefft).|From English craft: the blacksmith's craft – sparks flying off a red-hot horseshoe.
++pozn=celf a chrefft = arts and crafts (p. 126, crefft → [ch]refft after a); own example
+0390|grape (a single one)|The talented folk group Sour Grapes have been invited to sing in New York (canu → [g]anu after i).|grawn (grain) + gwin (wine): a grain of wine – one plump red grape.
++pozn=grawnwin = collective plural (grapes), grawnwinen = one grape; sentence from p. 122, shortened
+0391|mood; fun|She's in a good mood today.|HWYL ~ WHEEL: fun on a Ferris wheel lit up red. hwyl is also a sail, and Hwyl! = Bye!
++pozn=mewn hwyliau da / drwg = in a good / bad mood (plural); Hwyl fawr! = Goodbye (mawr → [f]awr after the feminine hwyl); homonym hwyl = sail (also feminine, pl. hwyliau); sentence from p. 119
+0392|government|Mrs Llinos Smith from the Government has phoned.|llyw (helm, steering wheel): the government holds the helm of the state – and walks in on a red carpet.
++pozn=ll does not mutate after the article in the feminine (y llywodraeth); sentence from the dialogue on p. 120
+0393|maid, servant; maiden|Ann asked the maid to take the message to Wil (morwyn → [f]orwyn after 'r, feminine; mynd → [f]ynd after i'r forwyn in the pattern gofyn i rywun wneud).|The maid in a red apron scrubs till her hands glow red: MORE WINdows (MOR-WYN) to clean!
++pozn=Y Forwyn Fair = the Virgin Mary; own sentence based on the story on p. 128
+0394|graveyard, cemetery|Wil's gravestone is in the graveyard in Llangynwyd (mynwent → [f]ynwent after y, feminine).|MONUMENTS (MYNWENT) in the graveyard, with red candles flickering among them.
++pozn=sentence from the story Y Ferch o Gefn Ydfa (p. 128)
+0395|blame; fault|It was my fault (bai → [m]ai after fy, nasal mutation).|"BYE (BAI)!" shouts the one to blame – and runs off across thin ice.
++pozn=beio = to blame; ar fai = to blame, at fault; own example
++s.pozn=north: o instead of e (L1)
+0396|memory (the ability)|You've got a good memory if you remember everyone's birthday.|COF ~ COFFER: your memory is a strong box frozen deep inside a glacier. cofio = to remember.
++pozn=er cof am = in memory of; mae'r cof yn fyw = the memory lives on (p. 128); sentence based on the definition on p. 127
++cu=memory as an ability, not a recollection
++s.exc=You've got a good memory if you remember everyone's birthday (cof → [g]of after gynnoch chi).
++s.pozn=north: gynnoch chi instead of gyda chi (L6), dach instead of dych (L11)
+0397|wealth, riches|His wealth meant nothing to her (cyfoeth → [g]yfoeth after ei = his).|A CAVE OF (CYF-OETH) treasure: wealth piled high in an ice cave.
++pozn=cyfoethog = rich; the book's definition: llawer o arian (p. 127); own sentence based on the story on p. 128
++s.pozn=north: o instead of e (L1)
+0398|shadow; shade|Sit in the shade for a bit.|In the shade (cysgod) you sleep (cysgu) well – cool and blue, like a snowman out of the sun.
++pozn=cysgodi = to shade, to shelter; own example based on the dialogue on p. 120
+0399|economy|How has building the theatre helped Llanaber's economy?|From English economy – frozen solid, with prices on ice.
++pozn=economaidd = economic (L20); sentence from p. 123; gender: the coursebook has m, current usage is often f (economi gylchol, yr economi werdd) – to check
+0400|twin|My sister is expecting twins.|Mum GAVE ELLa (GEF-ELL) a twin brother – in matching blue snowsuits.
++pozn=grammatically masculine even for a girl; gefeillio = to twin (towns, L17); own example
+0401|activity|Snorkelling is a popular activity in Wales (gweithgaredd → [w]eithgaredd after 'n).|gweithgar (hard-working, from gwaith = work) + -edd: what keeps a hard-working polar bear busy – fishing through the ice all day.
++pozn=gweithgar = hard-working (L13); pattern Mae e'n weithgaredd diddorol (p. 119), own sentence
+0402|wool|I'm knitting a scarf out of wool (gwlân → [w]lân after o).|gWLÂN sounds a bit like WOOLLEN: a blue woollen hat against the hailstones.
++pozn=gwlanen = flannel; related in meaning: gwau = to knit; own example
+0403|training|Where are the notes for this afternoon's training?|ffordd (way, road): the trainer shows you the way – up the ski lift and down the slope.
++pozn=hyfforddi = to train; hyfforddwr = trainer, coach; sentence from the dialogue on p. 120
+0404|success|The first night was a great success (ll does not mutate after yn).|llwyddo (to succeed) + -iant: success – planting your flag on top of an iceberg.
++pozn=based on p. 124 (noson lwyddiannus), own sentence
+0405|stage, platform|She has sung on the Eisteddfod stage (llwyfan → [l]wyfan after ar).|The stage is the back of a VAN (llwy-FAN) at a frosty outdoor gig.
++pozn=own example
+0406|purpose|I didn't do that on purpose! (pwrpas → [b]wrpas after o)|From English purpose: did you fall through the frozen pond on purpose?
++pozn=o bwrpas = on purpose, deliberately; pwrpasol = purposeful, suitable; own example
+0407|standpoint, point of view|I understand your point of view, but I don't agree.|saf- (sefyll = to stand) + pwynt (point): the point you stand on – a cold, blue mountain peak.
++pozn=own example

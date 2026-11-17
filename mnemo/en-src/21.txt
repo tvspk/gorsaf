@@ -1,0 +1,52 @@
+# deck 21 – Uned 11. See STYLE.md.
+0462|common, usual; general|Jones is a common surname in Wales (Cymru → [Ngh]ymru after yng).|The COMMON DIN (cyffre-DIN) of a busy coffee shop.
++pozn=cyffredinol = general (L15); synnwyr cyffredin = common sense (L16); anghyffredin = unusual; own example
+0463|to recite; to relate, to tell|The child recited a poem at the Eisteddfod (cerdd → [g]erdd as the object after the verb form).|
++pozn=adrodd yr hanes = to tell the story (Robin Radio, p. 142); adroddiad = report; own example
+0464|to arrest|Two men were arrested last night (dyn → [dd]yn after dau; arestio → [h]arestio after eu).|From English arrest.
++pozn=Arestiwyd y dyn = title of L12 (impersonal form); on the same theme lleidr = thief (L11); own example
+0465|to print|The receipt was printed (derbynneb → [dd]erbynneb after y, feminine; argraffu → [h]argraffu after ei = her).|A GRAPH (ar-GRAFF-u) coming off the printer.
++pozn=argraffydd = printer; argraff = impression, imprint; sentence based on the exercise on p. 134 (y derbynneb + argraffu)
+0466|to hit, to strike (also bwrw glaw = to rain)|The cyclist was hit by a car (bwrw → [f]wrw after ei = his; car → [g]ar after gan).|bwrw glaw = to rain: the rain HITS the window. Also bwrw = to hit.
++alt=taro
++pozn=past tense bwriodd (colloquially also bwrodd); bwrw glaw / eira = to rain / to snow; own example
+0467|to tie, to knot|Tie your laces! (careiau → [g]areiau after dy)|Before you CLIMB (CLYM-u), tie the knot.
++pozn=carrai, plural careiau = shoelace; own example
+0468|to destroy|Many of the bridges have been destroyed.|The dog destroys your DINNER and STREWs it (DIN-IS-trio) across the floor.
++pozn=dinistr = destruction; sentence from the news on p. 140, shortened
+0469|to name|She was named after her aunt (enwi → [h]enwi after ei = her).|enw (name) + -i.
++pozn=h after ei (her) / ein / eu before a vowel: Help llaw, p. 142; own example
+0470|to overflow, to flood|The River Indus has burst its banks in several places.|gor- (over-) + llifo (to flow) = to overflow.
++pozn=sentence from the news on p. 140
+0471|to swallow|The tablets were swallowed.|You swallow it in one GULP – LLYNC sounds like a gulp going down a throat: "lunk!"
++pozn=sentence based on the exercise on p. 134 (y tabledi + llyncu)
+0472|to pause, to delay; to hesitate|He said there'll be quite a delay now.|'OY, DEE!' (OED-i) – Dee is late again: another delay.
++pozn=oedi is also used as a noun = delay; sentence from the dialogue on p. 137 – CHECK the wording (colloquially rather "Dwedodd e y bydd / fydd…")
++s.pozn=north: o instead of e (L1), rŵan instead of nawr (L12), deud instead of dweud (outside the coursebook)
+0473|to fold; to bend|The paper was folded (plygu → [b]lygu after ei = its).|Fold the cable and PLUG (PLYG-u) it in.
++pozn=sentence based on the exercise on p. 134 (y papur + plygu)
+0474|to protest|Hundreds of people were protesting against the cuts (pobl → [b]obl after o).|From English protest.
++pozn=protest (f, L6), protestiwr (L20); toriadau = cuts (L16); own example
+0475|to record|The song was recorded (cân → [g]ân after y, feminine).|From English record.
++pozn=r- never mutates, so ei recordio after both ei = his and ei = her; careful: a vowel after ei = her takes h- (ei henwi), after ei = his it stays (ei enwi); sentence from p. 133
+0476|to rock, to swing; to shake|Mum is reading in the rocking chair (cadair → [g]adair after y, feminine).|A rocking chair JIGGLES (SIG-lo) back and forth.
++pozn=cadair siglo = rocking chair; synonym (to shake) ysgwyd (L8); in the exercise on p. 134: y cadair + siglo; own example
+0477|to resign|A cabinet member resigned.|ym- (oneself) + di- (without) + swydd (post, job): to leave yourself without a post.
++pozn=diswyddo = to sack, to dismiss (L3); sentence from the dialogue on p. 137
+0478|on behalf of|Thank you very much on behalf of the committee.|rhan (part, share) → ar ran: speaking for someone else's part.
++pozn=rhan → ran after ar; with pronouns the mutation follows the possessive; phrase from p. 140 (meddai llefarydd ar ran y Bwrdd Croeso); own example
+0479|Olympic Games|She won a gold medal at the Olympic Games (medal → [f]edal as the object after the verb form).|gêm (game) + Olympaidd (Olympic).
++pozn=in the Geirfa in the box arall; plural only (gemau = games), so no gender; own example
+0480|that (the thing just mentioned)|I don't agree with that.|hyn = this (here and now); hynny = that (just mentioned).
++pozn=stands for a thing or an idea already mentioned, not an object you point at; oherwydd hynny = because of that (p. 140); own example
+0481|from bad to worse|Things went from bad to worse.|
++pozn=drwg (bad) → ddrwg after o, gwaeth (worse) → waeth after i; sentence from the dialogue on p. 137
+0482|because; because of|I was late because of the traffic.|'Why are you late?' 'OH, HER WITH (o-HER-WYDD) the pram blocked the road – because of her!'
++pozn=the book gives achos as a synonym; + noun (oherwydd y llifogydd, p. 141) or + bod (oherwydd bod…); own example
+0483|First Minister (of Wales); Prime Minister (UK)|So what did the First Minister say?|prif (chief, main) + gweinidog (minister): the chief minister in a blue suit, on a podium carved from ice.
++pozn=in the Geirfa in the box arall; masculine (even for a woman), plural Prif Weinidogion (outside the coursebook); prif goes before the noun and soft-mutates it (gweinidog → weinidog); sentence from the dialogue on p. 137
++s.pozn=north: Be instead of Beth (L9), deud instead of dweud, 'ta instead of 'te (both outside the coursebook)
+0484|in, within, at the end of (a future time)|I'll be back in a week.|pen = head, end: ymhen wythnos = at the end of a week.
++pozn=ymhen dau fis = in two months' time (p. 140); it means "once the time is up", not "during"; own example
+0485|these (ones)|I like these.|rhai = some, ones: y rhain = these ones here.
++pozn=stands on its own; with a noun: y llyfrau hyn / y llyfrau 'ma; y rheina = those (L18); repeated in the Geirfa of L12, card only here; own example

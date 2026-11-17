@@ -1,0 +1,69 @@
+# deck 30 – Uned 15. See STYLE.md.
+0661|to renew; to renovate, to refurbish|I must renew my driving licence (trwydded → [nh]rwydded after fy; gyrru → [y]rru after the feminine trwydded).|ad- (again) + newydd (new): to make new again.
++pozn=Mae'r tŷ wedi cael ei adnewyddu = the house has been renovated; own example
++s.pozn=north: i mi instead of i fi (outside the coursebook)
+0662|to promise|She promised to come back soon (dod → [dd]od as the object).|"I'll DO it (ad-DO), I promise!"
++pozn=irregular stem: addawodd, addawais; addewid = promise (outside the coursebook); own example
+0663|to chew; to bite|Have you ever been bitten by a dog? (ci → [g]i after gan; cawsoch → [g]awsoch in the question)|A dog chewing a CANOE (CNOI) paddle.
++pozn=stem and past tense to be checked (colloquially cnoiodd / cnôdd); passive with cael (L11); sentence from the card game, p. 188
+0664|to complete|You must complete the course before the exam (cwblhau → [g]wblhau after i chi).|cwbl (completely) + -hau: to make complete.
++pozn=coursebook: cwblhau = gorffen (more formal); past tense cwblhaodd; own example
++cu=more formal than gorffen
+0665|to flow|The water is still flowing into the house (llifo → [l]ifo after i).|llif = flood (L11) → llifo = to flow.
++pozn=llif (L11), gorlifo = to overflow (L11); own example
+0666|to measure|Her temperature is being taken by the nurse (tymheredd → [th]ymheredd after ei = her; mesur → [f]esur after ei = its, i.e. tymheredd).|From English MEASURE (MESUR).
++pozn=mesur is also a noun = measure, measurement, bill (in parliament) (homonym); present passive with cael (p. 195); sentence from the exercise on p. 196
+0667|to weigh; to press|How much do you weigh? (pwyso → [b]wyso after the dropped ei: Faint wyt ti'n (ei) bwyso?, compare L7)|pwysau (weight) → pwyso.
++pozn=pwyso'r botwm = to press the button; pwyso ar = to lean on, to press someone; own example
+0668|to slink, to sneak|I saw a long black snake slinking under the house (du → [dd]u after the feminine neidr).|SLEIF ~ SLY: slinking along slyly.
++pozn=sentence from the reading on p. 199 (narrative form gwelais i, colloquially in the south weles i)
+0669|to fall|He fell and broke his leg (torri → [th]orri after a; coes → [g]oes after ei = his).|WHUMP! (CWYMP-o) – and you're flat on the floor.
++pozn=southern counterpart of the northern syrthio from the Geirfa of L15 (De/Gogledd L14); cwympo i gysgu = to fall asleep; own example
++s.pozn=north: syrthio instead of cwympo (L14, Geirfa L15), o instead of e (L1)
+0670|occasional, the odd, a few|I go to the gym occasionally (campfa → [g]ampfa after i'r, feminine; gwaith → [w]aith after ambell).|An AMBULance only comes by AMBELL waith – once in a while.
++pozn=goes BEFORE a singular noun; ambell waith = sometimes, occasionally; ambell un = the odd one; own example
+0671|unusual|These days keeping a dog or a cat isn't unusual at all (cath → [g]ath after neu; peth → [b]eth after yn).|an- (un-) + arferol (usual).
++pozn=the prefix an- = negative (anlwcus, anghofio); sentence from the reading on p. 198, which has dydy; southern dyw in the main version
++s.pozn=north: dydy instead of dyw (outside the coursebook; the reading on p. 198 has this form)
+0672|unlucky|I was unlucky – I was ill on the day of the game (tost → [d]ost after 'n; diwrnod → [dd]iwrnod after ar).|an- (un-) + lwcus (English lucky).
++pozn=the prefix an-; lwcus = lucky (Ro'n i wedi bod yn lwcus iawn, p. 199); own example
++s.exc=I was unlucky – I was ill on the day of the game (diwrnod → [dd]iwrnod after ar).
++s.pozn=north: sâl instead of tost (L15)
+0673|usual, normal, ordinary|It was an ordinary day in the office (diwrnod → [dd]iwrnod after 'n).|arfer (habit, L16) + -ol.
++pozn=fel arfer = usually; own example
+0674|narrow|The road to the farm is very narrow (cul → [g]ul after yn).|cul-de-sac: a narrow dead-end street.
++pozn=the opposite of llydan; meddwl cul = narrow-minded; plural outside the coursebook; example based on Robin Radio (Sut mae'r ffordd i'r fferm?, p. 200)
+0675|general|In general, the service is very good (cyffredinol → [g]yffredinol after yn).|cyffredin (common, L11) + -ol.
++pozn=yn gyffredinol = in general, on the whole; etholiad cyffredinol = general election; own example
+0676|community (as an adjective)|The community centre is open every day (canolfan → [g]anolfan after y, feminine; cymunedol → [g]ymunedol after the feminine canolfan).|cymuned (community, L4) + -ol.
++pozn=cymuned (L4); own example
+0677|strange, unfamiliar|The newcomer family is being welcomed by the community (literally: the strange family; cymuned → [g]ymuned after y, feminine).|"Not this one, not THE OTHER (di-EITHR) – I don't know any of them": strangers.
++pozn=dieithryn = stranger (outside the coursebook); rhyfedd = strange, odd (L3); sentence from the exercise on p. 196
+0678|daily|Do you have daily tasks?|dydd (day) + -ol.
++pozn=wythnosol = weekly, blynyddol = annual (L13); sentence from p. 194
++s.exc=Do you have daily tasks? (tasgau → [d]asgau after gynnoch chi)
++s.pozn=north: gynnoch chi instead of gyda chi (L6)
+0679|wide, broad|The river is very wide here (ll doesn't mutate after yn).|A road as wide as a giant dustbin LID (LLYD-an).
++pozn=the opposite of cul; lled = width; the feminine form and the plural are outside the coursebook (rather literary); own example
+0680|weekly|I get paid weekly (talu → [nh]alu after fy).|wythnos (week) + -ol.
++pozn=based on the table of the present passive, p. 195; own example
+0681|to keep an eye on; to keep track of|Who's keeping an eye on the clock?|cadw (to keep) + golwg (look, sight): to keep your eyes on something.
++pozn=in the Geirfa in the box arall; soft mutation after ar (cadw golwg ar blant); cadw trefn = to keep order, cadw'n dwym = to keep warm (p. 195); sentence from the dialogue, p. 194
+0682|maintenance|Has anyone from the maintenance department been here yet? (cadw → [ch]adw after a)|A maintenance man in blue overalls on a frosty morning: cynnal (to sustain) a cadw (and to keep).
++pozn=in the Geirfa in the box arall; as a noun masculine (a pair of verb-nouns, which are masculine); sentence from the dialogue, p. 194
+0683|under pressure|I hate working under pressure (gweithio → [w]eithio after gas gyda fi; pwysau → [b]wysau after dan).|dan (under) + pwysau (pressure, weight).
++pozn=in the Geirfa in the box arall; sentence from the dialogue, p. 194
++s.exc=I hate working under pressure (gweithio → [w]eithio after gas gen i; pwysau → [b]wysau after dan).
++s.pozn=north: gen i instead of gyda fi (L6)
+0684|closing date, deadline|When is the closing date for the job?|dyddiad (date) + cau (to close): the date freezes solid and the door slams shut.
++pozn=in the Geirfa in the box arall; as a noun masculine, plural dyddiadau cau (plural outside the coursebook); cyn y dyddiad cau (dialogue, p. 194); own example
+0685|treasure hunt|The children are having a treasure hunt in the garden (trysor → [d]rysor after the feminine helfa).|hela (to hunt) + -fa: a hunt for a treasure chest glowing like hot coals.
++pozn=in the Geirfa in the box arall; as a noun feminine (like helfa = hunt), plural helfeydd trysor (plural outside the coursebook); trysor = treasure (L19); own example
+0686|completely flat, dead level|The road to the farm is completely flat (gwastad → [w]astad after yn hollol).|gwastad = flat, level; wastad = always (L8): watch out for the two meanings.
++pozn=gwastad = flat, level; yn hollol = completely (L9); Robin Radio, p. 200
+0687|within earshot|Stay within earshot in case I call (galw → [a]lw after i fi).|o fewn (within, L9) + clyw (hearing).
++pozn=o fewn (L9), clyw (trwm ei glyw, L14); Robin Radio, p. 200; own example
++s.exc=Stay within earshot in case I call (galw → [a]lw after i mi).
++s.pozn=north: i mi instead of i fi (outside the coursebook)
+0688|beforehand, in advance|You must pay in advance (talu → [d]alu after i chi).|ymlaen (forward) + llaw (hand): forward into someone's hand.
++pozn=Diolch ymlaen llaw = thanks in advance; also in the Geirfa of L17 (no card there); Robin Radio, p. 200; own example

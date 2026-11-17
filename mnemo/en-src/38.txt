@@ -1,0 +1,64 @@
+# deck 38 – Uned 20. See STYLE.md.
+0818|disadvantage|There's one big disadvantage: the cost (mawr → [f]awr after the feminine anfantais).|an- (dis-) + mantais (advantage): a disadvantage glows red like a stop light.
++pozn=manteision ac anfanteision = advantages and disadvantages; the prefix an- as in anhapus, anffodus; own example
+0819|gymnastics|Gareth won a big gymnastics competition in Cardiff (cystadleuaeth → [g]ystadleuaeth as the object after enillodd; mawr → [f]awr after the feminine cystadleuaeth; Caerdydd → [Ngh]aerdydd after yng).|GYMNASTics (GYMNASTeg): a gymnast in a flame-red leotard.
++pozn=in the coursebook there is no mutation after the feminine cystadleuaeth or after maes (cystadleuaeth gymnasteg, ym maes gymnasteg); the book gives no plural; campfa = gym (outside the coursebook); sentence from p. 256
+0820|advantage|Speaking Welsh is a big advantage in this job (mantais → [f]antais after yn; mawr → [f]awr after the feminine mantais).|The MANTle (MANT-ais) of a champion: the advantage of a warm scarlet cloak in winter.
++pozn=manteisio ar = to take advantage of (outside the coursebook); own example
+0821|process|The process is very slow (proses → [b]roses after y, feminine).|PROCESS (PROSES): it crawls along like bread in a slow toaster.
++pozn=own example
+0822|circus|My family and I came to your circus in Aberheli on Friday night (Gwener → [W]ener after nos).|CIRCUS (SYRCAS): a red big top and a fire-eater.
++pozn=s- doesn't take soft mutation (y syrcas); des i = I came (dod); sentence from the e-mail on p. 253
+0823|cyclist|There were hundreds of cyclists on the road (beicwyr → [f]eicwyr after o).|beic (bike) + -iwr (person): a cyclist pedalling through hailstones.
++rod_pozn=grammatically masculine even for a woman
++pozn=synonym seiclwr (L11); in the coursebook also cystadleuaeth i feicwyr (p. 264); own example
+0824|background|She comes from a Welsh-speaking background (cefndir → [g]efndir after o).|cefn (back) + tir (land): the land behind you = the background, snow-capped mountains in the distance.
++pozn=cefndir is one of the topics of the oral interview (p. 265); tir (L11); own example
+0825|edge, fringe|The house is on the edge of the forest (cwr → [g]wr after ar; coedwig → [g]oedwig after y, feminine).|A hen COOP (CWR) on the frozen edge of the wood.
++pozn=the plural cyrion is used mainly in ar gyrion = on the outskirts; own example
+0826|interviewer|Listen carefully to the interviewer's questions (cwestiynau → [g]westiynau after ar).|cyfweld (to interview) + -ydd (person): a frosty interviewer sipping a slush puppy.
++rod_pozn=grammatically masculine even for a woman
++pozn=cyfweliad = interview (p. 265); sentence from p. 265
+0827|charge, accusation|The man denies every charge.|cyhuddo = to accuse → cyhuddiad, a charge – read out in a freezing courtroom.
++pozn=cyhuddo = to accuse (outside the coursebook); gwadu = to deny (L7); also in the news glossary, p. 263; own example
+0828|politician|Her husband is a well-known politician (gwleidydd → [w]leidydd after 'n).|gwlad (country) + -ydd (person): a politician making a speech in front of an igloo.
++rod_pozn=grammatically masculine even for a woman
++pozn=-ydd = person (note at arweinydd, L1); adnabyddus (L16); own example
+0829|error, mistake|There are several errors in the letter.|GWALL = GWALLT (hair) without the T: an error, like a hair stuck in your blue ice lolly.
++pozn=camgymeriad (L9) = mistake in general; gwall rather an error in a text or a calculation; own example
++cu=in a text or calculation, not camgymeriad
+0830|listener|Welcome, all listeners! (gwrandawyr → [w]randawyr after holl)|gwrando (to listen) + -wr (person): a listener in fluffy earmuffs on a frosty night.
++rod_pozn=grammatically masculine even for a woman
++pozn=the two dots over the a (didolnod) only in the singular, the plural gwrandawyr has none; own example
+0831|protestor|There were hundreds of protestors outside the Senedd (protestwyr → [b]rotestwyr after o).|protest + -iwr (person): a protestor whose placard has frozen to his mittens.
++rod_pozn=grammatically masculine even for a woman
++pozn=protest (f, L6), protestio (L11); plural protestwyr also in the e-mail on p. 254; own example
+0832|secretary|She was appointed secretary of the club (penodi → [ph]enodi after ei = her).|ysgrifennu (to write) + -ydd (person): a secretary typing in fingerless gloves in a freezing office.
++rod_pozn=grammatically masculine even for a woman
++pozn=singular with nn, plural with one n; ysgrifennydd y clwb pêl-droed lleol (p. 258); own example
+0833|to lead|It's very important that you lead the conversation (literally: that it's you who leads the conversation; pwysig → [b]wysig after 'n).|arweinydd (conductor, leader, L1) = the one who leads.
++pozn=arweiniad = leadership, guidance (outside the coursebook); sentence from p. 251 (Sgwrs 5 munud)
++s.exc=It's very important that you lead the conversation.
++s.pozn=north: mai instead of taw (Y De a'r Gogledd, L14)
+0834|to confirm|Would you confirm the date, please? (cadarnhau → [g]adarnhau after wnewch chi)|cadarn (firm) + -hau (to make): to confirm = to make firm.
++pozn=cadarn = firm, cadarnhad = confirmation (outside the coursebook); own example
+0835|to excite|My parents were excited too (literally: had been excited).|cyffrous (exciting) → cyffroi = to excite.
++pozn=cyffrous = exciting, cyffro = excitement; wedi'u + verb = passive state (they); stem cyffro- (cyffrodd) to be checked; sentence from the e-mail on p. 253
+0836|to appoint|A new chair was appointed for two years (dwy → [dd]wy after am; blynedd → [f]lynedd after dwy; impersonal form -wyd, L12).|A memory aid: pen (head) + nodi (to note): note down who'll be the new head.
++pozn=penodiad = appointment (outside the coursebook); cadeirydd (L16); penodwyd is news register, colloquially Cafodd cadeirydd newydd ei benodi; sentence from the Bwletin Newyddion, p. 261
+0837|to emphasise, to stress|I'd like to emphasise one thing (pwysleisio → [b]wysleisio after hoffwn i).|pwys (weight) + llais (voice): to give your voice weight.
++pozn=own example
+0838|attractive|The high street will be less interesting and attractive because of that (mawr → [f]awr after the feminine stryd).|denu = to attract: a cosy DEN (DEN-iadol) is attractive.
++pozn=denu = to attract, to lure (outside the coursebook); sentence from the article on p. 252
+0839|economic; economical|The factory is closing because of the economic problems in the country (gwlad → [w]lad after y, feminine).|From English ECONOMIC.
++pozn=economi (L10); the suffix -aidd as in twristaidd (L6); sentence from the Bwletin Newyddion, p. 261
+0840|to be honest|To be honest, I don't like the circus.|gonest ~ English honest; after yn the g- drops: yn onest.
++pozn=gonest → [–]onest after yn; a dweud y gwir = to tell the truth (close in meaning); own example
+0841|on a charge of, accused of|They are in court on a charge of stealing five thousand pounds (dwyn → [dd]wyn after o; punnau → [b]unnau after o).|cyhuddiad (charge) → gyhuddiad after ar: on a charge of.
++pozn=cyhuddiad → [g]yhuddiad after ar; the following word mutates because of o; sentence from the Bwletin Newyddion, p. 261
+0842|on the outskirts of, on the edge of|The supermarket opened on the outskirts of the town two years ago (tre → [d]re after y, feminine; dwy → [dd]wy in an expression of time).|cyrion = outskirts, edges (cwr = edge).
++pozn=cyrion = plural of cwr, soft mutation c → g after ar; sentence based on the article on p. 252
+0843|old people's home, care home|They had a surprise in the Hafod Deg Old People's Home (Cartref → [Ngh]artref after yng).|cartref (home) + henoed (old people): a home for the elderly with rocking chairs along the corridor.
++pozn=in the Geirfa in the box arall; masculine (because of cartref), plural cartrefi henoed (outside the coursebook); henoed = old people, old age; sentence from the gap-fill exercise on p. 256 (cawson added)
+0844|bullet points|You may make bullet points on paper but no script (gwneud → [w]neud after cewch chi; papur → [b]apur after ar).|From English BULLET POINTS: pwynt (point) + bwled (bullet).
++pozn=in the Geirfa in the box arall; plural only, gender not given; singular pwynt bwled; sentence from p. 265

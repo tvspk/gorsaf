@@ -1,0 +1,30 @@
+# deck 37 – Uned 19. See STYLE.md.
+0805|make-up|She wears too much make-up (colur → [g]olur after o).|COLOUR (COLUR) for your face: ice-blue eyeshadow.
++pozn=gwisgo colur = to wear make-up; coluro = to make up (outside the coursebook); the book gives no plural; own example
+0806|treasure|They found treasure in the old castle (trysor → [d]rysor after i; castell → [g]astell after hen).|TREASURE (TRYSOR): a chest glittering with sapphires.
++pozn=helfa drysor (L15); trysori = to treasure (outside the coursebook); dod o hyd i (L8); own example
+0807|ghost; spirit (mood, morale)|People say there's a ghost in the old house (tŷ → [d]ŷ after hen).|ysBRYD ~ SPIRIT (Latin spiritus): a pale blue ghost riding a walrus.
++pozn=also ysbryd tîm = team spirit; ysbrydol = spiritual, Ysbryd Glân = Holy Spirit (outside the coursebook); own example
++s.pozn=north: deud instead of dweud (outside the coursebook)
+0808|to compare|Compare next weekend and last weekend.|cym-HAR-u ≈ com-PAR-e.
++pozn=cymharu X â Y = to compare X with Y (aspirate mutation after â); cymhariaeth = comparison, cymharol = comparatively (outside the coursebook); sentence from the Gêm o Gardiau, p. 241; TO BE CHECKED: a'r or â'r in the book
+0809|to affect, to have an effect (on)|Does the weather affect your mood?|Like English EFFECT (EFFEITH-io): an effect on your mood.
++pozn=effaith = effect (L9); hwyliau = plural of hwyl (L10); sentence from the Gêm o Gardiau, p. 241
+0810|consistent; regular, constant|I use my Welsh regularly now (cyson → [g]yson after yn; Cymraeg → [Ngh]ymraeg after fy).|cySON ~ uniSON: always on the same note.
++pozn=yn gyson = regularly, constantly; cysondeb = consistency (outside the coursebook); own example on the topic Siaradwch – Y Gymraeg, p. 245
+0811|to let, for rent|There's a flat to let above the shop (gosod → [o]sod after ar).|gosod = to place, to set (L7): the flat is set out for letting.
++pozn=ar werth = for sale (outside the coursebook); uwchben (L16), rhentu (L9); also in Robin Radio, p. 249; own example
+0812|to get rid of|We must get rid of the old sofa before moving (cael → [g]ael after i ni).|Get rid of it – heave it over the GUARDrail (GWAR-ed).
++pozn=cael is irregular (ces i, cest ti, cafodd e…); same pattern as cael hyd i, cael blas ar (L12); own example
+0813|to wave (at, to)|Come to the window to wave to Auntie Mair! (codi → [g]odi after i)|codi (to raise) + llaw (hand): to raise your hand.
++pozn=codi ofn ar (L7); Anti Mair from Robin Radio; own example
++s.pozn=north: tyrd! instead of dere! (Y De a'r Gogledd, L19, p. 249)
+0814|to keep at it, to persevere|Keep at it – your Welsh is getting better every day! (pob → [b]ob in an expression of time)|dal (to hold) + ati (at it): hold on to it.
++pozn=ati = at + hi (at it); imperative Dalia ati! / Daliwch ati! = Keep it up!; parhau = to continue (L12); own example
+0815|to come together|The village people came together to help the family after the flood (cilydd → [g]ilydd after ei).|at (to) + ei gilydd (each other): to come to each other.
++pozn=ei gilydd = each other (cilydd → gilydd after ei); it changes with the person: dod at ein gilydd (we), at eich gilydd (you), at ei gilydd (they); gyda'i gilydd = together (p. 247); dod is irregular (des i, daeth e…); llif (L11); own example
+0816|Will you be (my) best man?|Alejandro asked Robin to be his best man (bod → [f]od after i Robin; gwas → [w]as after yn).|gwas (servant) + priodas (wedding): the servant at the wedding.
++pozn=gwas priodas (m) = best man, morwyn briodas (f) = bridesmaid (outside the coursebook; morwyn L10); Wnei di…? = short future of gwneud (L4, L5); phrase from Robin Radio, p. 249; own example, the PDF doesn't say who the best man is
++cu=the groom's best man
+0817|how exciting!|Auntie Mair is getting married in the summer? How exciting! (cyffrous → [g]yffrous after am)|cyffrous (exciting) → gyffrous after am: what an exciting thing!
++pozn=am + adjective with soft mutation = How…! (Am hyfryd!, Am le braf! – outside the coursebook); cyffroi = to excite (L20); phrase from Robin Radio, p. 249; own example

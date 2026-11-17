@@ -1,0 +1,45 @@
+# deck 28 – Uned 14. See STYLE.md.
+0617|intense; intensive; deep, serious|The course is very intensive (dwys → [dd]wys after yn).|DWYS sounds like "DO ICE": on an intensive course you DO ICE baths every morning.
++pozn=gofal dwys = intensive care (L10, card 0431); dwyster = intensity; own example
+0618|wild|I saw a wild cat in the forest (cath → [g]ath as the object; gwyllt → [w]yllt after the feminine cath; coedwig → [g]oedwig after the article y with the feminine coedwig).|g-WYLL-t sounds like WILD: a wild cat.
++pozn=tân gwyllt = fireworks (p. 172); gwylltio = to get furious; own example; check: in southern speech more likely Weles i
+0619|all-important, vital|Confidence is all-important.|holl (all) + pwysig (important).
++pozn=the p of pwysig is mutated inside the compound (holl + pwysig → hollbwysig); own example
+0620|muddy|The pitch is very muddy after the rain (mwdlyd → [f]wdlyd after 'n).|English mud + -lyd.
++pozn=the ending -lyd/-llyd (compare rhewllyd, L3); in the book trac mwdlyd (p. 173); own example
+0621|scarce, rare|Good jobs are scarce in the area (prin → [b]rin after 'n).|A real PRINce (PRIN) is rare.
++pozn=prin before a verb = hardly, barely (prin dw i'n ei nabod e = I hardly know him); prinder = shortage; own example
+0622|experienced|She's a very experienced nurse (profiadol → [b]rofiadol after the feminine nyrs).|profiad (experience) + -ol.
++pozn=profiad = experience (L2); dibrofiad = inexperienced; own example
+0623|single|Can I have a single ticket to Cardiff, please? (tocyn → [d]ocyn after Ga i; Caerdydd → [G]aerdydd after i)|From English single.
++pozn=tocyn sengl = single ticket, tocyn dwyffordd = return; also of a person: Mae e'n sengl = he's single; own example
+0624|thirsty|I was very thirsty after running.|SYCHED ~ SUCKED dry: your throat is sucked dry.
++pozn=colloquially more often Mae syched arna i = I'm thirsty; sych = dry; own example
+0625|over, finished; overleaf|Everything's over.|dros (over) + -odd: it's over, behind us.
++pozn=the base form trosodd is hardly used in speech, the coursebook gives drosodd; gweler drosodd = see overleaf; sentence from the listening on p. 180
+0626|to make a mess of, to botch|Carol has made a mess of the Christmas party arrangements (trefniadau → [d]refniadau after o).|To make soup (cawl) of it: a right old mess.
++pozn=the mutation is caused by the final o; sentence from the listening on p. 180
+0627|small talk, chit-chat|I feel like hearing a bit of chit-chat with Robin (mân → [f]ân after o).|mân (tiny, small) + siarad (to talk): little bits of talk.
++pozn=in the Geirfa in the box arall; masculine like siarad (the coursebook gives no gender); mân = small, tiny (L2); sentence from the dialogue Tagfa, p. 182
++s.pozn=north: efo instead of gyda (L2)
+0628|seriously, in earnest|Are you serious?|Short for o ddifrif – the same root as difrifol (serious).
++pozn=difrifol = serious (L10); also spelt o ddifrif; own example
+0629|everything|She knows everything about everybody (pawb → [b]awb after am).|pob (every) + dim (anything): absolutely everything.
++pozn== popeth (synonym from the coursebook); own example
+0630|foster parent|My sister has been a foster parent for ten years (blynedd → [m]lynedd after deg).|rhiant (parent) + maeth (nourishment): the parent who feeds and raises you.
++pozn=in the Geirfa in the box arall; masculine like rhiant (even for a woman); plural rhieni maeth (Robin Radio, p. 185); maethu = to foster; own example
+0631|cross-country|She won the cross-country race (traws → [d]raws after the feminine ras).|traws (across) + gwlad (country): across the countryside.
++pozn=rhedwr traws gwlad = cross-country runner (p. 173); own example
+0632|hard of hearing|You know Sara is a bit hard of hearing (trwm → [d]rwm after yn; clyw → [ch]lyw after ei = her).|Literally "heavy his hearing": trwm (heavy) + clyw (hearing).
++pozn=the form changes with the person: trwm ei glyw (he), trwm ei chlyw (she), trwm fy nghlyw (I); sentence from the listening on p. 180
+0633|exhausted, worn out|I was exhausted, so I fell asleep on the sofa (glân → [l]ân after 'n; cysgu → [g]ysgu after i).|Tired "clean" out (glân): nothing left at all.
++pozn=glân = clean; cwympo i gysgu = to fall asleep; own example
++s.exc=I was exhausted, so I fell asleep on the sofa (glân → [l]ân after 'n; cysgu → [g]ysgu after i).
++s.pozn=north: syrthio instead of cwympo (L14)
+0634|mainly, chiefly|They mainly bred horses.|pen (head) → pennaf (chief, main).
++pozn=pennaf = chief, foremost; sentence based on the book extract on p. 185
+0635|alive and kicking, safe and sound|The old cat is alive and kicking! (byw → [f]yw after yn; cath → [g]ath after hen)|
++pozn=own example
+0636|to hold a conversation|I can hold a conversation in Welsh now (Cymraeg → [G]ymraeg after yn).|cynnal (to hold, to sustain) + sgwrs (conversation).
++pozn=cynnal = to hold (an event) (L5); Robin Radio, p. 185; own example
++s.pozn=north: medru instead of gallu (L7), rŵan instead of nawr (L12)

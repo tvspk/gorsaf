@@ -1,0 +1,34 @@
+# deck 08 – Uned 5. See STYLE.md.
+0156|tale, legend|The legend of Rhys and Meinir is very sad (trist → [d]rist after yn).|'WHAT'LL (CHWEDL) happen next?' – a legend told by the glow of a red-hot stove.
+0157|shore, bank|I'll walk on the seashore tomorrow (glan → [l]an after ar).|One GLANce (GLAN) at the shore: the sand is too hot to walk on.
+0158|seagull|The seagull has stolen my sandwich! (gwylan → [w]ylan after y, feminine; brechdan → [m]rechdan after fy)|The seagull WAILS (GWYL-an) and makes off with your chips, dripping ketchup.
+0159|(a flash of) lightning|Lightning struck the tree (coeden → [g]oeden after y, feminine).|MELT 'EN (MELL-ten): the lightning melts the weathervane into red-hot drips.
++pozn=mellten = one flash, mellt = lightning (collective); tarodd colloquial, literary trawodd
+0160|cruise|We'll go on a cruise to the Caribbean (mordaith → [f]ordaith after ar).|môr (sea) + taith (journey): a sea journey where the chef serves tomato soup every single night.
+0161|gallery|We'll visit the Louvre gallery.|An ORIEL window (ORIEL) in the gallery throws red light onto a painting of rubies.
+0162|standard (level)|The standard of the food is very high.|Never SAVE ON (SAF-on) standards: the postman's red van is polished every morning.
+0163|bone|The dog has found a big bone.|The dog growls 'AS-GRRR-N' (AS-GWRN) over a bone frozen into the ice.
+0164|judge, adjudicator|The judge liked the choir.|A judge giving marks at a BARN (BEIRN-iad) dance in a freezing cold barn.
++cu=in a competition, not a judge in court
+0165|facility|There are good facilities at the camp.|cyfleus (convenient) + -ter: the campsite has facilities – but the shower is ice-cold.
+0166|period (of time)|What do you think of the Christmas period? (cyfnod → [g]yfnod after o)|'COVE, NOD off!' (CYF-NOD) – a long period of time spent snoozing in an icy cove.
++s.pozn=north: Be instead of Beth (L9), dach instead of dych (L11)
+0167|use|The use of plastic is a big problem (plastig → [b]lastig after o; problem → [b]roblem after yn; mawr → [f]awr after the feminine problem).|DEFINITELY (DEF-n-ydd) of use: a blue ice scraper is the most useful thing in winter.
++pozn=in other contexts also material, fabric (not in the coursebook)
+0168|climber|You don't have to be a good climber (dringwr → [dd]ringwr after yn).|dringo (to climb) + -wr (person): a climber on the north face, beard full of icicles.
+0169|guest|Who's the guest on the programme tonight?|gwesty = hotel: the GUEST (GWEST-ai) checks in with a frostbitten blue nose.
++pozn=careful: gwestai is also the plural of gwesty (hotels)
++s.pozn=north: ydy instead of yw (by analogy with L5 Beth yw / Be ydy)
+0170|lake|We'll swim in Llyn Padarn.|A LLYN (lake) frozen solid: ice fishermen sit round a hole in the middle.
++pozn=e.g. Llyn Padarn, Llyn Tegid
+0171|mark (score)|I got a good mark in the exam (marc → [f]arc after ces i).|Same as English: a top mark from a teacher with blue fingers in an unheated classroom.
++s.exc=I got a good mark in the exam (marc → [f]arc after ges i).
++s.pozn=north: ges i instead of ces i (not in the coursebook)
+0172|number, quantity|A number of people speak Welsh here (pobl → [b]obl after o).|NEVER (NIF-er) try to count the number of snowflakes in a blizzard.
++rod_pozn=coursebook: m; but often also used as f (nifer fawr o bobl) – to be checked
++cu=a number of things (how many), not a numeral (= rhif)
+0173|plastic|I don't buy plastic bags.|Same as English: a blue plastic sledge racing down a frozen hill.
+0174|pleasure|Going for a walk along the coast path is a pleasure (pleser → [b]leser after yn).|Same as English: the pleasure of a freezing Boxing Day dip in the sea.
+0175|insect, fly|There's a fly in my soup! (cawl → [ngh]awl after fy)|PROVE IN (PRYF-yn) court it's a fly – it's frozen in your ice cube!
+0176|skeleton|Rhys saw a skeleton in the tree (coeden → [g]oeden after y).|A SCARE BOOT (SGER-bwd): the snowplough digs up a skeleton in a ski boot.
+0177|silk|Meinir wore her silk dress.|SID AN' (SID-an) Ann wrap their snowman in a silk scarf.

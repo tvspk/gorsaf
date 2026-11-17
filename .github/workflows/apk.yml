@@ -1,0 +1,80 @@
+# On every push to main: checks, game-en and the web version up to date, build of the English APK.
+# When apk/verze-en.txt holds a new version, release v<versionName> with gorsaf-en.apk is created
+# (installs over the previous English app, progress stays). Signed only with the key from Secrets.
+name: English APK
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apk
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: No keys, tokens or backup notes in the repository
+        run: |
+          if git ls-files | grep -Ei '\.jks$|\.keystore$|KEYSTORE|signing/|signing-en/|\.apk$'; then echo "::error::A signing key or an APK must not be in the repository."; exit 1; fi
+          if grep -rIl 'github_pat_[A-Za-z0-9_]\{30\}' --exclude-dir=.git --exclude-dir=testy . ; then echo "::error::A token must not be in the repository."; exit 1; fi
+          if grep -rIl 'GORSAF1\.[0-9a-z]\{4,\}\.[A-Za-z0-9+/=]\{40\}' --exclude-dir=.git . ; then echo "::error::A backup code must not be in the repository."; exit 1; fi
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: game-en is derived from the sources (make_en.py) and the web version is up to date
+        run: |
+          python3 -I mnemo/make_en.py game/gorsaf-abercastell.html /tmp/en.html >/dev/null
+          cmp /tmp/en.html game-en/gorsaf-abercastell-en.html || { echo "::error::game-en is out of date: run python3 -I mnemo/make_en.py"; exit 1; }
+          python3 -I scripts/build_web.py --check
+
+      - name: Build the APK
+        env:
+          KS_B64: ${{ secrets.GORSAF_EN_KEYSTORE }}
+          GORSAF_EN_KS_PASS: ${{ secrets.GORSAF_EN_KEYSTORE_PASSWORD }}
+        run: |
+          read VC VN < apk/verze-en.txt
+          echo "$VN" > /tmp/version
+          if [ -n "$KS_B64" ] && [ -n "$GORSAF_EN_KS_PASS" ]; then
+            echo "$KS_B64" | base64 -d > /tmp/gorsaf-en.jks; echo yes > /tmp/release
+          else
+            echo "::warning::No key in Secrets: test build with a throw-away key, no release."
+            keytool -genkeypair -keystore /tmp/gorsaf-en.jks -storetype PKCS12 -alias gorsafen -keyalg RSA -keysize 2048 -validity 2 \
+              -dname CN=test -storepass testtest -keypass testtest >/dev/null 2>&1
+            export GORSAF_EN_KS_PASS=testtest; echo no > /tmp/release
+          fi
+          cd apk && GORSAF_EN_KS_FILE=/tmp/gorsaf-en.jks GORSAF_AUDIO_DIR=../audio bash build_en.sh "$VC" "$VN"
+          rm -f /tmp/gorsaf-en.jks
+          mkdir -p out && mv "gorsaf-abercastell-en-$VN.apk" out/gorsaf-en.apk
+          if [ "$(cat /tmp/release)" = yes ]; then
+            java -jar tools/apksigner.jar verify --print-certs out/gorsaf-en.apk | grep -q '89e9d2085e827810767ae07c9387497d083d2759317b3765a1f8269b68e136c2' \
+              || { echo "::error::The APK is not signed with the key of the installed English app."; exit 1; }
+          fi
+
+      - name: APK as a run artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: gorsaf-en-apk
+          path: apk/out/gorsaf-en.apk
+          retention-days: 14
+
+      - name: Release (only a new version signed with the key)
+        if: github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          V="$(cat /tmp/version)"
+          if [ "$(cat /tmp/release)" != "yes" ]; then echo "No key (Secrets): no release."; exit 0; fi
+          if gh release view "v$V" >/dev/null 2>&1; then echo "Release v$V exists already: raise the version in apk/verze-en.txt for a new one."; exit 0; fi
+          gh release create "v$V" apk/out/gorsaf-en.apk --title "Gorsaf Abercastell EN $V" --latest \
+            --notes "Gorsaf Abercastell EN $V for Android. Install gorsaf-en.apk over the previous English app: progress stays."

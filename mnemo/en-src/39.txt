@@ -1,0 +1,67 @@
+# deck 39 – Uned 20 (news glossary). See STYLE.md.
+0845|exam, examination|She passed her Canolradd exam (arholiad → [h]arholiad after ei = her).|ar + holi (to question): in an exam you're questioned in a hall so cold your nose turns frostbitten blue.
++pozn=sefyll arholiad = to sit an exam (p. 251); arholwr = examiner (outside the coursebook); not in the Geirfa, only in the title of the unit; own example
+0846|interview (job interview; media interview)|I had an interview for the job yesterday (cyfweliad → [g]yfweliad as the object after ces i).|cyfweld (to interview) + -iad (the act): an interview held on ice skates in the middle of a frozen lake.
++pozn=Cyfweliad (40% o'r marciau) = the oral part of the exam (p. 265); not in the Geirfa; own example
++s.exc=I had an interview for the job yesterday (cyfweliad → [g]yfweliad as the object after ges i).
++s.pozn=north: ges i instead of ces i (outside the coursebook)
+0847|report (document)|According to a new report, unemployment is rising.|adrodd (to recount, to report, L11) + -iad: a report read out over the chimes of a blue ice-cream van.
++pozn=diweithdra (L14), yn ôl = according to; news glossary, p. 262; own example
+0848|died|The actor John Jones died at his home (marw → [f]arw after bu; cartref → [g]artref after ei = his).|bu = was (past of bod) + marw → farw: 'was dead', i.e. died.
++pozn=bu = past form of bod; fixed news form, colloquially fuodd e farw or farwodd e; sentence from the Bwletin Newyddion, p. 261
+0849|century|The house was built in the twentieth century (canrif → [g]anrif after the ordinal number, feminine).|can (hundred) + rhif (number): a hundred candles blazing on one birthday cake.
++pozn=ordinal numbers (L17) mutate a following feminine noun; canfed (L12); news glossary, p. 262; own example
+0850|chance, opportunity|Here's a chance for you to practise (cyfle → [g]yfle after dyma).|A memory aid: cyf- + lle (place): a place for you – your chance to step onto the ice rink.
++pozn=siawns (L2) = chance, luck; sentence based on p. 251 (Dyma gyfle i chi weld…)
+0851|to announce; to publish|The company announced that the factory will close.|cyhoedd (the public): to put out to the public.
++pozn=cyhoeddus (L16); cyhoeddiad = announcement, cyhoeddwr = publisher (outside the coursebook); news glossary, p. 262; own example
+0852|offer; proposal|The company has made a new offer to the workers.|A CUNNING (CYNN-ig) offer: a salesman offering blue ice lollies in December.
++pozn=cynnig is also the verb to offer (doeddwn i ddim yn gallu cynnig hynny, p. 252); news glossary, p. 262; own example
++fam0=cynnig (to offer)
+0853|to develop|How will you develop your Welsh after this?|dad- (un-) + plygu (to fold): to unfold – a plan develops.
++pozn=datblygiad = development (outside the coursebook); sentence from the interview questions, p. 266
+0854|tens, dozens|Dozens of people were injured (pobl → [b]obl after o; anafu → [h]anafu after eu).|deg (ten) → degau = tens.
++pozn=plural only, gender not given; degau o + soft mutation; cannoedd = hundreds, miloedd = thousands; news glossary, p. 262; own example
+0855|coming in (of news)|News is coming in of an accident on the M4 (damwain → [dd]amwain after am).|dod (to come) + i law (to hand): the news comes to hand.
++pozn=llaw → law after i; sentence from the Bwletin Newyddion, p. 261
+0856|to call for|Local people are calling for better transport (lleol → [l]eol after pobl; gwell → [w]ell after am).|galw (to call) + am (for).
++pozn=galw draw (L13); trafnidiaeth (L16); news glossary, p. 262; own example
+0857|to finish, to close|And to finish, the weather... (cloi → [g]loi after i)|cloi (to lock): at the end the broadcast gets locked up.
++pozn=clo (L9), ar glo (L9); sentence from the Bwletin Newyddion, p. 261
+0858|field (area of activity); field, open ground|Gareth and his brother are doing very well in gymnastics (literally: in the field of gymnastics; brawd → [f]rawd after a'i = his).|MICE (MAES) scurrying across a frosty field.
++pozn=maes parcio = car park, maes awyr = airport; ym maes = in the field of; sentence based on p. 256
+0859|dangerous|It's possible that the wind will be dangerous for car drivers (peryglus → [b]eryglus after yn; gyrwyr → [y]rwyr after i).|perygl (danger) + -us.
++pozn=perygl (L11); sentence based on a question on the Bwletin Newyddion, p. 264
+0860|disappointment|But the biggest disappointment was that there were no animals in the show (mwya → [f]wya after the feminine siom).|What a SHAME (SIOM) – a mug of lukewarm tea.
++rod_pozn=more often feminine (the coursebook has y siom fwya, p. 253); dictionaries also give masculine
++pozn=siomi = to disappoint (outside the coursebook); no plural given; sentence from the e-mail on p. 253
+0861|disappointing; disappointed|On the whole, it was a disappointing evening.|siom (disappointment) + -edig.
++pozn=ar y cyfan (L17); n- doesn't mutate after yn (yn noson); sentence from the e-mail on p. 253
+0862|to hit, to strike (a blow; of a storm)|A storm has hit the west coast.|TA-RA! (TA-RO) – and the cymbal is struck.
++alt=bwrw
++pozn=past tense trawodd; bwrw (L11) = to hit, colloquially more common; trawiad = blow, stroke (outside the coursebook); news glossary, p. 262; own example
+0863|fair|I don't feel that you advertised the evening fairly (teg → [d]eg after yn).|TEG ~ TAG: a fair game of tag.
++pozn=chwarae teg = fair play, fair enough; annheg = unfair (outside the coursebook); sentence from the e-mail on p. 254
+0864|difficulty, trouble|Protestors will cause trouble in Aberheli.|TRAFFIC trouble (TRAFF-erth): a sea of red brake lights.
++pozn=the news glossary has only the plural trafferthion (p. 262); gender from outside the coursebook (the glossary doesn't give it); sentence based on a question on p. 255
+0865|foreign, overseas|Foreign news next...|tra- (across) + môr (sea): from across the sea.
++pozn=tra (across) + môr (sea); mynd dramor = to go abroad (the form dramor is fixed); sentence from the Bwletin Newyddion, p. 261
+0866|to apologise|I'd like to apologise for the delay.|'UM, THE HERO (ym-DDI-HEUR-o) is sorry he's late.'
++pozn=ymddiheuro am = to apologise for (soft mutation after am); ymddiheuriad = apology (outside the coursebook); oedi (L11); news glossary, p. 262; own example
+0867|following, after|The road is closed following a serious accident (difrifol → [dd]ifrifol after the feminine damwain).|dilyn = to follow.
++pozn=dilyn = to follow; news glossary, p. 262; own example
+0868|according to|According to Iestyn, it's very hard for him to compete against a big supermarket (cystadlu → [g]ystadlu after iddo; mawr → [f]awr after the feminine archfarchnad).|yn ôl = back; also 'according to': going back to what someone said.
++pozn=yn ôl also has other meanings: back (dod yn ôl), ago (dwy flynedd yn ôl); sentence from the article on p. 252
++cu=not "back", not "ago"
+0869|during|More news will come during the day.|ystod = range, span: during = within the span of.
++pozn=daw = will come (short future of dod); sentence from the Bwletin Newyddion, p. 261
+0870|to expect; to wait|I don't expect you to answer today.|You EXPECT the DISK WILL (DIS-GWYL) load any second… and wait.
++pozn=Disgwylir = it is expected (impersonal form, p. 261); colloquially also disgwyl babi = to be expecting a baby; aros = to wait (for someone); own example
+0871|company, firm|She works for a television company (cwmni → [g]wmni after i).|COMPANY → CWMNI: a company that sells ice.
++pozn=cwmnïaeth = company (being with someone, outside the coursebook); news glossary, p. 263; own example
+0872|minister (government); minister (of religion)|She was appointed Health Minister (penodi → [ph]enodi after ei = her; Gweinidog → [W]einidog after yn).|gweini (to serve): a minister serves – in a blue cassock, shovelling snow off the chapel steps.
++pozn=grammatically masculine even for a woman; Prif Weinidog (L11); also a Nonconformist minister; news glossary, p. 263; own example
+0873|to vote|Are you going to vote in the election? (pleidleisio → [b]leidleisio after i)|pleidlais (a vote) = plaid (party) + llais (voice): giving your voice to a party.
++pozn=pleidlais = vote (in an election, outside the coursebook); plaid (L12), etholiad (L7); news glossary, p. 263; own example
+0874|tax|The government will raise the tax on alcohol (treth → [d]reth after 'r, feminine).|The taxman TREADS (TRETH) on your toes – and the bill arrives in red ink.
++pozn=trethdalwr = taxpayer (outside the coursebook); news glossary, p. 263; own example

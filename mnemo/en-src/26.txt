@@ -1,0 +1,49 @@
+# deck 26 – Uned 13. See STYLE.md.
+0570|absent|It was Rhian who was absent last week (emphatic sentence with oedd).|From English absent.
++pozn=absenoldeb = absence (outside the coursebook); sentence from p. 163
+0571|necessary, essential|What do you think is necessary to have a good local fair? (meddwl → [f]eddwl after the dropped object ei; lleol → [l]eol and da → [dd]a after the feminine ffair)|angen (need) + rhaid (must) → angenrheidiol.
++pozn=sentence from p. 167
++s.exc=What do you think is necessary to have a good local fair?
++s.pozn=north: Be instead of Beth (L9), dach instead of dych (L11)
+0572|annual, yearly|Look at the picture of Abercastell's annual fair (blynyddol → [f]lynyddol after the feminine ffair).|blwyddyn (year) → blynyddol.
++pozn=dyddiol = daily, wythnosol = weekly (L15); sentence from p. 166
++s.pozn=north: sbio instead of edrych (L18)
+0573|clever|She's a very clever girl (merch → [f]erch after yn; clyfar → [g]lyfar after the feminine merch).|From English clever.
++pozn=synonyms galluog, deallus (L13); in the book: the quiz Plant Clyfar Cymru (p. 165); own example
+0574|physical|She's good at physical tasks like running and jumping.|corff (body) + -ol.
++pozn=corff = body, addysg gorfforol = PE (L12); sentence from the dialogue on p. 165
+0575|welcoming, hospitable|Are Welsh classes welcoming? (croesawgar → [g]roesawgar after yn)|croeso (welcome) + -gar (fond of): fond of welcoming people.
++pozn=the ending -gar = fond of, inclined to (croesawgar, gweithgar); sentence from p. 161
+0576|responsible|Who's responsible for the arrangements? (cyfrifol → [g]yfrifol after 'n)|cyfrif (to count, account): the one who has to account for it.
++pozn=pattern cyfrifol am (for something); cyfrifoldeb = responsibility; cyfrifydd = accountant (L6); own example
+0577|intelligent, bright|She's intelligent enough (digon → [dd]igon after yn).|deall (to understand) + -us.
++pozn=dealltwriaeth = understanding (L11); sentence from the dialogue on p. 165
+0578|daft, silly|Don't be daft! (dwl → [dd]wl after yn)|From English dull ~ DWL.
++pozn=dwlu ar = to adore, to be mad about (p. 164: yn dwlu ar gestyll); sentence from p. 163
+0579|capable, able, brainy|He's a very able boy (bachgen → [f]achgen after yn).|gallu (to be able) + -og: someone who can do a lot.
++pozn=sentence from the dialogue on p. 165
++s.pozn=north: o instead of e (L1)
+0580|native (by birth)|Florencia is originally from Patagonia (genedigol → enedigol after yn, the g- drops; Patagonia → [B]atagonia after o).|geni (to be born) → genedigol.
++pozn=yn enedigol o = a native of; tref enedigol = home town; genedigaeth = birth (outside the coursebook); Florencia from the video Pobl Patagonia (p. 164); own example
+0581|hardworking|She isn't as hardworking as Alan (gweithgar → [w]eithgar after mor).|gwaith (work) + -gar (fond of): fond of work.
++pozn=sentence from the dialogue on p. 165
++s.pozn=north: dydy instead of dyw (outside the coursebook)
+0582|likeable, lovable|She's very likeable.|hoffi (to like) + -us: someone everybody likes.
++pozn=sentence from the dialogue on p. 165
+0583|private|The party is in a private room (preifat → [b]reifat after the feminine ystafell).|From English private.
++pozn=own example
+0584|to do, to make do, to serve the purpose|There isn't another chair, but this box will do.|tro = turn: it'll "do its turn", it does the job.
++pozn=am y tro = for the time being (L12); own example
+0585|from afar, from a distance|She watched the game from a distance (pell → [b]ell after o).|pell (far) → o bell.
++pozn=o bell ffordd = by far (o bell ffordd y gorau = by far the best); own example
+0586|at that time, then|The town was very quiet at that time (tawel → [d]awel after yn; pryd → [b]ryd as an adverb of time).|pryd (when) + hynny (that): "at that moment".
++pozn=as an adverb it usually mutates: bryd hynny (L17 has its own entry, no card there); hynny = that (L11); own example
+0587|above (in a text)|Look at the picture above.|uchel (high) → uchod; the opposite is isod.
++pozn=isod = below (L2); uwchben = above, over (L16); mainly in written texts; own example
++s.pozn=north: sbio instead of edrych (L18)
+0588|It's hard to say|Is she cross with me? – It's hard to say (crac → [g]rac after yn).|
++pozn=Robin Radio, p. 170; own example with the pair crac/blin from the box Y De a'r Gogledd L13
++s.exc=Is she cross with me? – It's hard to say (blin → [f]lin after yn).
++s.pozn=north: blin instead of crac (L13), efo instead of gyda (L2), deud instead of dweud (outside the coursebook); careful, in the south mae'n flin gyda fi = I'm sorry
+0589|to call over, to drop in|I'll call over after work.|galw (to call) + draw (over there): to call in on someone.
++pozn=Robin Radio, p. 170; short future galwa i (L4); dod draw = to come over (L6); galw heibio is also common in general (outside the coursebook); own example

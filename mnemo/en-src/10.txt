@@ -1,0 +1,49 @@
+# deck 10 – Uned 6. See STYLE.md.
+0196|department|I work in the Marketing Department (marchnata → [f]archnata after the feminine adran).|Our department RAN an AD (AD-RAN) in huge red neon letters.
+0197|envelope|She put the note in the envelope.|I AM LENding (AM-LEN) you an envelope, sealed with red wax.
++pozn=after ei = her: ei hamlen hi; related: llythyr = letter
+0198|support|Thanks for your support (cefnogaeth → [g]efnogaeth after dy).|cefn = back: support means having someone's back – holding a red shield behind them.
+0199|audience; congregation|The audience was delighted (cynulleidfa → [g]ynulleidfa after y, feminine; wrth ei bodd: ei = 'her', because cynulleidfa is feminine).|cynnull = to gather (as in cynulliad, assembly) + -fa (place): the people gathered in one place – an audience fanning themselves in a red-hot theatre.
++pozn=-fa = place; cynull = to gather
+0200|cathedral|A service in the cathedral! (gadeiriol is always mutated in this fixed phrase: cadeiriol → [g]adeiriol after the feminine eglwys)|cadair = chair, throne: the church with the bishop's throne – and blazing red stained glass.
+0201|entrance|I'll see you by the entrance at seven (mynedfa → [f]ynedfa after y, feminine).|mynd (to go) + -fa (place): an entrance lit by flaming torches.
+0202|protest, demonstration|We went to the protest in Cardiff (protest → [b]rotest after y, feminine).|Same as English: protestors marching behind a burning red flare.
+0203|hairdresser's|I'm going to the hairdresser's tomorrow morning.|trin = to treat, gwallt = hair: the shop with the red-and-white pole where they treat your hair.
+0204|tourism|Wales depends on tourism (twristiaeth → [d]wristiaeth after ar).|twrist (tourist) + -iaeth: tourism – sunburnt tourists packed onto the beach.
+0205|environment|I think the environment is very important (pwysig → [b]wysig after yn).|am (around) + cylch (circle): everything around us – protect it, or the polar ice caps melt.
+0206|memory, recollection|Have you got a special memory of a concert? (cyngerdd → [g]yngerdd after o)|at + cof (memory): a memory floats up like an ice floe.
++cu=a memory of something, not memory as an ability
++s.exc=Have you got a special memory of a concert?
++s.pozn=north: gynnoch chi instead of gyda chi (L6)
+0207|record, note; (pl.) minutes|Will you look over these minutes? – I'll look over them after lunch.|cof (memory) + nod (mark): a mark to help the memory – minutes scratched into the snow.
+0208|friend|Dafydd is an old friend of mine (cyfaill → [g]yfaill after hen).|An old friend: a CAVALIER (CYF-AILL) in an ice-blue cloak.
++pozn=more literary than ffrind
++cu=a more literary word than ffrind
++s.pozn=north: i mi instead of i fi (not in the coursebook)
+0209|accountant|My sister is an accountant (cyfrifydd → [g]yfrifydd after yn).|cyfrif (to count) + -ydd (person): the accountant spends all day counting penguins.
+0210|connection|What's Catrin Zara's connection with Abercastell?|cysylltu = to connect: a blue cable laid under the Arctic ice connects the two.
++s.pozn=north: Be ydy instead of Beth yw (L5)
+0211|chemist, pharmacist|I took the prescription to the chemist.|The chemist takes the FERRY (FFER-yll-ydd) across to deliver ice packs to the island.
++pozn=fferyllfa = chemist's (shop) (-fa = place)
++cu=the person, not the shop
+0212|figure (number)|How often do you use figures?|Same as English: figures frozen on a blue digital display.
++pozn=a question, so wyt ti (not rwyt ti) is right
++ov=0
+0213|fitness|I really do worry about my fitness.|ffit + -rwydd = fitness: training laps round a freezing ice rink.
+0214|laptop|The children are allowed to look at their laptops after supper.|glin (knee, lap) + -iadur as in cyfrifiadur (computer): a lap computer with a cold blue glow.
++s.pozn=north: sbio instead of edrych (L18)
+0215|grammar|Are you interested in the grammar course?|GRAMMAR (GRAMA-deg): the rules carved into a block of ice.
++s.pozn=north: gen ti instead of gyda ti (L6), soft mutation after gen: diddordeb → [dd]iddordeb
+0216|workplace|I speak Welsh in the workplace every day.|gwaith (work) + lle (place): a workplace in an ice-cold warehouse.
+0217|note (message)|I must write her a note.|A snowman NODs (NOD-yn) and hands you a note.
++s.pozn=north: i mi instead of i fi, sgwennu instead of ysgrifennu (both not in the coursebook)
+0218|performance|We enjoyed the orchestra's performance (perfformiad → [b]erfformiad as the object; cerddorfa → [g]erddorfa after y, feminine).|Same as English: a performance on ice skates.
+0219|injection; sting|The nurse gave me an injection yesterday (pigiad → [b]igiad as the object).|A PIGgy (PIG-iad) needs an injection – and the needle is ice-cold.
++s.pozn=north: ges i instead of ces i (not in the coursebook)
+0220|prescription|The doctor gave me a prescription (presgripsiwn → [b]resgripsiwn as the object).|Same as English: the chemist hands your prescription over from a freezer.
++cu=from a doctor
++s.pozn=north: i mi instead of i fi (not in the coursebook)
+0221|scissors|Can I borrow your scissors? (benthyg → [f]enthyg after ga i)|SCISSORS (SISWRN) snipping snowflakes out of blue paper.
++pozn=singular in Welsh = one pair of scissors
+0222|essay|Will you look over this essay? – I'll look over it after a cuppa.|Think of traeth (beach): an essay about the beach, written in winter while the sand is white with frost.
++s.pozn=north: fo instead of fe (L1)
