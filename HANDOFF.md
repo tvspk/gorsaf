@@ -129,8 +129,7 @@ untouched (the original app keeps them). Reply in Czech.
   - (superseded: next English APK ≥ 5.)
   **15 Nov 2026 (Chat EN-8 cont.): APK 3.7-en, versionCode 4 = 3.6-en content with the ORIGINAL icon (no "EN" badge; user's
   choice). build_en.sh no longer copies icon-en/res (line kept as a comment). Label under the icon is still "Gorsaf Abercastell EN".
-  SHA-256 da15375736e42828724819481e475050a489135d3f81a65d8772f301f9c0d4cb. Saved whole on the user's Desktop folder
-  "gorsaf 13112026 en s mnemo".**
+  SHA-256 da15375736e42828724819481e475050a489135d3f81a65d8772f301f9c0d4cb. Saved whole on the user's computer.**
   - **Next English APK must be versionCode ≥ 8 (3.8-en = vc 5 has sync, 3.9-en = vc 6, 3.10-en = vc 7, see below)**, signed with signing-en.
   **SYNC BETWEEN DEVICES (Chat EN-9, 17 Nov 2026). English app 3.8-en (versionCode 5) + web on GitHub Pages.**
   - User decisions: English app only (Czech game untouched: sync is injected only into game-en); phone + tablet + computer
