@@ -334,6 +334,9 @@ for the Mnemo Welsh project unless the decks change).
 closes the Mnemo peek sheet. No change to the main save format.
 
 ## 0. STATE AT A GLANCE (read first)
+- **17 Nov 2026: START with `START-HERE.md`** (tool-neutral summary). Active line = English app **3.10-en (vc 7)** with sync,
+  built and released by GitHub Actions from https://github.com/tvspk/gorsaf ; web https://tvspk.github.io/gorsaf/ . Handover set:
+  gorsaf-handoff-en-10.zip (this tree without audio clips, with both keys) + gorsaf-audio-1/2/3.zip + gorsaf-en-3.10-en.apk.
 - **Live game now (13 Nov 2026): https://claude.ai/artifact/AbSoWLbaanut3eBz7yNa51 (see §00 Chat F, H). APK 3.4 = versionCode 16 (Chat H); next ≥ 17.**
 - **Earlier state (23 Oct 2026):** the user moved to a NEW Claude account; the main game is now a new artifact
   https://claude.ai/artifact/GorZWPpARNxXuHBWHmfB7a (version 10 = old v21 + Welsh date on the home screen + headword 🔊 to the right of the word, see §9). Old account's artifacts (incl. the listening page) are not reachable here.
