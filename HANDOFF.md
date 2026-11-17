@@ -163,7 +163,9 @@ untouched (the original app keeps them). Reply in Czech.
     key from Secrets (GORSAF_EN_KEYSTORE base64, GORSAF_EN_KEYSTORE_PASSWORD), checks cert 89e9d208…e136c2, releases
     `v<versionName>` from `apk/verze-en.txt` (now `5 3.8-en`).
   - Tests: `testy/test_sync.py` (fake GitHub, 4 devices), `testy/test_qr.py` (fake camera), `testy/test_apk_page.py`;
-    run_checks ALL PASSED. **Not tested on a real phone nor against the real GitHub.**
+    run_checks ALL PASSED. **17 Nov 2026: the user installed 3.8-en from the release and paired 3 devices (phone, tablet,
+    web) against the real GitHub; Mnemo progress moved between them. Not yet checked: upload when the app is closed right
+    after a round.** Open: EN text of station part `ysgol` still says "Dobré or Snadné" (should be Good/Easy).
 ## 00. MNEMO HOOKS: WORK IN PROGRESS (13 Nov 2026), READ THIS FIRST
 The user is adding a section **Mnemo Hooks** to this game: the 899 Czech mnemonic word cards of the claude.ai project
 **"Mnemo Welsh"** (decks `claude/cy-canolradd-01.json` … `-40.json`, made from the same textbook). Reply in Czech.
