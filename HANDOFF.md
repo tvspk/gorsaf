@@ -131,7 +131,7 @@ untouched (the original app keeps them). Reply in Czech.
   choice). build_en.sh no longer copies icon-en/res (line kept as a comment). Label under the icon is still "Gorsaf Abercastell EN".
   SHA-256 da15375736e42828724819481e475050a489135d3f81a65d8772f301f9c0d4cb. Saved whole on the user's Desktop folder
   "gorsaf 13112026 en s mnemo".**
-  - **Next English APK must be versionCode ≥ 6 (3.8-en = vc 5 has sync, see below)**, signed with signing-en.
+  - **Next English APK must be versionCode ≥ 7 (3.8-en = vc 5 has sync, 3.9-en = vc 6, see below)**, signed with signing-en.
   **SYNC BETWEEN DEVICES (Chat EN-9, 17 Nov 2026). English app 3.8-en (versionCode 5) + web on GitHub Pages.**
   - User decisions: English app only (Czech game untouched: sync is injected only into game-en); phone + tablet + computer
     (web); PUBLIC code repository `tvspk/gorsaf` (game, decks, audio clips, scripts; no keys, no notes for the user);
@@ -165,7 +165,10 @@ untouched (the original app keeps them). Reply in Czech.
   - Tests: `testy/test_sync.py` (fake GitHub, 4 devices), `testy/test_qr.py` (fake camera), `testy/test_apk_page.py`;
     run_checks ALL PASSED. **17 Nov 2026: the user installed 3.8-en from the release and paired 3 devices (phone, tablet,
     web) against the real GitHub; Mnemo progress moved between them. Not yet checked: upload when the app is closed right
-    after a round.** Open: EN text of station part `ysgol` still says "Dobré or Snadné" (should be Good/Easy).
+    after a round.** 
+  - **3.9-en (versionCode 6, 17 Nov 2026):** station part `ysgol` in English says "(Good or Easy)" (was Czech "Dobré or
+    Snadné"). Fixed only in the derived EN file: `EN_FIX` table in mnemo/make_en.py (Czech game unchanged); the Czech-word
+    check there now also catches Dobré/Snadné/Znovu/Těžk… Next English APK ≥ 7.
 ## 00. MNEMO HOOKS: WORK IN PROGRESS (13 Nov 2026), READ THIS FIRST
 The user is adding a section **Mnemo Hooks** to this game: the 899 Czech mnemonic word cards of the claude.ai project
 **"Mnemo Welsh"** (decks `claude/cy-canolradd-01.json` … `-40.json`, made from the same textbook). Reply in Czech.

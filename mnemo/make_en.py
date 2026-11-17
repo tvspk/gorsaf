@@ -15,7 +15,9 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, '..')
 GAME = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, 'game', 'gorsaf-abercastell.html')
 OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(ROOT, 'game-en', 'gorsaf-abercastell-en.html')
-CZ = re.compile(r'[ěščřžůťďňĚŠČŘŽŮ]')
+CZ = re.compile(r'[ěščřžůťďňĚŠČŘŽŮ]|\b(?:Dobr[éá]|Snadn[éá]|Znovu|Těžk)\w*')
+# Czech words in the shared game text that the English app must say in English (exact, each must be found once)
+EN_FIX = [('(Dobré or Snadné)', '(Good or Easy)')]   # station part ysgol: the Mnemo buttons are Good / Easy in English
 
 
 def run(*a):
@@ -32,6 +34,11 @@ def main():
     run(os.path.join(HERE, 'mnemo_build.py'), os.path.join(HERE, 'decks-en'), OUT)
     run(os.path.join(ROOT, 'sync', 'inject_sync.py'), OUT)   # sync between devices: English app + web only
     html = open(OUT, encoding='utf-8').read()
+    for a, b in EN_FIX:
+        if html.count(a) != 1:
+            sys.exit(f'EN_FIX: {a!r} found {html.count(a)}x (the game changed: update EN_FIX)')
+        html = html.replace(a, b)
+    open(OUT, 'w', encoding='utf-8').write(html)
     if "DATA.mnemo={\"lang\":\"en\"" not in html:
         sys.exit('the variant has no English Mnemo data')
     # the Czech half of the string table in mnemo.js is code shared with the original game; the variant never shows it
