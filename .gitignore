@@ -20,3 +20,4 @@ CTI-MNE.txt
 # test leftovers
 __pycache__/
 *.png.tmp
+*.idsig
