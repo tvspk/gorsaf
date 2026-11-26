@@ -4536,6 +4536,15 @@ function audUrl(key){if(window.GORSAF_LOCAL)return Promise.resolve('audio/'+key+
   const ix=AUDIO_INDEX[key];if(!ix)return Promise.reject(0);const [n,o,l]=ix;
   AUDP[n]=AUDP[n]||fetch('audio/'+n+'.mp3').then(r=>{if(!r.ok)throw 0;return r.arrayBuffer()}).catch(e=>{delete AUDP[n];throw e});
   return AUDP[n].then(buf=>AUDU[key]=URL.createObjectURL(new Blob([buf.slice(o,o+l)],{type:'audio/mpeg'})))}
+/* Lost property: a short sound for a right / wrong tag, made on the spot (Web Audio, no file), as in Shelf Stocking of
+   Moonlight Mart but with station sounds: right = two rising chime notes, wrong = a low dull double thud. */
+let SFXCTX=null;
+function sfx(ok){try{const a=SFXCTX=SFXCTX||new (window.AudioContext||window.webkitAudioContext)();if(a.state==='suspended')a.resume();
+  const t0=a.currentTime+0.01,notes=ok?[[880,0,0.16],[1318.5,0.09,0.32]]:[[196,0,0.16],[147,0.13,0.26]];
+  for(const [f,d,len] of notes){const o=a.createOscillator(),g=a.createGain(),t=t0+d;
+    o.type=ok?'sine':'triangle';o.frequency.setValueAtTime(f,t);if(!ok)o.frequency.exponentialRampToValueAtTime(f*0.8,t+len);
+    g.gain.setValueAtTime(0.0001,t);g.gain.exponentialRampToValueAtTime(ok?0.12:0.2,t+0.012);g.gain.exponentialRampToValueAtTime(0.0001,t+len);
+    o.connect(g).connect(a.destination);o.start(t);o.stop(t+len+0.02)}}catch(e){}}
 function audStop(){AUDSEQ++;if(AUDEL){try{AUDEL.pause()}catch(e){}}if(AUD){AUD.classList.remove('on');AUD=null}}
 // plays one key or several in a row on a single shared element; any failure stops quietly; pressing the playing button stops it
 function audPlay(keys,btn){if(AUD===btn){audStop();return}audStop();keys=[].concat(keys);const id=AUDSEQ;AUD=btn;btn.classList.add('on');
@@ -5259,7 +5268,7 @@ function step(ex,phase,i,n,next){
   if(ex.t==='narr'){const b=h('button','btn','Continue');b.onclick=()=>next(true);c.append(b);show(c);return}
   if(ex.q)c.append(h('p','q',ex.q));
   const pay=phase===5?3:phase<2?[5,7,9,12][lvl('rhandir')]+(R.ot?2*lvl('arsyllfa'):0):phase===4?[2,3,4,5][lvl('doc')]*(ex.t==='type'||ex.gold?2:1):0;PH=phase;
-  const fin=(ok,o={})=>{log(ex.tag,ok,ex.review);ex.done&&ex.done(ok);if(ok&&pay)earn(pay);
+  const fin=(ok,o={})=>{if(phase===4)sfx(ok);log(ex.tag,ok,ex.review);ex.done&&ex.done(ok);if(ok&&pay)earn(pay);
     const fb=h('div','fb');
     fb.append(h('div','verdict',`<span class="stamp ${ok?'ok':'no'}">${ok?'Cywir':'Anghywir'}</span><span class="say">${o.say||pick(ok?OK_SAY:NO_SAY)}${ok&&pay?' +'+pay:''}</span>`));
     if(o.exp)fb.append(h('div','exp',o.exp));

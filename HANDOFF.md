@@ -130,7 +130,7 @@ untouched (the original app keeps them). Reply in Czech.
   **15 Nov 2026 (Chat EN-8 cont.): APK 3.7-en, versionCode 4 = 3.6-en content with the ORIGINAL icon (no "EN" badge; user's
   choice). build_en.sh no longer copies icon-en/res (line kept as a comment). Label under the icon is still "Gorsaf Abercastell EN".
   SHA-256 da15375736e42828724819481e475050a489135d3f81a65d8772f301f9c0d4cb. Saved whole on the user's computer.**
-  - **Next English APK must be versionCode ≥ 9 (3.8-en = vc 5 has sync, 3.9-en = vc 6, 3.10-en = vc 7, 3.11-en = vc 8, see below)**, signed with signing-en.
+  - **Next English APK must be versionCode ≥ 10 (3.8-en = vc 5 has sync, 3.9-en = vc 6, 3.10-en = vc 7, 3.11-en = vc 8, 3.12-en = vc 9, see below)**, signed with signing-en.
   **SYNC BETWEEN DEVICES (Chat EN-9, 17 Nov 2026). English app 3.8-en (versionCode 5) + web on GitHub Pages.**
   - User decisions: English app only (Czech game untouched: sync is injected only into game-en); phone + tablet + computer
     (web); PUBLIC code repository `tvspk/gorsaf` (game, decks, audio clips, scripts; no keys, no notes for the user);
@@ -177,7 +177,13 @@ untouched (the original app keeps them). Reply in Czech.
   - **3.11-en (versionCode 8, 26 Nov 2026):** app version at the bottom of the desk (last line of the footnote,
     `#appver`, `sync.js` `upFoot`). APK: `Version <versionName>` from `GorsafAndroid.version()`; web: `Version <name> (web)`
     from `window.GORSAF_WEB_VER`, written into index.html by `build_web.py` from `apk/verze-en.txt`. Nothing to edit by
-    hand on a release: raise verze-en.txt, run build_web.py, push. Next English APK ≥ 9.
+    hand on a release: raise verze-en.txt, run build_web.py, push.
+  - **3.12-en (versionCode 9, 26 Nov 2026):** Lost property plays a short sound on every answer (user's wish, as Shelf
+    Stocking in Moonlight Mart, own sounds): right = two rising sine chime notes (880 → 1318.5 Hz), wrong = a low
+    triangle double thud (196 → 147 Hz, sliding down). `sfx(ok)` next to `audStop` in the game file (Web Audio, made on the
+    spot, no file, no mute switch), called from `fin` in `step()` only when `phase===4` (Sorting = Lost property); story,
+    puzzle, rush, work order and grammar stay silent. In the shared game file, so the Czech game has it too (not rebuilt:
+    Czech APK and live artifact unchanged until the next local build). Next English APK ≥ 10.
 ## 00. MNEMO HOOKS: WORK IN PROGRESS (13 Nov 2026), READ THIS FIRST
 The user is adding a section **Mnemo Hooks** to this game: the 899 Czech mnemonic word cards of the claude.ai project
 **"Mnemo Welsh"** (decks `claude/cy-canolradd-01.json` … `-40.json`, made from the same textbook). Reply in Czech.
