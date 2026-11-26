@@ -25,6 +25,10 @@ head = ('<meta charset="utf-8">'
         '<link rel="manifest" href="manifest.webmanifest">'
         '<link rel="icon" href="icons/icon-192.png">'
         '<link rel="apple-touch-icon" href="icons/icon-192.png">')
+# version shown at the bottom of the desk (sync.js upFoot): the same versionName as the APK of this build
+webver = (root / 'apk' / 'verze-en.txt').read_text(encoding='utf-8').split()[1]
+assert all(c.isalnum() or c in '.-' for c in webver), webver
+head += f'<script>window.GORSAF_WEB_VER="{webver}"</script>'
 assert h.count('<meta charset="utf-8">') == 1
 h = h.replace('<meta charset="utf-8">', head)
 h = h.replace('<title>Gorsaf Abercastell</title>', '<title>Gorsaf Abercastell EN</title>', 1)

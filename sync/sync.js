@@ -45,7 +45,7 @@ const SYT={
   qrStarting:'Starting the camera…',qrLooking:'Looking for the code…',qrNoCam:'The camera isn’t available here. Type the 8 words instead.',
   qrDenied:'Gorsaf Abercastell isn’t allowed to use the camera. Allow it in the device settings, or type the 8 words instead.',qrWrong:'That isn’t a Gorsaf Abercastell pairing code.',
   tokenOk:'The token is saved.',resetOff:'Sync was turned off on this device, so the wipe stays here. Your other devices keep their progress.',
-  upNew:v=>`A new version of the app is ready: ${v}.`,upGet:'Download',upLater:'Later',
+  upNew:v=>`A new version of the app is ready: ${v}.`,ver:v=>`Version ${v}`,verWeb:v=>`Version ${v} (web)`,upGet:'Download',upLater:'Later',
   e:{offline:'No internet connection. It will try again later.',token:'The token is invalid or has expired. Enter a new one.',
     notfound:'The repository can’t be opened. Check its name and the token’s permissions.',forbidden:'The repository can’t be opened. Check its name and the token’s permissions.',
     public:'That repository is public. For sync it must be private.',empty:'The repository is empty. Add a README file to it on GitHub.',
@@ -245,7 +245,7 @@ var syResetNote=false;
 {const f=save;save=function(){f.apply(this,arguments);syChanged()}}
 {const f=mhSave;mhSave=function(){f.apply(this,arguments);syChanged()}}
 {const f=show;show=function(){syView='x';syScanStop();return f.apply(this,arguments)}}
-{const f=home;home=function(){const r=f.apply(this,arguments);syView='home';syFoot();upShow();
+{const f=home;home=function(){const r=f.apply(this,arguments);syView='home';syFoot();upFoot();upShow();
   if(sySoonT&&sySoonAt>Date.now()+SY_DESK){clearTimeout(sySoonT);sySoonT=null;sySoon()}   /* back at the desk: upload soon */
   return r}}
 {const f=initStore;initStore=async function(){await f.apply(this,arguments);syBoot();setTimeout(upCheck,4000)}}
@@ -398,4 +398,9 @@ function upShow(){const old=document.getElementById('upbar');if(old)old.remove()
     syBtn(SYT.upLater,'btn ghost',()=>{const v=upLoad();v.later=Date.now()+UP_LATER;upSave(v);upShow()},'up-later'));
   main.prepend(d)}
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)setTimeout(upCheck,1000)});
+/* app version at the bottom of the desk: the APK says its own versionName (Bridge.version), the web build gets
+   window.GORSAF_WEB_VER from scripts/build_web.py (apk/verze-en.txt). Nothing to edit by hand on a new release. */
+function upFoot(){const f=main.querySelector('.footnote');if(!f||document.getElementById('appver'))return;
+  const mine=upMine(),web=typeof window.GORSAF_WEB_VER==='string'?window.GORSAF_WEB_VER:'',t=mine?SYT.ver(mine):web?SYT.verWeb(web):'';
+  if(!t)return;const v=h('span','credit',syEsc(t));v.id='appver';f.append(v)}
 /*SYNC-END*/

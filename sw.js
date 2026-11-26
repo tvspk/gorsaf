@@ -1,6 +1,6 @@
 // Offline: the network first (a new version at once), the cache without network. Audio clips (names = content hash)
 // come from the cache once played. Made by scripts/build_web.py, do not edit by hand.
-const C='ge-d24c4850d8f5',A='ge-audio',F=["index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
+const C='ge-7990d0a8337e',A='ge-audio',F=["index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(C).then(c=>c.addAll(['./',...F])));self.skipWaiting()});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==C&&x!==A).map(x=>caches.delete(x)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',e=>{const r=e.request,u=new URL(r.url);if(r.method!=='GET'||u.origin!==location.origin)return;
