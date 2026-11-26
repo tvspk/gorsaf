@@ -4545,12 +4545,16 @@ function sfx(ok){try{const a=SFXCTX=SFXCTX||new (window.AudioContext||window.web
     o.type=ok?'sine':'triangle';o.frequency.setValueAtTime(f,t);if(!ok)o.frequency.exponentialRampToValueAtTime(f*0.8,t+len);
     g.gain.setValueAtTime(0.0001,t);g.gain.exponentialRampToValueAtTime(ok?0.12:0.2,t+0.012);g.gain.exponentialRampToValueAtTime(0.0001,t+len);
     o.connect(g).connect(a.destination);o.start(t);o.stop(t+len+0.02)}}catch(e){}}
+/* Voice speed for every recording (one shared player): kept per device in localStorage like the theme; pitch stays. */
+const AUD_RATES=[1,0.9,0.8,0.7];
+let AUDRATE=(()=>{try{const r=+localStorage.getItem('gorsaf-voice-rate');return AUD_RATES.includes(r)?r:1}catch(e){return 1}})();
+function audSetRate(r){AUDRATE=r;try{localStorage.setItem('gorsaf-voice-rate',String(r))}catch(e){}if(AUDEL)try{AUDEL.defaultPlaybackRate=AUDEL.playbackRate=r}catch(e){}}
 function audStop(){AUDSEQ++;if(AUDEL){try{AUDEL.pause()}catch(e){}}if(AUD){AUD.classList.remove('on');AUD=null}}
 // plays one key or several in a row on a single shared element; any failure stops quietly; pressing the playing button stops it
 function audPlay(keys,btn){if(AUD===btn){audStop();return}audStop();keys=[].concat(keys);const id=AUDSEQ;AUD=btn;btn.classList.add('on');
   const el=AUDEL=AUDEL||new Audio();let i=0;const done=()=>{if(id===AUDSEQ){btn.classList.remove('on');AUD=null}};
   const next=()=>{if(id!==AUDSEQ)return;if(i>=keys.length)return done();
-    audUrl(keys[i++]).then(u=>{if(id!==AUDSEQ)return;el.onended=next;el.onerror=done;el.src=u;const p=el.play();if(p&&p.catch)p.catch(done)}).catch(done)};
+    audUrl(keys[i++]).then(u=>{if(id!==AUDSEQ)return;el.onended=next;el.onerror=done;try{el.preservesPitch=el.webkitPreservesPitch=true;el.defaultPlaybackRate=AUDRATE}catch(e){}el.src=u;try{el.playbackRate=AUDRATE}catch(e){}const p=el.play();if(p&&p.catch)p.catch(done)}).catch(done)};
   try{next()}catch(e){done()}}
 function audBtn(line,label){if(!line||!AUDIO_HAVE.has(line.key))return null;const b=h('button','aud'+(label?' lbl':''),AUD_ICON+(label?`<span>${label}</span>`:''));
   b.type='button';b.setAttribute('aria-label',label||'Listen');b.onclick=e=>{e.stopPropagation();audPlay(line.key,b)};return b}
@@ -4865,7 +4869,9 @@ function home(){R=null;S.round=null;setPhase(-1);glHide();
   const bk=h('button','link','Back up'),rt=h('button','link','Restore');bk.onclick=backup;rt.onclick=restore;
   const old=S.lastBackup?dayDiff(S.lastBackup,today()):null;
   foot.append(rs,h('span','',' · '),bk,h('span','',' · '),rt,themeSwitch(),h('span','bkinfo',S.lastBackup?`Last backup: ${S.lastBackup}${old>=30?` (${old} days ago)`:''}`:S.done.size?`No backup yet.`:''));
-  if(AUDIO_HAVE.size)foot.append(h('span','credit',`Welsh voices: Piper CY-EN, Bangor University (Uned Technolegau Iaith), CC BY 4.0.`));
+  if(AUDIO_HAVE.size){const vs=h('button','link',`Voice speed: ${AUDRATE}×`);vs.id='voicerate';vs.title='Speed of every Welsh recording on this device';
+    vs.onclick=()=>{audSetRate(AUD_RATES[(AUD_RATES.indexOf(AUDRATE)+1)%AUD_RATES.length]);vs.textContent=`Voice speed: ${AUDRATE}×`};
+    const vr=h('span','credit','');vr.append(vs);foot.append(vr,h('span','credit',`Welsh voices: Piper CY-EN, Bangor University (Uned Technolegau Iaith), CC BY 4.0.`))}
   if(!ready){c.querySelectorAll('button').forEach(b=>b.disabled=true);c.insertBefore(h('p','sub','Fetching your file from Records…'),list)}
   st.classList.add('bonus');cab.classList.add('bonus');
   const brk2=DATA.station.some(m=>S.broken.has(m.id)),sep=h('button','bonussep',`<span>Bonws <i class="chev" aria-hidden="true">▸</i></span><small>where the credits go${brk2?' · <b class="brk">something has broken down</b>':''}</small>`);

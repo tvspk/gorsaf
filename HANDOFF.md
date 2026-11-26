@@ -130,7 +130,7 @@ untouched (the original app keeps them). Reply in Czech.
   **15 Nov 2026 (Chat EN-8 cont.): APK 3.7-en, versionCode 4 = 3.6-en content with the ORIGINAL icon (no "EN" badge; user's
   choice). build_en.sh no longer copies icon-en/res (line kept as a comment). Label under the icon is still "Gorsaf Abercastell EN".
   SHA-256 da15375736e42828724819481e475050a489135d3f81a65d8772f301f9c0d4cb. Saved whole on the user's computer.**
-  - **Next English APK must be versionCode ≥ 10 (3.8-en = vc 5 has sync, 3.9-en = vc 6, 3.10-en = vc 7, 3.11-en = vc 8, 3.12-en = vc 9, see below)**, signed with signing-en.
+  - **Next English APK must be versionCode ≥ 11 (3.8-en = vc 5 has sync, 3.9-en = vc 6, 3.10-en = vc 7, 3.11-en = vc 8, 3.12-en = vc 9, 3.13-en = vc 10, see below)**, signed with signing-en.
   **SYNC BETWEEN DEVICES (Chat EN-9, 17 Nov 2026). English app 3.8-en (versionCode 5) + web on GitHub Pages.**
   - User decisions: English app only (Czech game untouched: sync is injected only into game-en); phone + tablet + computer
     (web); PUBLIC code repository `tvspk/gorsaf` (game, decks, audio clips, scripts; no keys, no notes for the user);
@@ -183,7 +183,12 @@ untouched (the original app keeps them). Reply in Czech.
     triangle double thud (196 → 147 Hz, sliding down). `sfx(ok)` next to `audStop` in the game file (Web Audio, made on the
     spot, no file, no mute switch), called from `fin` in `step()` only when `phase===4` (Sorting = Lost property); story,
     puzzle, rush, work order and grammar stay silent. In the shared game file, so the Czech game has it too (not rebuilt:
-    Czech APK and live artifact unchanged until the next local build). Next English APK ≥ 10.
+    Czech APK and live artifact unchanged until the next local build).
+  - **3.13-en (versionCode 10, 26 Nov 2026):** voice speed for EVERY Welsh recording (user's wish): button
+    "Voice speed: 1×" in the desk footnote (`#voicerate`, above the Welsh voices credit) cycles 1 → 0.9 → 0.8 → 0.7.
+    Per device in `localStorage['gorsaf-voice-rate']` like the theme (not in S, not synced). Applied in `audPlay` (the one
+    shared player for cases, Lost property, cards, news, Mnemo Hooks): playbackRate with preservesPitch. In the shared game
+    file (Czech game too, not rebuilt). Next English APK ≥ 11.
 ## 00. MNEMO HOOKS: WORK IN PROGRESS (13 Nov 2026), READ THIS FIRST
 The user is adding a section **Mnemo Hooks** to this game: the 899 Czech mnemonic word cards of the claude.ai project
 **"Mnemo Welsh"** (decks `claude/cy-canolradd-01.json` … `-40.json`, made from the same textbook). Reply in Czech.
