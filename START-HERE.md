@@ -1,6 +1,6 @@
 # Gorsaf Abercastell: START HERE (for any AI assistant or developer)
 
-State: **17 November 2026**. This file is tool-neutral: it does not assume Claude or any particular AI.
+State: **26 November 2026**. This file is tool-neutral: it does not assume Claude or any particular AI.
 `HANDOFF.md` is the long, binding history and rulebook. Read this file first, then `HANDOFF.md` §000 (English
 variant + sync), §2 (the user and the hard rules), §3–§7 (files, code map, audio, publishing).
 
@@ -18,9 +18,18 @@ Two apps are built from the same game:
 | Mnemo texts | Czech (`mnemo/decks/`) | British English (`mnemo/decks-en/`, from `mnemo/en-src/*.txt`) |
 | Android id / label | `cymru.gorsaf.abercastell` / Gorsaf Abercastell | `cymru.gorsaf.abercastell.en` / Gorsaf Abercastell EN |
 | Signing key | `apk/signing/gorsaf.jks` | `apk/signing-en/gorsaf-en.jks` (alias `gorsafen`, cert SHA-256 `89e9d208…e136c2`) |
-| Last version | 3.4, versionCode 16 (built locally) | **3.10-en, versionCode 7** (GitHub release) |
+| Last version | 3.4, versionCode 16 (built locally) | **3.13-en, versionCode 10** (GitHub release; next ≥ 11) |
 | Sync between devices | no | **yes** (phone, tablet, web) |
 | Where it runs | APK; claude.ai artifact | APK + web https://tvspk.github.io/gorsaf/ (+ a claude.ai artifact, without sync) |
+
+## 1a. Releases since 17 Nov 2026 (all English app, all in the shared game file)
+- **3.11-en (vc 8):** app version on the last line of the desk footnote (`#appver`; APK from `GorsafAndroid.version()`,
+  web from `window.GORSAF_WEB_VER`, written by `build_web.py` from `apk/verze-en.txt`).
+- **3.12-en (vc 9):** Lost property plays a short Web Audio chime (right) / thud (wrong), `sfx(ok)` in the game file.
+- **3.13-en (vc 10):** "Voice speed" button in the desk footnote (1 → 0.9 → 0.8 → 0.7), per device in
+  `localStorage['gorsaf-voice-rate']`, not synced, applied in `audPlay` to every Welsh recording.
+- The Czech app (3.4) and its claude.ai artifact do NOT have 3.12/3.13 yet: they get them with the next local Czech build.
+Details: HANDOFF §000 (end of the section).
 
 ## 2. Where everything is
 - **Code repository (public):** https://github.com/tvspk/gorsaf . Everything in this ZIP except the keys, the notes for
@@ -38,6 +47,12 @@ Two apps are built from the same game:
 - **Audio packs:** `gorsaf-audio-1.zip` (u1–u20: cases + newsletter), `-2.zip` (k1–k20: flashcards), `-3.zip`
   (m1–m20: Mnemo), 60 packs. Unzip into `game/audio-packs/`, run `python3 audio/unpack_packs.py` → 4208 loose clips in
   `game/audio/` (identical to `audio/*.mp3` in the repository). New recordings need the voice model (see HANDOFF §6.3).
+
+- **Vocabulary source (the 899 Mnemo cards):** made in a separate claude.ai project (Czech, data only, no code).
+  Its rules, textbook map and north/south table are copied to `docs/slovicka/` (see its README). The decks themselves
+  live here: `mnemo/decks/` (Czech, source of truth) and `mnemo/decks-en/` (English, from `mnemo/en-src/`).
+- **Handover ZIP from 17 Nov 2026 (`gorsaf-handoff-en-10.zip`) is still the one that carries the keys;** the keys have not
+  changed since. Everything else in it is older than this repository: take code and docs from GitHub.
 
 ## 3. Everyday work
 ```
@@ -76,7 +91,8 @@ the desk, quick upload on leaving the app, button "Sync now". Verified by the us
 - Bigger changes: propose options, let the user choose, then implement → test → release.
 - The repository is public: no personal data, no keys, tokens, codes.
 
-## 6. Open points (17 Nov 2026)
-- The new-version offer inside the app has not yet been seen on a phone (it appears within 20 h of a new release).
+## 6. Open points (26 Nov 2026)
+- The new-version offer inside the app has not been confirmed on a phone yet (it appears within 20 h of a new release;
+  3.11-en, 3.12-en and 3.13-en were all released on 26 Nov 2026).
 - Welsh "to check" cards (list in HANDOFF §000, EN-8). Any Welsh text change needs new audio.
 - Czech app: answer checking of headwords with a bracketed preposition is fixed only in the English app (HANDOFF §000).
