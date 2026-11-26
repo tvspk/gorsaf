@@ -14,4 +14,4 @@ memory hooks, a mock exam and recorded Welsh audio. This repository holds the **
 Welsh voices: Piper CY-EN, Bangor University (Uned Technolegau Iaith), CC BY 4.0. The Welsh text and pronunciation have
 not been checked by a native speaker.
 
-For development, see `CLAUDE.md` and `HANDOFF.md`.
+For development, see `START-HERE.md` (start here), `CLAUDE.md` and `HANDOFF.md`. The vocabulary project behind the Mnemo cards: `docs/slovicka/`.

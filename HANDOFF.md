@@ -2,7 +2,7 @@
 
 > **This file is the single binding source of truth.** It replaces every earlier version of HANDOFF.md and any older
 > notes. If a chat message, an old prompt or your own idea disagrees with this file, this file wins unless the user
-> says otherwise in the current chat. §000 updated 17 Nov 2026 (Chat EN-9: sync between devices, APK 3.8-en vc 5, repo tvspk/gorsaf; Chat EN-8: double review + fixes, APK 3.6-en vc 3, EN artifact; Chat EN-7: review fixes, 187 new hooks, EN icon, APK 3.5-en vc 2; before that Chat EN-6: EN line merged into 3.4, English APK 3.4-en vc 1, new key signing-en). §00 last updated 13 Nov 2026 (Chat E: counts checked, Mnemo audio recorded, packs m1–m20). Rest last updated: 12 Oct 2026 (audio for cases, newsletter and flashcards; card headwords = bare form only; main artifact version 15).
+> says otherwise in the current chat. §000 updated 26 Nov 2026 (3.11-en … 3.13-en, see the end of §000; Chat EN-9: sync between devices, APK 3.8-en vc 5, repo tvspk/gorsaf; Chat EN-8: double review + fixes, APK 3.6-en vc 3, EN artifact; Chat EN-7: review fixes, 187 new hooks, EN icon, APK 3.5-en vc 2; before that Chat EN-6: EN line merged into 3.4, English APK 3.4-en vc 1, new key signing-en). §00 last updated 13 Nov 2026 (Chat E: counts checked, Mnemo audio recorded, packs m1–m20). Rest last updated: 12 Oct 2026 (audio for cases, newsletter and flashcards; card headwords = bare form only; main artifact version 15).
 
 ## 000. ENGLISH MNEMO VARIANT: WORK IN PROGRESS (13 Nov 2026), READ THIS FIRST
 Goal: a variant of the game/app with **no Czech at all in Mnemo Hooks** (new British-English hooks, English meanings,
@@ -191,7 +191,7 @@ untouched (the original app keeps them). Reply in Czech.
     file (Czech game too, not rebuilt). Next English APK ≥ 11.
 ## 00. MNEMO HOOKS: WORK IN PROGRESS (13 Nov 2026), READ THIS FIRST
 The user is adding a section **Mnemo Hooks** to this game: the 899 Czech mnemonic word cards of the claude.ai project
-**"Mnemo Welsh"** (decks `claude/cy-canolradd-01.json` … `-40.json`, made from the same textbook). Reply in Czech.
+**"Mnemo Welsh"** (later renamed "Canolradd gORSAF"; decks `claude/cy-canolradd-01.json` … `-40.json`, made from the same textbook; its rules are copied to `docs/slovicka/`). Reply in Czech.
 
 **User decisions (13 Nov 2026):**
 - A Mnemo Hooks drawer **in every unit** (next to Y Drôr Cardiau) + **"Mnemo Hooks · všechna slovíčka"** at the end of the
@@ -348,9 +348,10 @@ for the Mnemo Welsh project unless the decks change).
 closes the Mnemo peek sheet. No change to the main save format.
 
 ## 0. STATE AT A GLANCE (read first)
-- **17 Nov 2026: START with `START-HERE.md`** (tool-neutral summary). Active line = English app **3.10-en (vc 7)** with sync,
-  built and released by GitHub Actions from https://github.com/tvspk/gorsaf ; web https://tvspk.github.io/gorsaf/ . Handover set:
-  gorsaf-handoff-en-10.zip (this tree without audio clips, with both keys) + gorsaf-audio-1/2/3.zip + gorsaf-en-3.10-en.apk.
+- **26 Nov 2026: START with `START-HERE.md`** (tool-neutral summary). Active line = English app **3.13-en (vc 10, next ≥ 11)**
+  with sync, built and released by GitHub Actions from https://github.com/tvspk/gorsaf ; web https://tvspk.github.io/gorsaf/ .
+  The repository is the handover for code, docs, decks and audio. Keys only in gorsaf-handoff-en-10.zip (17 Nov 2026, keys
+  unchanged since) and GitHub Secrets. Vocabulary-project rules: `docs/slovicka/`.
 - **Live game now (13 Nov 2026): https://claude.ai/artifact/AbSoWLbaanut3eBz7yNa51 (see §00 Chat F, H). APK 3.4 = versionCode 16 (Chat H); next ≥ 17.**
 - **Earlier state (23 Oct 2026):** the user moved to a NEW Claude account; the main game is now a new artifact
   https://claude.ai/artifact/GorZWPpARNxXuHBWHmfB7a (version 10 = old v21 + Welsh date on the home screen + headword 🔊 to the right of the word, see §9). Old account's artifacts (incl. the listening page) are not reachable here.
